@@ -12,7 +12,7 @@
 ## C
 
 ## D
-[Dual Process Ownership](../Dual Process Ownership.md)
+[Dual Process Ownership](../Dual_Process_Ownership.md)
 
 ## E
 
