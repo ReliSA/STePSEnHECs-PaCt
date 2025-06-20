@@ -44,12 +44,13 @@ The ideal seems to be an average team size of around four students, but may vary
  
 ## Example(s) / Known Use(s) (optional) 
 
- - [ASWI](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult) - The team size is set to two to five students, with the most common being four.
- - [TSP](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult) - Due to the course running for two semesters, the default team size is set a bit higher to three to seven members, with two-person teams being the (purely circumstantial) exception and the most frequent team size being again four students. 
- - [ES](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) - Depending on the number of students in a class group (around 25 students), team size is set to four or five students (in exceptional cases, six students) to have four or five teams of students.
- - [DS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=518806) - Class groups (of 20-26 students) are divided into four or five teams of 4-6 students of the same size.
+ - [Advanced Software Engineerng](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult) - The team size is set to two to five students, with the most common being four.
+ - [Team Software Project](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult) - Due to the course running for two semesters, the default team size is set a bit higher to three to seven members, with two-person teams being the (purely circumstantial) exception and the most frequent team size being again four students. 
+ - [Software Engineering](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) - Depending on the number of students in a class group (around 25 students), team size is set to four or five students (in exceptional cases, six students) to have four or five teams of students.
+ - [Large Scale Software Development](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=518806) - Class groups (of 20-26 students) are divided into four or five teams of 4-6 students of the same size.
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - Uses team size of 8-10 people.
-
+ - [Software Construction](https://www.fhnw.ch/plattformen/swc/) - Uses teams of maximum 3 students.
+ 
 ## Sources
 
 [[PIN'25]](../References.md)
