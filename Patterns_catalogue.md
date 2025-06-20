@@ -41,6 +41,7 @@
 ## R
 
 ## S
+[Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
 ## T
 [Time Size Limitation](catalogue/Team_Size_Limitation.md)
