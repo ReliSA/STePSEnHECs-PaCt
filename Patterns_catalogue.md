@@ -3,7 +3,7 @@
 
 [Template](catalogue/template.md) for new pattern contents.
 
-[Individual category pages](catalogue/categories.md)
+[Individual category pages](catalogue/categories/categories.md)
 
 ## 0-9
 
