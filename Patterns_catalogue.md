@@ -9,10 +9,12 @@
 ## B
 
 ## C
+[Customer’s Side Project](catalogue/Non-Essential_Project.md)
 
 ## D
 
 ## E
+[[Smaller Project Scope](catalogue/Smaller_Project_Scope.md)](catalogue/Team_Size_Limitation.md)
 
 ## F
 
@@ -32,6 +34,7 @@
 
 ## N
 [Non-Essential Project](catalogue/Non-Essential_Project.md)
+[Not Business Critical](catalogue/Non-Essential_Project.md)
 
 ## O
 
@@ -52,6 +55,7 @@
 ## V
 
 ## W
+[Work on the Non-Business-Critical](catalogue/Non-Essential_Project.md)
 
 ## X
 
