@@ -35,8 +35,6 @@ This can be achieved, in the case of an externally-proposed topic, by giving stu
 
 ## Consequences
 
-The resulting circumstances of the solution application, both beneficial (benefits, signalled with "(+)") and detrimental (liabilities, signalled with "(-)")
-
  - (+) Having projects that are smaller in scope helps students to maintain a sustainable pace, helping them remain aligned with Agile principles. The sustainable pace assists in students not scrambling to get things done at the last minute, which together with a reduced workload gives students the room to be intentional about their actions and really take in the reasons behind what they are doing in the course of their projects.
  - (+) Smaller projects are also more easily and accurately grasped mentally. This can spark creativity, when students are given a choice to come up with their own project topics, or help assess the topics assigned or up for selection.
  - (-) A Smaller Project Scope can backfire and steer students the wrong way, downplaying what they need to work on for the project and resulting in poorer time management, which in turn leads the team to work at an unsustainable pace.
@@ -49,7 +47,8 @@ The resulting circumstances of the solution application, both beneficial (benefi
 |[Team's Choice](Teams_Choice.md)|facilitated through fostering better informed choices and either creativity (coming up with own topic) or comprehenssion and complexity assessment (if topic given)|
 |[Non-Essential Project](Non-Essential_Project.md)|supported, as the customers rarely have proposals that are small enough for the courses, yet very important or business critical|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) (optional)
+
  - [ASWI](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult), [TSP](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult) - Customers are informed by the course staff prior to topic submissions on the estimated scope of the projects, taking into account the administrative overhead the students have to apply in the projects [Higher Ceremony](Higher_Ceremony.md). They are also encouraged to submit topics that can be easily scaled up or down based on the specific project context (i.e., the varying number of team members). The topics are subsequently screened by the course staff in this regard to the best of their ability. The mentors are also ready to assist the teams to resolve a situation where the fact that the topic is significantly more/less complex than originally estimated is discovered during the project's execution. 
  - [ES](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) - Teams are encouraged to keep their project topics simple with an easy-to-implement minimum viable product, with the option to grow in scope as the semester progresses and the team implements their initial view of the project.
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - Uses teams of 8-10 students with the expected 50 hours spent per student per semester.

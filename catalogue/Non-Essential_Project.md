@@ -30,8 +30,6 @@ Giving customers an opening to propose project topics that fall outside of their
 
 ## Consequences
 
-The resulting circumstances of the solution application, both beneficial (benefits, signalled with "(+)") and detrimental (liabilities, signalled with "(-)")
-
  - (+) Non-Essential Projects enable students and educators to be connected to outside organisations, while reducing any risks that come from the variable quality of student projects. These opportunities can help kickstart the students' future careers, as they come into the workforce with connections and a world-view that is closer to the practitioners' reality.
  - (+) If customers' expectation is lowered and not critically dependent on the projects' results, the room for disappointment shirks, yet there is still space to be pleasantly surprised.
  - (-) Companies may not be interested in proposing topics that are not useful for them; as they would be taking on the role of a customer, the availability required of them to be in meetings and work with the students may not be worth it for them.
@@ -45,7 +43,8 @@ The resulting circumstances of the solution application, both beneficial (benefi
 |[Shallow Feedback Loops](Shallow_Feedback_Loops.md)|partially caused by the students not having the access to at least a representative sample of end users, or the time to gain it due to non-essential nature and limited time span of the projects|
 
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) (optional)
+
  - [ASWI](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult), [TSP](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult), [DS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=518806) - When gathering topics for projects prior to their publishing to the student teams to for expressing interest, the customers are advised by the course staff to not submit any business critical topics, as the results as their quality cannot be properly guaranteed. This results in mostly nice-to-have applications, extensions, integrations, etc. being proposed by the external customers and supporting software for research projects larger in scope than individual thesis topics being submitted by internal customers.   
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - The project topics are often proposed by industry specialists but have limited significance and serve primarily for educational purposes.
 
