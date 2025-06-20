@@ -3,6 +3,8 @@
 
 [Template](catalogue/template.md) for new pattern contents.
 
+[Individual catogery pages](catalogue/categories.md)
+
 ## 0-9
 
 ## A
