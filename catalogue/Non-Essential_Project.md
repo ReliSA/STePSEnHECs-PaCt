@@ -8,7 +8,7 @@ Not Business Critical, Customer’s Side Project, Work on the Non-Business-Criti
 
 ## Context
 
-We are teaching up a (at least) semester-long, project-based software engineering course, where students are working together in teams.
+We are running or planning to establish a (at least) semester-long university course on software engineering with collaborative student projects and including some aspects or the entire process of agile development. The goal being to provide learning by experience of agile principles and practices as well as general project management skills. No prior knowledge or experience of the students in these domains is assumed.
 
 ## Problem
 

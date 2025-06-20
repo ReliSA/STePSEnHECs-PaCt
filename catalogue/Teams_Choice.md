@@ -9,6 +9,8 @@ Team Chooses Topic
 
 ## Context
 
+We are running or planning to establish a (at least) semester-long university course on software engineering with collaborative student projects and including some aspects or the entire process of agile development. The goal being to provide learning by experience of agile principles and practices as well as general project management skills. No prior knowledge or experience of the students in these domains is assumed.
+
 We have the students grouped into teams. We also have the curated list of feasible topics satisfying all the criteria for the projects.
 
 ## Problem
