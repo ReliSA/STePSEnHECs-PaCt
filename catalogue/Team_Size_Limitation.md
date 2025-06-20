@@ -17,8 +17,6 @@ How to best set up the student team size to maximize product and educational eff
 
 ## Forces
 
-The forces causing or complicating the problem that need to be balanced by the solution
-
  - Bigger teams are harder to manage, especially for the inexperienced students, who are either learning or just learned (theoretically) the project management skills.
  - Bigger teams leave open the risk of some members coasting or hiding their minimal contributions.
  - On the other hand, a team that's too small (and thus, its capacity) reduces the space they have in the project to properly experience and learn project management practices.
@@ -30,10 +28,7 @@ The forces causing or complicating the problem that need to be balanced by the s
 
 The ideal seems to be an average team size of around four students, but may vary on the course parameters.
 
-
 ## Consequences
-
-The resulting circumstances of the solution application, both beneficial (benefits, signalled with +) and detrimental (liabilities, signalled with -)
 
  - (+) Team is still manageable in size for novices while providing ample space to experience and learn project management practices.
  - (+) The flexible team size and teacher's final say in forming them (see [Self Assembling Teams](Self_Assembling_Teams.md)) negates the possibility of individual students being left out of the teams.
