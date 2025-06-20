@@ -45,6 +45,7 @@
 ## R
 
 ## S
+[Self-Assembling Teams](catalogue/Self-Assembling_Teams.md)
 [Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
 ## T
