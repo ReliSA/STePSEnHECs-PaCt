@@ -1,7 +1,7 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Pattern template
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Team Size Limitation
 
 
-# The Pattern Name
+# Team Size Limitation
 
 ## Also Known As
 
