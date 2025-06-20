@@ -14,7 +14,7 @@
 ## D
 
 ## E
-[[Smaller Project Scope](catalogue/Smaller_Project_Scope.md)](catalogue/Team_Size_Limitation.md)
+[Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
 
 ## F
 
