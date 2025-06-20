@@ -48,7 +48,11 @@ The resulting circumstances of the solution application, both beneficial (benefi
  
 ## Example(s) / Known Use(s) (optional) 
 
-How the pattern has occurred in real world, may include diagrams and illustrations.
+How the pattern has occurred in real world.
+
+ - first example
+ - second example
+ - ...
 
 ## Notes (optional) 
 
