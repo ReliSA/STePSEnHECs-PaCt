@@ -34,6 +34,7 @@
 
 ## N
 [Non-Essential Project](catalogue/Non-Essential_Project.md)
+
 [Not Business Critical](catalogue/Non-Essential_Project.md)
 
 ## O
@@ -46,6 +47,7 @@
 
 ## S
 [Self-Assembling Teams](catalogue/Self-Assembling_Teams.md)
+
 [Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
 ## T
