@@ -51,6 +51,10 @@
 [Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
 ## T
+[Team Chooses Topic](catalogue/Teams_Choice.md)
+
+[Team's Choice](catalogue/Teams_Choice.md)
+
 [Time Size Limitation](catalogue/Team_Size_Limitation.md)
 
 ## U
