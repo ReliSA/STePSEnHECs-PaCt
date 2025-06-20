@@ -1,6 +1,6 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Shallow Feedback Loop
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Shallow Feedback Loops
 
-# Shallow Feedback Loop (Draft)
+# Shallow Feedback Loops (Draft)
 
 ## Also Known As
 

@@ -3,6 +3,7 @@
 
 [Template](catalogue/template.md) for new pattern contents.
 
+## 0-9
 
 ## A
 
@@ -67,7 +68,7 @@
 
 [Self-Defined Policies](catalogue/Self-Defined_Policies.md)
 
-[Shallow Feedback Loop](catalogue/Shallow_Feedback_Loop.md)
+[Shallow Feedback Loops](catalogue/Shallow_Feedback_Loops.md)
 
 [Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
