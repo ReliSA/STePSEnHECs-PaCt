@@ -31,6 +31,7 @@
 ## M
 
 ## N
+[Non-Essential Project](catalogue/Non-Essential_Project.md)
 
 ## O
 
