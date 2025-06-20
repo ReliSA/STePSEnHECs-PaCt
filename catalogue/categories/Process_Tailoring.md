@@ -1,7 +1,7 @@
 [Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Process Tailoring
 # Category: Process Tailoring
 
-[Template](catalogue/template.md) for new pattern contents.
+[Template](../template.md) for new pattern contents.
 
 ## 0-9
 
@@ -12,7 +12,7 @@
 ## C
 
 ## D
-[Dual Process Ownership](catalogue/Dual Process Ownership.md)
+[Dual Process Ownership](../Dual Process Ownership.md)
 
 ## E
 
@@ -33,7 +33,7 @@
 ## M
 
 ## N
-[Non-Daily Scrum](catalogue/Non-Daily_Scrum.md)
+[Non-Daily Scrum](../Non-Daily_Scrum.md)
 
 ## O
 
@@ -44,9 +44,9 @@
 ## R
 
 ## S
-[Self-Defined Policies](catalogue/Self-Defined_Policies.md)
+[Self-Defined Policies](../Self-Defined_Policies.md)
 
-[Shallow Feedback Loops](catalogue/Shallow_Feedback_Loops.md)
+[Shallow Feedback Loops](../Shallow_Feedback_Loops.md)
 
 ## T
 

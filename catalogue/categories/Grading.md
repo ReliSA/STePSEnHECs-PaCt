@@ -1,7 +1,7 @@
 [Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Grading
 # Category: Grading
 
-[Template](catalogue/template.md) for new pattern contents.
+[Template](../template.md) for new pattern contents.
 
 ## 0-9
 
@@ -32,12 +32,12 @@
 ## M
 
 ## N
-[Not All Iterations Are Equal](catalogue/Not_All_Iterations_Are_Equal.md)
+[Not All Iterations Are Equal](../Not_All_Iterations_Are_Equal.md)
 
 ## O
 
 ## P
-[Process-Focused Evaluation](catalogue/Process-Focused_Evaluation.md)
+[Process-Focused Evaluation](../Process-Focused_Evaluation.md)
 
 ## Q
 
@@ -46,7 +46,7 @@
 ## S
 
 ## T
-[The Mentor-Assessor Role](catalogue/The_Mentor-Assessor_Role.md)
+[The Mentor-Assessor Role](../The_Mentor-Assessor_Role.md)
 
 ## U
 

@@ -1,7 +1,7 @@
 [Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Team and Project Setup
 # Category: Team and Project Setup
 
-[Template](catalogue/template.md) for new pattern contents.
+[Template](../template.md) for new pattern contents.
 
 ## 0-9
 
@@ -10,12 +10,12 @@
 ## B
 
 ## C
-[Customer’s Side Project](catalogue/Non-Essential_Project.md)
+[Customer’s Side Project](../Non-Essential_Project.md)
 
 ## D
 
 ## E
-[Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
+[Enough Cooks in the Kitchen](../Team_Size_Limitation.md)
 
 ## F
 
@@ -34,9 +34,9 @@
 ## M
 
 ## N
-[Non-Essential Project](catalogue/Non-Essential_Project.md)
+[Non-Essential Project](../Non-Essential_Project.md)
 
-[Not Business Critical](catalogue/Non-Essential_Project.md)
+[Not Business Critical](../Non-Essential_Project.md)
 
 ## O
 
@@ -47,23 +47,23 @@
 ## R
 
 ## S
-[Self-Assembling Teams](catalogue/Self-Assembling_Teams.md)
+[Self-Assembling Teams](../Self-Assembling_Teams.md)
 
-[Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
+[Smaller Project Scope](../Smaller_Project_Scope.md)
 
 ## T
-[Team Chooses Topic](catalogue/Teams_Choice.md)
+[Team Chooses Topic](../Teams_Choice.md)
 
-[Team's Choice](catalogue/Teams_Choice.md)
+[Team's Choice](../Teams_Choice.md)
 
-[Time Size Limitation](catalogue/Team_Size_Limitation.md)
+[Time Size Limitation](../Team_Size_Limitation.md)
 
 ## U
 
 ## V
 
 ## W
-[Work on the Non-Business-Critical](catalogue/Non-Essential_Project.md)
+[Work on the Non-Business-Critical](../Non-Essential_Project.md)
 
 ## X
 

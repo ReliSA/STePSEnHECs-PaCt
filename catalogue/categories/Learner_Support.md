@@ -1,7 +1,7 @@
 [Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Learner Support
 # Category: Learner Support
 
-[Template](catalogue/template.md) for new pattern contents.
+[Template](../template.md) for new pattern contents.
 
 ## 0-9
 
@@ -12,17 +12,17 @@
 ## C
 
 ## D
-[Disproportional Initial Stage](catalogue/Disproportional_Initial_Stage.md)
+[Disproportional Initial Stage](../Disproportional_Initial_Stage.md)
 
 ## E
 
 ## F
-[Full Product Backlog from Day One](catalogue/Full_Product_Backlog_from_Day_One.md)
+[Full Product Backlog from Day One](../Full_Product_Backlog_from_Day_One.md)
 
 ## G
 
 ## H
-[Higher Ceremony](catalogue/Higher_Ceremony.md)
+[Higher Ceremony](../Higher_Ceremony.md)
 
 ## I
 
@@ -45,7 +45,7 @@
 ## R
 
 ## S
-[Strictly Time-Boxed Team Ceremonies](catalogue/Strictly_Time-Boxed_Team_Ceremonies.md)
+[Strictly Time-Boxed Team Ceremonies](../Strictly_Time-Boxed_Team_Ceremonies.md)
 
 ## T
 
