@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Dual Process Ownership
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Process Tailoring](categories/Process_Tailoringt.md) > Dual Process Ownership
 
 # Dual Process Ownership (Draft)
 

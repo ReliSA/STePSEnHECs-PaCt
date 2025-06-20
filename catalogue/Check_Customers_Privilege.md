@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Check Customer's Privilege
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Transparency and Guidance](categories/Transparency_and_Guidance.md) > Check Customer's Privilege
 
 # Check Customer's Privilege (Draft)
 

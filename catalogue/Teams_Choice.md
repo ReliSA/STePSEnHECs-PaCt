@@ -1,5 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Team's Choice
-
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Team and Project Setup](categories/Team_and_Project_Setup.md) > Team's Choice
 
 # Team's Choice
 

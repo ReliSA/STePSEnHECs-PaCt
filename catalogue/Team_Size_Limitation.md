@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Team Size Limitation
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Team and Project Setup](categories/Team_and_Project_Setup.md) > Team Size Limitation
 
 
 # Team Size Limitation

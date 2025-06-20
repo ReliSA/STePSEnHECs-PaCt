@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Strictly Time-Boxed Team Ceremonies
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Learner Support](categories/Learner_Support.md) > Strictly Time-Boxed Team Ceremonies
 
 # Strictly Time-Boxed Team Ceremonies (Draft)
 

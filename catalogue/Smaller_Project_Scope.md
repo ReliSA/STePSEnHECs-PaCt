@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Smaller Project Scope
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Team and Project Setup](categories/Team_and_Project_Setup.md) > Smaller Project Scope
 
 # Smaller Project Scope
 

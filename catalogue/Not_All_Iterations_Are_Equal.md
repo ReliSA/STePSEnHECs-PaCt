@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Not All Iterations Are Equal
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Grading](categories/Grading.md) > Not All Iterations Are Equal
 
 # Not All Iterations Are Equal (Draft)
 

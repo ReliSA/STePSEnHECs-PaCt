@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Early Meetings Crutch
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Transparency and Guidance](categories/Transparency_and_Guidance.md) > Early Meetings Crutch
 
 # Early Meetings Crutch (Draft)
 

@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Higher Ceremony
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Learner Support](categories/Learner_Support.md) > Higher Ceremony
 
 # Higher Ceremony (Draft)
 

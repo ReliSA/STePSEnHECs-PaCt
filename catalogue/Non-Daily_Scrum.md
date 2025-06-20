@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Non-Daily Scrum
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Process Tailoring](categories/Process_Tailoringt.md) > Non-Daily Scrum
 
 # Non-Daily_Scrum (Draft)
 

@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Self-Defined Policies
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Process Tailoring](categories/Process_Tailoringt.md) > Self-Defined Policies
 
 # Self-Defined Policies (Draft)
 
