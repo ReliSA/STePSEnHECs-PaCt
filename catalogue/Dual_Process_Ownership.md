@@ -1,0 +1,30 @@
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Dual Process Ownership
+
+# Dual Process Ownership (Draft)
+
+## Also Known As
+
+## Context
+
+## Problem
+
+Students do not have enough experience to take on the Scrum Master (or equivalent) role fully, because it is a large part of what they are learning in the course itself.
+
+## Forces
+
+## Solution
+
+**Use a mentor, an experienced staff member, as a crutch to help oversee, tailor and adhere to the team’s process. Simultaneously, have an internal process owner (an individual or the whole team, their choice), as the mentor cannot be present all the time.**
+
+## Consequences
+
+## Related Patterns
+
+|Pattern  | Relation |
+|--|--|
+ 
+## Example(s) / Known Use(s) (optional) 
+
+## Sources
+
+[[PIN'25]](../References.md)
