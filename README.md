@@ -7,6 +7,10 @@ We started this catalogue to collect and consolidate the knowledge on teaching (
 
 The catalogue proper, including [the template](catalogue/template.md) used in pattern description.
 
+## [Category pages](catalogue/categories/categories.md)
+
+Lists patterns by a selected category.
+
 ## [References](References.md)
 
 Literature and online sources used to gather the patterns.
