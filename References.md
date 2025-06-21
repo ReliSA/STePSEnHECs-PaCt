@@ -18,3 +18,5 @@ _(Ordered alphabetically by the key.)_
 [TUC'77] Tuckman, Bruce W and Jensen, Mary Ann C.. "Stages of Small-Group Development Revisited". In Group & Organization Studies. SAGE Publications Inc., 1977. Vol. 2, issue 4, pages 419-427.
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
+
+[KIR'06] Kirschner, Paul A., Sweller, John, and Clark, Richard E.. "Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching." In Educational psychologist. 2006. Vol. 41, issue 2, pages 75-86.
