@@ -36,7 +36,7 @@ the numbers:**
  - (+) Working with a tool stack gives you insights in the progress of the team you guide, even if you are not there in person.
  - (-) If students become too focused on becoming number one
 in the charts they put the cart before the horse. Then Goodhart’s becomes true: "When a measure becomes a target, it
-ceases to be a good measure" [3].
+ceases to be a good measure" [[HOS'96]](../References.md).
 
 ## Related Patterns
 
