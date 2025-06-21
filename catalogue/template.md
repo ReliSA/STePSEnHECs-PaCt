@@ -7,6 +7,10 @@
 
 Other names of this pattern, separated by comma, or "n/a".
 
+## Category
+
+[Category name](categories/Category_file.md)
+
 ## Context
 
 A situation and circumstances in which the pattern is applied.
@@ -25,7 +29,7 @@ The forces causing or complicating the problem that need to be balanced by the s
 
 ## Solution
 
-The resolution to the pattern's problem, balancing the forces (a succinct statement in bold, followed by deeper explanation).
+The resolution to the pattern's problem, balancing the forces.
 
 ## Implementation (optional) 
 
@@ -46,7 +50,7 @@ The resulting circumstances of the solution application, both beneficial (benefi
 | related pattern with link (if already in catalogue) one per row (if none, replace table with "n/a", leave section heading) | relation description |
 
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 How the pattern has occurred in real world.
 
