@@ -55,6 +55,6 @@ The ideal seems to be an average team size of around four students, but may vary
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - Uses team size of 8-10 people.
  - [Software Construction](https://www.fhnw.ch/plattformen/swc/) - Uses teams of maximum 3 students.
  
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

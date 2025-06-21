@@ -27,6 +27,6 @@ New teams formed by students struggle to balance preparation and execution when 
  
 ## Example(s) / Known Use(s)
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

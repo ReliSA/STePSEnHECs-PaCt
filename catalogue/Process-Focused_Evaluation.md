@@ -27,6 +27,6 @@ Students are meant to learn the practices, processes, tools and management of th
  
 ## Example(s) / Known Use(s) 
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

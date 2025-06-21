@@ -27,6 +27,7 @@ Both guiding the team and grading their performance requires deep insight into t
  
 ## Example(s) / Known Use(s)
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)
+

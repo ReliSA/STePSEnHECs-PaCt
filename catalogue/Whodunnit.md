@@ -46,7 +46,7 @@ ceases to be a good measure" [[HOS'96]](../References.md).
 
 ## Example(s) / Known Use(s)
 
-## Sources
+## [Sources](../References.md)
 
-[[JAC'24]](../References.md)
+[[JAC'24]](publications/jac24/jac24.md)
 

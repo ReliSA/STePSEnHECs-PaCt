@@ -69,6 +69,6 @@ Figure 1: The teacher's preparation for grading
 
 Figure 2: Deciding on the grades
 
-## Sources
+## [Sources](../References.md)
 
-[[JAC'24]](../References.md)
+[[JAC'24]](publications/jac24/jac24.md)

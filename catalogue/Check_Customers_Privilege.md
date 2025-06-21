@@ -27,6 +27,6 @@ Customers, especially those from industrial IT settings, have a tendency to “t
  
 ## Example(s) / Known Use(s) 
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

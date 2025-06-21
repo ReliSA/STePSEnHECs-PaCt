@@ -27,6 +27,6 @@ Rigid detailed policies on everything (code, notations, roles, tools, planning s
  
 ## Example(s) / Known Use(s) 
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

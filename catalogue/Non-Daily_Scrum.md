@@ -27,6 +27,6 @@ Daily stand-ups can be impractical due to time constraints or conflicting schedu
  
 ## Example(s) / Known Use(s) 
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

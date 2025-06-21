@@ -53,7 +53,7 @@ LEARNING OUTCOME- Implement and evaluate the design of a distributed, algorithmi
 
 Table 1: Example of some facts from a fact sheet for an embedded software project
 
-## Sources
+## [Sources](../References.md)
 
-[[JAC'24]](../References.md)
+[[JAC'24]](publications/jac24/jac24.md)
 

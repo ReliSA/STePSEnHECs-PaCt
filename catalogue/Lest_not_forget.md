@@ -44,7 +44,8 @@ The solution shows that producing excessive notes after your visits to the proje
  
 ## Example(s) / Known Use(s)
 
-## Sources
+## [Sources](../References.md)
 
-[[JAC'24]](../References.md)
+[[JAC'24]](publications/jac24/jac24.md)
+
 

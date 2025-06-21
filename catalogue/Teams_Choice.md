@@ -66,6 +66,6 @@ An obvious final option is the course allowing for any mixture of all of the abo
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - The project teams pick a topic proposed by industry specialists or they define the project topic themselves, while project's difficulty is assessed by and instructor to remain consistent across teams. Project topics are not imposed, as this would decrease motivation for implementing the project.
  - Sytem Engineering - Students are free to choose their own topic.
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

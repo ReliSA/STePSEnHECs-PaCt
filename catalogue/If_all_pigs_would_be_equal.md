@@ -48,6 +48,6 @@ This solution consists of guidelines which should be adapted throughout the whol
  
 ## Example(s) / Known Use(s) (optional) 
 
-## Sources
+## [Sources](../References.md)
 
-[[JAC'24]](../References.md)
+[[JAC'24]](publications/jac24/jac24.md)

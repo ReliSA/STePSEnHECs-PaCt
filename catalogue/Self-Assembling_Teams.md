@@ -57,6 +57,6 @@ Make them aware of any criteria that need to be met and give them a near enough 
  - [Software Construction](https://www.fhnw.ch/plattformen/swc/) - Uses an online sign-up sheet for students to form teams.
  - System Engineering course - Students are free to form the teams on their own.
  
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

@@ -27,6 +27,6 @@ The team may be lost in terms of what to work on first at the point they do thei
  
 ## Example(s) / Known Use(s)
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

@@ -27,6 +27,6 @@ Students do not have enough experience to take on the Scrum Master (or equivalen
  
 ## Example(s) / Known Use(s)
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

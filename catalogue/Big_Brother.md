@@ -27,6 +27,6 @@ To get the full picture for evaluation and insight for mentoring, mentor/assesso
  
 ## Example(s) / Known Use(s) 
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

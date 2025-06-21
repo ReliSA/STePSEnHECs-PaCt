@@ -27,6 +27,6 @@ Students might be more receptive to advice/experience of their peers, rather tha
  
 ## Example(s) / Known Use(s) 
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

@@ -54,6 +54,6 @@ This can be achieved, in the case of an externally-proposed topic, by giving stu
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - Uses teams of 8-10 students with the expected 50 hours spent per student per semester.
  - [Software Construction](https://www.fhnw.ch/plattformen/swc/) - Teams of 3 students work on a small, approx. 4K LOC, application.
  
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)

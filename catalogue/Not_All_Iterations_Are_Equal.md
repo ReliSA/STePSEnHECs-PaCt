@@ -27,6 +27,6 @@ There is a learning curve at the start of the project and some necessary ceremon
  
 ## Example(s) / Known Use(s)
 
-## Sources
+## [Sources](../References.md)
 
-[[PIN'25]](../References.md)
+[[PIN'25]](publications/pin25/pin25.md)
