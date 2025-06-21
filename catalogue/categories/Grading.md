@@ -46,6 +46,8 @@
 ## S
 
 ## T
+[The basis pattern: If all pigs would be equal...](../If_all_pigs_would_be_equal.md)
+
 [The Mentor-Assessor Role](../The_Mentor-Assessor_Role.md)
 
 ## U
