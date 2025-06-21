@@ -1,8 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Grading](categories/Grading.md) >  Face their facts - Student’s accountability
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Face their facts - Student’s accountability
 
 #  Face their facts - Student’s accountability
 
-## Category
+## [Category](categories/categories.md)
 
 [Grading](categories/Grading.md)
 

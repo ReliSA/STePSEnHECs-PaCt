@@ -1,8 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Grading](categories/Grading.md) > The basis pattern If all pigs would be equal...
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > The basis pattern If all pigs would be equal...
 
 # The basis pattern: If all pigs would be equal...
 
-## Category
+## [Category](categories/categories.md)
 
 [Grading](categories/Grading.md)
 

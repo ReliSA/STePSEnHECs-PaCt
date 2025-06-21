@@ -1,10 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Grading](categories/Grading.md) > The Mentor-Assessor Role
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > The Mentor-Assessor Role
 
 # The Mentor-Assessor Role (Draft)
 
-## Also Known As
-
-## Category
+## [Category](categories/categories.md)
 
 [Grading](categories/Grading.md)
 

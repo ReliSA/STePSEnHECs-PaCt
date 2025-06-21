@@ -1,10 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Transparency and Guidance](categories/Transparency_and_Guidance.md) > Big Brother
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Big Brother
 
 # Big Brother (Draft)
 
-## Also Known As
-
-## Category
+## [Category](categories/categories.md)
 
 [Transparency and Guidance](categories/Transparency_and_Guidance.md)
 

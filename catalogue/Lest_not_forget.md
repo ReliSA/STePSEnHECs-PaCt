@@ -1,8 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Grading](categories/Grading.md) >  Lest not forget - Collecting observations
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Lest not forget - Collecting observations
 
 #  Lest not forget - Collecting observations
 
-## Category
+## [Category](categories/categories.md)
 
 [Grading](categories/Grading.md)
 

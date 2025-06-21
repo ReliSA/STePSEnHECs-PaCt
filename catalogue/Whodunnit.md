@@ -1,8 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Grading](categories/Grading.md) >  Whodunnit? - Using metrics in a fair way
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Whodunnit? - Using metrics in a fair way
 
 #  Whodunnit? - Using metrics in a fair way
 
-## Category
+## [Category](categories/categories.md)
 
 [Grading](categories/Grading.md)
 

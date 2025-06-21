@@ -7,7 +7,7 @@
 
 Other names of this pattern, separated by comma, if exist.
 
-## Category
+## [Category](categories/categories.md)
 
 [Category name](categories/Category_file.md)
 

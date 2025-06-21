@@ -1,10 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Learner Support](categories/Learner_Support.md) > Disproportional Initial Stage
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Disproportional Initial Stage
 
 # Disproportional Initial Stage (Draft)
 
-## Also Known As
-
-## Category
+## [Category](categories/categories.md)
 
 [Learner Support](categories/Learner_Support.md)
 

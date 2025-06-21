@@ -1,8 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Grading](categories/Grading.md) > 2+2 makes four eyes- Grading individuals is teamwork
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > 2+2 makes four eyes- Grading individuals is teamwork
 
 # 2+2 makes four eyes - Grading individuals is teamwork
 
-## Category
+## [Category](categories/categories.md)
 
 [Grading](categories/Grading.md)
 

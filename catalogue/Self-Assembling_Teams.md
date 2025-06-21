@@ -1,8 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Team and Project Setup](categories/Team_and_Project_Setup.md) > Self-Assembling Teams
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Self-Assembling Teams
 
 # Self-Assembling Teams
 
-## Category
+## [Category](categories/categories.md)
 
 [Team and Project Setup](categories/Team_and_Project_Setup.md)
 

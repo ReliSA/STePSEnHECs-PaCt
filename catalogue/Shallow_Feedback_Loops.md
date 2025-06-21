@@ -1,10 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Process Tailoring](categories/Process_Tailoringt.md) > Shallow Feedback Loops
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Shallow Feedback Loops
 
 # Shallow Feedback Loops (Draft)
 
-## Also Known As
-
-## Category
+## [Category](categories/categories.md)
 
 [Process Tailoring](categories/Process_Tailoring.md)
 

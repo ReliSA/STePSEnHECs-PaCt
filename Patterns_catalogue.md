@@ -3,8 +3,10 @@
 
 [Template](catalogue/template.md) for new pattern contents.
 
-[Individual category pages](catalogue/categories/categories.md)
-
+Browse
+ - [by category](catalogue/categories/categories.md),
+ - all alphabtically below.
+ 
 ## 0-9
 [2+2 makes four eyes- Grading individuals is teamwork](../2_2_makes_four_eyes.md)
 
@@ -31,7 +33,7 @@
 [Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
 
 ## F
-[Face their facts - Student’s accountability](catalogue/Face_their_facts.md)
+[Face their facts - Studentï¿½s accountability](catalogue/Face_their_facts.md)
 
 [Full Product Backlog from Day One](catalogue/Full_Product_Backlog_from_Day_One.md)
 

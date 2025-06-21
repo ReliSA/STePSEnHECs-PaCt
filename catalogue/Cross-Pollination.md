@@ -1,10 +1,8 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > [Categories](categories/categories.md) > [Transparency and Guidance](categories/Transparency_and_Guidance.md) > Cross-Pollination
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Cross-Pollination
 
 # Cross-Pollination (Draft)
 
-## Also Known As
-
-## Category
+## [Category](categories/categories.md)
 
 [Transparency and Guidance](categories/Transparency_and_Guidance.md)
 
