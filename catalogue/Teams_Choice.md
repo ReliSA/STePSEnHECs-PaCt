@@ -6,6 +6,10 @@
 
 Team Chooses Topic
 
+## Category
+
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
 We are running or planning to establish a (at least) semester-long university course on software engineering with collaborative student projects and including some aspects or the entire process of agile development. The goal being to provide learning by experience of agile principles and practices as well as general project management skills. No prior knowledge or experience of the students in these domains is assumed.
@@ -55,7 +59,7 @@ An obvious final option is the course allowing for any mixture of all of the abo
 |[Self-Assembling Teams](Self-Assembling_Teams.md)|facilitates, as students will have a stronger familiarity and team identity that can lead to a more confident and appropriate topic choice|
 |[Non-Essential Project](Non-Essential_Project.md)|precedes|
  
-## Example(s) / Known Use(s) (optional)
+## Example(s) / Known Use(s)
 
  - [Advanced Software Engineerng](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult), [Team Software Project](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult) - A "call for topics" is sent out to both the industrial partners and internal organizational units of the university by the course staff well in advance (i.e., before the semester in which the course is taught starts). The gathered topics are screened for complexity, estimated scope [Smaller Project Scope](Smaller_Project_Scope.md), educational value, technology, business criticality [Non-Essential Project](Non-Essential_Project.md), etc. The students are also allowed to bring their own topic proposals, but a customer from outside the team needs to be defined. The resulting set is published to the students and the teams can express their preferences. The staff then assigns the projects mainly on these, outside of collisions in preferences or a stark mismatch of the topic and team's profile (technology experience, etc.). 
  - [Software Engineering](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) - The course’s teachers select a common, broad theme for the project topics. In previous years, student apps have been related to student life, and more recently to the [UN’s Sustainable Development Goals](https://sdgs.un.org/goals). Students then choose a specific topic within these broader themes and receive feedback from their teachers throughout the process.

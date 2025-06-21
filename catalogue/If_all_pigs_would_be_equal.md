@@ -2,6 +2,10 @@
 
 # The basis pattern: If all pigs would be equal...
 
+## Category
+
+[Grading](categories/Grading.md)
+
 ## Context
 
 Grading project work is a difficult process, and grading individuals within teams is even more complicated. Although much group work is involved in their studies, students have to prove that the are up for the task individually. This means that the teachers must grade them individually. As soon as the students have handed in their work, the teachers start grading. As the nature of their work depends on the assignment and the process the group and the individuals went through, a check model with the right answers is not available. There is lots of work to do, and time is limited, so the teacher withdraws to a quiet place and sets off to get through the pile in an optimistic mood. They are planning to get the job done swiftly, but they know at any moment they will get disappointed, and will start doubting "what did I do wrong that they delivered this!?".

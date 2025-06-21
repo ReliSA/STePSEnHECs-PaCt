@@ -3,9 +3,9 @@
 
 # The Pattern Name
 
-## Also Known As
+## Also Known As (optional)
 
-Other names of this pattern, separated by comma, or "n/a".
+Other names of this pattern, separated by comma, if exist.
 
 ## Category
 

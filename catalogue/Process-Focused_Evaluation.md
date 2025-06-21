@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Grading](categories/Grading.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ Students are meant to learn the practices, processes, tools and management of th
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) 
 
 ## Sources
 

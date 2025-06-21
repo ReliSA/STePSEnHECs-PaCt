@@ -7,6 +7,10 @@
 
 Enough Cooks in the Kitchen
 
+## Category
+
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
 We are running or planning to establish a (at least) semester-long university course on software engineering with collaborative student projects and including some aspects or the entire process of agile development. The goal being to provide learning by experience of agile principles and practices as well as general project management skills. No prior knowledge or experience of the students in these domains is assumed.
@@ -42,7 +46,7 @@ The ideal seems to be an average team size of around four students, but may vary
 |[Smaller Project Scope](Smaller_Project_Scope.md)|is contributed to as the team's limited size leads to its reduced capacity to work on the project|
 
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) 
 
  - [Advanced Software Engineerng](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult) - The team size is set to two to five students, with the most common being four.
  - [Team Software Project](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult) - Due to the course running for two semesters, the default team size is set a bit higher to three to seven members, with two-person teams being the (purely circumstantial) exception and the most frequent team size being again four students. 

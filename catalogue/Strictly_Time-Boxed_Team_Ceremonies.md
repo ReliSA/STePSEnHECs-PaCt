@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Learner Support](categories/Learner_Support.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ People without restraint wonder off in conversation from the topic at hand wasti
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 ## Sources
 

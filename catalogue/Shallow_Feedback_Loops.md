@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Process Tailoring](categories/Process_Tailoring.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ When a project does not focus on a customer’s eminent needs, the team might no
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) 
 
 ## Sources
 

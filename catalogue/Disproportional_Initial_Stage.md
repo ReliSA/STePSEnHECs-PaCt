@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Learner Support](categories/Learner_Support.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ New teams formed by students struggle to balance preparation and execution when 
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 ## Sources
 

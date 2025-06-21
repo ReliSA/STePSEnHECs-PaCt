@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ Some good practices are hard to explain and are best learned about hands on.
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) 
 
 ## Sources
 

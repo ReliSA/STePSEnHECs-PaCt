@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ Customers, especially those from industrial IT settings, have a tendency to “t
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) 
 
 ## Sources
 

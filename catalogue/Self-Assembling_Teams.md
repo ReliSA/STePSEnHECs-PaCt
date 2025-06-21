@@ -2,6 +2,10 @@
 
 # Self-Assembling Teams
 
+## Category
+
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
 We are running or planning to establish a (at least) semester-long university course on software engineering with collaborative student projects and including some aspects or the entire process of agile development. The goal being to provide learning by experience of agile principles and practices as well as general project management skills. No prior knowledge or experience of the students in these domains is assumed.
@@ -44,7 +48,7 @@ Make them aware of any criteria that need to be met and give them a near enough 
 |[Team's Choice](Teams_Choice.md)|influenced as all team members need to sign-off on the collective decision|
 
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) 
 
  - [Advanced Software Engineerng](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult) - Students are told to form the teams of the expected size on their own at the very beginning of the term and given at most two weeks to do so. As part of their registration they also assign the team lead (or at least a contact person), express their preferences for project topics (see [Team's Choice](Teams_Choice.md)) and provide their team profile in regards experience with different technologies. The course staff vet the team registrations and make any changes as necessary. Any students unassigned to any team by the deadline (if any) are either assigned to as existing team or grouped together to new teams. Either is done based on the target team size, technical experience compatibility, preferred topics and other criteria.
  - [Team Software Project](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult) - The process is broadly similar to the one used in ASWI. Only it starts several months before the term starts and it is supported by a custom web application for team registrations and searching for teammates. If the team is at least partially enrolled in both courses, TSP version is followed.

@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Process Tailoring](categories/Process_Tailoring.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ Daily stand-ups can be impractical due to time constraints or conflicting schedu
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s) 
 
 ## Sources
 

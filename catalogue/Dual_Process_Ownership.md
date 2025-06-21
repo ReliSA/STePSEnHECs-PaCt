@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Process Tailoring](categories/Process_Tailoring.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ Students do not have enough experience to take on the Scrum Master (or equivalen
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 ## Sources
 

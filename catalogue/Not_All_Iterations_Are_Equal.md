@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Grading](categories/Grading.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ There is a learning curve at the start of the project and some necessary ceremon
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 ## Sources
 

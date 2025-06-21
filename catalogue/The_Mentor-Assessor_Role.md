@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Grading](categories/Grading.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ Both guiding the team and grading their performance requires deep insight into t
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 ## Sources
 

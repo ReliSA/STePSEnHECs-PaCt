@@ -6,6 +6,10 @@
 
 Not Business Critical, Customer’s Side Project, Work on the Non-Business-Critical
 
+## Category
+
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
 We are running or planning to establish a (at least) semester-long university course on software engineering with collaborative student projects and including some aspects or the entire process of agile development. The goal being to provide learning by experience of agile principles and practices as well as general project management skills. No prior knowledge or experience of the students in these domains is assumed.
@@ -43,7 +47,7 @@ Giving customers an opening to propose project topics that fall outside of their
 |[Shallow Feedback Loops](Shallow_Feedback_Loops.md)|partially caused by the students not having the access to at least a representative sample of end users, or the time to gain it due to non-essential nature and limited time span of the projects|
 
  
-## Example(s) / Known Use(s) (optional)
+## Example(s) / Known Use(s)
 
  - [Advanced Software Engineerng](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTM1AAAAAA**#prohlizeniSearchResult), [Team Software Project](https://portal.zcu.cz/portal/studium/prohlizeni.html?pc_pagenavigationalstate=AAAAAQAGNjY0ODM5EwEAAAABAAhzdGF0ZUtleQAAAAEAFC05MjIzMzcyMDM2ODU0NzY3NTMzAAAAAA**#prohlizeniSearchResult), [Large Scale Software Development](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=518806) - When gathering topics for projects prior to their publishing to the student teams to for expressing interest, the customers are advised by the course staff to not submit any business critical topics, as the results as their quality cannot be properly guaranteed. This results in mostly nice-to-have applications, extensions, integrations, etc. being proposed by the external customers and supporting software for research projects larger in scope than individual thesis topics being submitted by internal customers.   
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - The project topics are often proposed by industry specialists but have limited significance and serve primarily for educational purposes.

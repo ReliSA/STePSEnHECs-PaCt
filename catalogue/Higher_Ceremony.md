@@ -4,6 +4,10 @@
 
 ## Also Known As
 
+## Category
+
+[Learner Support](categories/Learner_Support.md)
+
 ## Context
 
 ## Problem
@@ -23,7 +27,7 @@ Though the  projects' smaller scale might would not call for it in industry, we 
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 ## Sources
 

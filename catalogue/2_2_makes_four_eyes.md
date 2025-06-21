@@ -2,6 +2,10 @@
 
 # 2+2 makes four eyes - Grading individuals is teamwork
 
+## Category
+
+[Grading](categories/Grading.md)
+
 ## Context
 
 Grading individuals in project groups should not be solo work, the teachers should actively consult on the grades. But before that the teachers should prepare. Both could become a time consuming exercise as the pitfall is diving into every detail every student has provided.

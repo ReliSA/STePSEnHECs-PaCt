@@ -6,6 +6,10 @@
 
 ## Context
 
+## Category
+
+[Learner Support](categories/Learner_Support.md)
+
 ## Problem
 
 The team may be lost in terms of what to work on first at the point they do their first team planning.
@@ -23,7 +27,7 @@ The team may be lost in terms of what to work on first at the point they do thei
 |Pattern  | Relation |
 |--|--|
  
-## Example(s) / Known Use(s) (optional) 
+## Example(s) / Known Use(s)
 
 ## Sources
 
