@@ -62,6 +62,8 @@ How the pattern has occurred in real world.
 
 Any (meta-level) remarks and information relevant to the pattern or its description, which do not belong to the previous sections.
 
+Also tables and figures referenced. In case of images in extra files, upload to the proper folder in the repository and link here.
+
 ## Sources
 
 Shortcuts for references in References.md (with link for each to that file) and/or the word "experience" separated by comma; e.g. [[PIN'25]](../References.md).  If the pattern comes from experience, details like projects and organizations where it has been observed should be provided to facilitate verification.
