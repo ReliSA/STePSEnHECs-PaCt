@@ -45,8 +45,7 @@ In this solution two options are given by which students can demonstrate and exp
 
 ## Notes
 
-|LEARNING OUTCOME- Implement and evaluate the design of a distributed, algorithmic complex, embedded system|
-|--|
+LEARNING OUTCOME- Implement and evaluate the design of a distributed, algorithmic complex, embedded system
 |Assessment criterion|Subject|Explanation|Link to work|
 |--|--|--|--|
 |Contributes evenly to the implementation of the system, in terms of quantity, quality and complexity|Positioning Server code|I wrote a method for grouping particles|Jira task 4654, Pull Request 14|
