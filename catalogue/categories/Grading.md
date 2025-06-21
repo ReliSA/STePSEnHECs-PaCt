@@ -4,6 +4,7 @@
 [Template](../template.md) for new pattern contents.
 
 ## 0-9
+[2+2 makes four eyes- Grading individuals is teamwork](../2_2_makes_four_eyes.md)
 
 ## A
 
