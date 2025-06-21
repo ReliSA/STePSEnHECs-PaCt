@@ -9,7 +9,7 @@ _(Ordered alphabetically by the key.)_
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
 
-[JAC'22] Jacobs, Tineke and Van Heesch, Uwe. "Supporting ICT-Students to Make the Most out of Their Projects". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-13.
+[[JAC'22]](publications/jac22/jac22.md)  Jacobs, Tineke and Van Heesch, Uwe. "Supporting ICT-Students to Make the Most out of Their Projects". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-13.
 
 [[JAC'24]](publications/jac24/jac24.md) Jacobs, Tineke. "Grading individual students in software engineering projects confidently". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices (EuroPLoP ’24). Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-10.
 

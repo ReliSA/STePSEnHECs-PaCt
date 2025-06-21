@@ -5,4 +5,5 @@
 
 [Patterns for Teaching Agile with Student Projects - Team and Project Setup](pin25/pin25.md)
 
+[Supporting ICT-students to make the most out of their projects](jac22/jac22.md)
 
