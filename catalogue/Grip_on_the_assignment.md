@@ -79,4 +79,4 @@ Figure 2: A noisy learning environment
 
 ## [Sources](../References.md)
 
-[[JAC'24]](publications/jac22/jac22.md)
+[[JAC'22]](publications/jac22/jac22.md)
