@@ -4,6 +4,7 @@
 [Template](catalogue/template.md) for new pattern contents.
 
 Browse
+--
  - [by category](catalogue/categories/categories.md),
  - [by publication](catalogue/publications/publications.md),
  - all alphabtically below.
@@ -27,7 +28,7 @@ Browse
 ## D
 [Disproportional Initial Stage](catalogue/Disproportional_Initial_Stage.md)
 
-[Dual Process Ownership](catalogue/Dual Process Ownership.md)
+[Dual Process Ownership](catalogue/Dual_Process_Ownership.md)
 
 ## E
 [Early Meetings Crutch](catalogue/Early_Meetings_Crutch.md)
