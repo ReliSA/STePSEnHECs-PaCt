@@ -41,6 +41,7 @@ Browse
 [Full Product Backlog from Day One](catalogue/Full_Product_Backlog_from_Day_One.md)
 
 ## G
+[Grip on the assignment](catalogue/Grip_on_the_assignment.md)
 
 ## H
 [Higher Ceremony](catalogue/Higher_Ceremony.md)
