@@ -31,7 +31,7 @@ This solution consists of guidelines which should be adapted throughout the whol
  - **Focus on the the deviations.** With the above statement in mind, the teachers ’just’ need to look for deviations from the average performance as expressed in the group grade. If a student performs better an upgrade is justified, if worse it has to be a downgrade.
  - **Holistic up and downgrades.** If every input a student produces over the course of an 8 weeks project needs to be graded, we will inevitably end up with a time-consuming, not very transparent, analytical grading process. Therefore up or down grades are not grounded in a strict analytical system. If the teacher thinks student A earns a reward because they did most of the difficult work, just reward them 0,5 or 1 point extra. The same goes for the other way round: if the student contributed enough, but invariably under average, their reward could be 0,5 or 1,0 points less than the group grade. As you keep it holistic, it is very well possible that a student fails the project even if the group work was rewarded with a pass. If a down grade is necessary, your first question therefore is: was their work sufficient enough anyway? If not, there is no relation with the group grade at all: the student will fail the project.
  - **Think of meeting this student next year.** If you are not sure if a student should pass at all, think of what you would be thinking if you meet this student again next year. Would they be able enough then, or would you think "how on earth did they get this far without being able to do/know X or Y..."
- - **Grading is teamwork** Grading project work should not be a solo activity. There simply are too much ECTS at stake. Therefore set up a process together with your colleague(s), in which individual preparation of every teacher is validated actively. In this way the grade becomes the teacher team’s grade, instead of an individual teacher’s grade. In the end for every deviation the teachers must be able to say: "On learning outcome number X you performed above/under average, that is why we rewarded you an/no extra point". In chapter 5 a pattern for this process is presented; 2+2 makes four eyes.
+ - **Grading is teamwork** Grading project work should not be a solo activity. There simply are too much ECTS at stake. Therefore set up a process together with your colleague(s), in which individual preparation of every teacher is validated actively. In this way the grade becomes the teacher team’s grade, instead of an individual teacher’s grade. In the end for every deviation the teachers must be able to say: "On learning outcome number X you performed above/under average, that is why we rewarded you an/no extra point". See [2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md).
 - **Guide and grade more than one group.** In the ideal situation a teacher has more than one group to grade. This enables comparison, which contributes to confidence. Even if the same teachers are involved, and even if they say an do exactly the same, the results will be different. This effect enables the teacher to objectify their experience.
 
 ## Consequences
@@ -44,7 +44,7 @@ This solution consists of guidelines which should be adapted throughout the whol
 ## Related Patterns
 
 |Pattern  | Relation |
-|--|--|
+|[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|specifies one step of the solution|
  
 ## Example(s) / Known Use(s) (optional) 
 
