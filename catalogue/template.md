@@ -39,8 +39,8 @@ Expands on the specifics or variations of applying the solution.
 
 The resulting circumstances of the solution application, both beneficial (benefits, signalled with "(+)") and detrimental (liabilities, signalled with "(-)")
 
- - (+) first symptom
- - (-) second symptom
+ - (+) first consequence (benefit)
+ - (-) second consequence (liability)
  - ...
 
 ## Related Patterns
