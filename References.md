@@ -7,6 +7,8 @@ _(Ordered alphabetically by the key.)_
 
 [DEC'12] Deci, Edward L. and Ryan, Richard M.. "Self-Determination Theory". In Handbook of Theories of Social Psychology. SAGE Publications Inc., 2012. Vol. 1
 
-[PIN'25] Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1â€“10.
+[JAC'24] Jacobs, Tineke. 2024. "Grading individual students in software engineering projects confidently". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices (EuroPLoP ’24). Association for Computing Machinery, New York, NY, USA, July 2023. Pages 1-10.
+
+[PIN'25] Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.
 
 [TUC'77] Tuckman, Bruce W and Jensen, Mary Ann C.. "Stages of Small-Group Development Revisited". In Group & Organization Studies. SAGE Publications Inc., 1977. Vol. 2, issue 4, pages 419-427.
