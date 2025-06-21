@@ -31,6 +31,8 @@
 [Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
 
 ## F
+[Face their facts - Student’s accountability](catalogue/Face_their_facts.md)
+
 [Full Product Backlog from Day One](catalogue/Full_Product_Backlog_from_Day_One.md)
 
 ## G
@@ -45,7 +47,7 @@
 ## K
 
 ## L
-[Lest not forget - Collecting observations](../Lest_not_forget.md)
+[Lest not forget - Collecting observations](catalogue/Lest_not_forget.md)
 
 ## M
 
@@ -83,7 +85,7 @@
 
 [Team's Choice](catalogue/Teams_Choice.md)
 
-[The basis pattern: If all pigs would be equal...](../If_all_pigs_would_be_equal.md)
+[The basis pattern: If all pigs would be equal...](catalogue/If_all_pigs_would_be_equal.md)
 
 [The Mentor-Assessor Role](catalogue/The_Mentor-Assessor_Role.md)
 
@@ -94,7 +96,7 @@
 ## V
 
 ## W
-[Whodunnit? - Using metrics in a fair way](../Whodunnit.md)
+[Whodunnit? - Using metrics in a fair way](catalogue/Whodunnit.md)
 
 [Work on the Non-Business-Critical](catalogue/Non-Essential_Project.md)
 
