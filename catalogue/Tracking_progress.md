@@ -46,6 +46,8 @@ We derived the following tips for teachers to support students during the daily 
 
 Figure 1: Tracking progress
 
+---
+
 Table 1: Checklist for observing standup meetings
 
 Scores: 0 = not observed; ? = absent; + = present; ++ = strongly present
