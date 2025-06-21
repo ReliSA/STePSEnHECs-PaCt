@@ -46,10 +46,12 @@ In this solution two options are given by which students can demonstrate and exp
 ## Notes
 
 |LEARNING OUTCOME- Implement and evaluate the design of a distributed, algorithmic complex, embedded system|
+|--|
 |Assessment criterion|Subject|Explanation|Link to work|
 |--|--|--|--|
 |Contributes evenly to the implementation of the system, in terms of quantity, quality and complexity|Positioning Server code|I wrote a method for grouping particles|Jira task 4654, Pull Request 14|
 |Monitors progress and usability of the implementation (code) and documentation and checks if this is and stays in line with design documentation|Stairs Detection research document|I reviewed the behavior tree part and removed some errors from it, especially...|Jira task 356, Pull Request 67|
+
 Table 1: Example of some facts from a fact sheet for an embedded software project
 
 ## Sources
