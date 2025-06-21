@@ -8,6 +8,10 @@ Jacobs, Tineke and Van Heesch, Uwe. In Proceedings of the 27th European Conferen
 - [From Requirements to Tasks](../../From_Requirements_to_Tasks.md)
 - [Tracking Progress](../../Tracking_Progress.md)
 - [Evaluations to Learn from](../../Evaluations_to_Learn_from.md)
+- [Effective Product Delivery
+Meetings](../../Effective_Product_Delivery_Meetings.md)
+- [Challenging Personal Learning
+Goals](../../Challenging_Personal_Learning_Goals.md)
 
 ![Pattern interdependency](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac22/fig-all.png "Pattern interdependency")
 
