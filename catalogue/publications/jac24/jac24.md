@@ -5,8 +5,8 @@ Jacobs, Tineke. In Proceedings of the 29th European Conference on Pattern Langua
 
 - [2+2 makes four eyes- Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
 - [Face their facts - Student’s accountability](../../Face_their_facts.md)
+- [If all pigs would be equal...](../../If_all_pigs_would_be_equal.md)
 - [Lest not forget - Collecting observations](../../Lest_not_forget.md)
-- [The basis pattern: If all pigs would be equal...](../../If_all_pigs_would_be_equal.md)
 - [Whodunnit? - Using metrics in a fair way](../../Whodunnit.md)
 
 ![The interdependency of the patterns](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac24/fig-all.png "The interdependency of the patterns")

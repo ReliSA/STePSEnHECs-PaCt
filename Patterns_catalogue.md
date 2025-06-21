@@ -46,6 +46,7 @@ Browse
 [Higher Ceremony](catalogue/Higher_Ceremony.md)
 
 ## I
+[If all pigs would be equal...](catalogue/If_all_pigs_would_be_equal.md)
 
 ## J
 
@@ -89,8 +90,6 @@ Browse
 [Team Chooses Topic](catalogue/Teams_Choice.md)
 
 [Team's Choice](catalogue/Teams_Choice.md)
-
-[The basis pattern: If all pigs would be equal...](catalogue/If_all_pigs_would_be_equal.md)
 
 [The Mentor-Assessor Role](catalogue/The_Mentor-Assessor_Role.md)
 
