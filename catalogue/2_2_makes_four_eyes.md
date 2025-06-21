@@ -61,14 +61,14 @@ The solution balances working alone and working together. After a quick consulta
 
 ## Notes
 
-![The teacher’s preparation for grading][fig1]
-Figure 1: The teacher’s preparation for grading 
+![The teacher's preparation for grading][fig1]
+Figure 1: The teacher's preparation for grading 
 
 ![Deciding on the grades][fig2]
 Figure 2: Deciding on the grades
 
-[fig1]: fig1.png "The teacher’s preparation for grading"
-[fig2]: fig2.png "Deciding on the grades"
+[fig1]: https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac24/fig1.png "The teacher's preparation for grading"
+[fig2]: https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac24/fig2.png "Deciding on the grades"
 
 ## Sources
 
