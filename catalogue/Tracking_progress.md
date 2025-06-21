@@ -42,7 +42,7 @@ We derived the following tips for teachers to support students during the daily 
 
 ## Notes
 
-![Tracking progress](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac24/Tracking_progress.png "Tracking progress")
+![Tracking progress](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac22/Tracking_progress.png "Tracking progress")
 
 Figure 1: Tracking progress
 
@@ -58,16 +58,11 @@ Scores: 0 = not observed; ? = absent; + = present; ++ = strongly present
 |Plan board is visible for all team members|||
 |Plan board is actively used|||
 |Plan board is up to date when stand up is finished|||
-|A logical sequence is used:
- - Which tasks did you finish yesterday?
- - Which tasks will you be completing today?
- - Do you experience any impediments?|||
+|A logical sequence is used: (1) Which tasks did you finish yesterday?, (2) Which tasks will you be completing today?, (3) Do you experience any impediments?|||
 |The team gives an unisono and substantiated answer to the question if they think the agreed customer goal will be met in time|||
 |If the team agree that there are delays, the team lead discusses the impact on the planning and let the team decide on actions|||
 |Team lead asks if any tasks need to be added|||
-|No vague texts are spoken by any team member. This means everybody talks about:
- - Specific tasks (if possible: issue numbers)
- - Specific statuses: to do - in progress - to review – done|||
+|No vague texts are spoken by any team member. This means everybody talks about: (1) Specific tasks (if possible: issue numbers), (2) Specific statuses: to do - in progress - to review – done|||
 |It is clear who leads the stand up (in case of a Scrum team: the Scrum master)|||
 |The lead does not allow discussions during the stand up. S/he postpones them till after the stand up|||
 |The stand-up meeting does not take more than 15 minutes|||

@@ -48,7 +48,7 @@ in the next encounters with your team(s)
 
 ## Notes 
 
-![Your routines](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac24/Your_routines.png "Your routines")
+![Your routines](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac22/Your_routines.png "Your routines")
 
 Figure 1: Your routines
 
