@@ -23,6 +23,8 @@ _(Ordered alphabetically by the key.)_
 
 [KIR'18] Kirschner, Paul A., Claessens, Luce Corneel Aline and Raaijmakers, Steven Frederik. "Op de schouders van reuzen: Inspirerende inzichten uit de cognitieve psychologie voor leerkrachten". In Education and Learning: Development in Interaction. Ten Brink Uitgevers, 2018.
 
+[[KOH'22]]((catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
+
 [[PIN'25]](catalogue/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.
 
 [SCH'20-1] Schwaber, K. and Sutherland J. "The Scrum Guide - The definitive rules of the game". https://scrumguides.org/scrum-guide.html. 2020.
