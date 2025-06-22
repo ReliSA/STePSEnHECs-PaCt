@@ -46,6 +46,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## F
 [Face their facts - Student�s accountability](catalogue/Face_their_facts.md)
 
+[Flipped Conference](catalogue/Flipped_Conference.md)
+
 [From requirements to tasks](catalogue/From_requirements_to_tasks.md)
 
 [Full Product Backlog from Day One](catalogue/Full_Product_Backlog_from_Day_One.md)
