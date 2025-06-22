@@ -7,6 +7,8 @@ _(Ordered alphabetically by the key.)_
 
 [COP'05] Coplien, James O. and Harrison, Neil. "Organizational patterns of agile software development". Pearson Prentice Hall, 2005. Vol. 160.
 
+[CUR'73] Curtiss, Paul R. and Warren, Phillip W.. "The dynamics of life skills coaching". Prince Albert, Sask.: Training Research and Development Station, Department of Manpower and Immigration, 1973.
+
 [DEC'12] Deci, Edward L. and Ryan, Richard M.. "Self-Determination Theory". In Handbook of Theories of Social Psychology. SAGE Publications Inc., 2012. Vol. 1, issue 20, pages 416-436.
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.

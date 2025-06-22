@@ -19,6 +19,9 @@ Browse
 [Big Brother](catalogue/Big_Brother.md)
 
 ## C
+[Challenging personal learning
+goals](catalogue/Challenging_personal_learning_goals.md)
+
 [Check Customer's Privilege](catalogue/Check_Customers_Privilege.md)
 
 [Cross-Pollination](catalogue/Cross-Pollination.md)
