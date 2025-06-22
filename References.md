@@ -23,4 +23,6 @@ _(Ordered alphabetically by the key.)_
 
 [[PIN'25]](catalogue/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.
 
+[SCH'20] Schwaber, K. and Sutherland J. "The Scrum Guide - The definitive rules of the game". https://scrumguides.org/scrum-guide.html. 2020.
+
 [TUC'77] Tuckman, Bruce W and Jensen, Mary Ann C.. "Stages of Small-Group Development Revisited". In Group & Organization Studies. SAGE Publications Inc., 1977. Vol. 2, issue 4, pages 419-427.
