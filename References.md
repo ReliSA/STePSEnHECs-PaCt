@@ -3,7 +3,7 @@
 
 _(Ordered alphabetically by the key.)_
 
-[ABD'18] Abdulrahman, T.. "TED talks as listening teaching strategy in EAP classroom". In The Asian ESP Journal. 2018. Vol. 14, issue 6.
+[ABD'18] Abdulrahman, Tryanti. "TED talks as listening teaching strategy in EAP classroom". In The Asian ESP Journal. 2018. Vol. 14, issue 6, pages 60-80.
 
 [BEE'08] Beecham, Sarah and Baddoo, Nathan and Hall, Tracy and Robinson, Hugh and Sharp, Helen. "Motivation in Software Engineering: A Systematic Literature Review". In Information and Software Technology. Elsevier, 2008. Vol. 50, issue 9-10, pages 860-878.
 
@@ -27,7 +27,7 @@ _(Ordered alphabetically by the key.)_
 
 [[KOH'22]]((catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
 
-[NUR'20] Nursafira, M.S.. "TED Talks in EFL Context: An Alternative Way for Teaching and Improving Student’s Speaking Skills". In Journal of English Language Studies. 2020. Vol. 2, issue 2, pages 43-47.
+[NUR'20] Nursafira, Mutia Sari. "TED Talks in EFL Context: An Alternative Way for Teaching and Improving Student’s Speaking Skills". In Journal of English Language Studies. 2020. Vol. 2, issue 2, pages 43-47.
 
 [[PIN'25]](catalogue/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.
 
