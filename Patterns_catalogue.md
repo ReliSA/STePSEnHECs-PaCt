@@ -54,6 +54,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Grip on the assignment](catalogue/Grip_on_the_assignment.md)
 
 ## H
+[Hackathon](catalogue/Hackathon.md)
+
 [Higher Ceremony](catalogue/Higher_Ceremony.md)
 
 ## I
