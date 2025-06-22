@@ -41,7 +41,7 @@ The ideal seems to be an average team size of around four students, but may vary
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 |[Smaller Project Scope](Smaller_Project_Scope.md)|is contributed to as the team's limited size leads to its reduced capacity to work on the project|
 

@@ -22,7 +22,7 @@ New teams formed by students struggle to balance preparation and execution when 
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s)

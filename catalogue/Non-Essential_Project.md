@@ -40,7 +40,7 @@ Giving customers an opening to propose project topics that fall outside of their
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 |[Smaller Project Scope](Smaller_Project_Scope.md)|facilitated by customers proposing project topics that are not business critical for them|
 |[Team's Choice](Teams_Choice.md)|facilitated by the topics liset collected from customer proposals|

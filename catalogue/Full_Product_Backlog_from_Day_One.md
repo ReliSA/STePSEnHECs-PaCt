@@ -22,7 +22,7 @@ The team may be lost in terms of what to work on first at the point they do thei
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s)

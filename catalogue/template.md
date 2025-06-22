@@ -45,7 +45,7 @@ The resulting circumstances of the solution application, both beneficial (benefi
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 | related pattern with link (if already in catalogue) one per row (if none, replace table with "n/a", leave section heading) | relation description |
 

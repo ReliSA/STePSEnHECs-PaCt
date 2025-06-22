@@ -22,7 +22,7 @@ Rigid detailed policies on everything (code, notations, roles, tools, planning s
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s) 

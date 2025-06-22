@@ -50,7 +50,7 @@ The solution balances working alone and working together. After a quick consulta
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 |[Face their facts - Student’s accountability](Face_their_facts.md)|part of the solution|
 |[Lest not forget - Collecting observations](Lest_not_forget.md)|part of the solution|

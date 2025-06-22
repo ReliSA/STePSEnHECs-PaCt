@@ -41,7 +41,7 @@ in the next encounters with your team(s)
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 
 ## Example(s) / Known Use(s)

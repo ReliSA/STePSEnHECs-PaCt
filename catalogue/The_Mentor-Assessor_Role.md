@@ -22,7 +22,7 @@ Both guiding the team and grading their performance requires deep insight into t
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s)

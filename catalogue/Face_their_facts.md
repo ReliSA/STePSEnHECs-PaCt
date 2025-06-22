@@ -37,7 +37,7 @@ In this solution two options are given by which students can demonstrate and exp
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 |[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|uses in solution|
  

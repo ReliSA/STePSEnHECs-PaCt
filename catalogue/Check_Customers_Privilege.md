@@ -22,7 +22,7 @@ Customers, especially those from industrial IT settings, have a tendency to “t
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s) 

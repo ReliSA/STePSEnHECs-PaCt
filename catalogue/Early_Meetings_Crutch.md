@@ -22,7 +22,7 @@ Some good practices are hard to explain and are best learned about hands on.
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s) 

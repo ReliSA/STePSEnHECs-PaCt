@@ -22,7 +22,7 @@ Students might be more receptive to advice/experience of their peers, rather tha
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s) 

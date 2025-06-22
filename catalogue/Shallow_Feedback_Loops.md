@@ -22,7 +22,7 @@ When a project does not focus on a customer’s eminent needs, the team might no
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s) 

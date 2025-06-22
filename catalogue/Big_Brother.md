@@ -22,7 +22,7 @@ To get the full picture for evaluation and insight for mentoring, mentor/assesso
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
  
 ## Example(s) / Known Use(s) 

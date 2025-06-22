@@ -38,7 +38,7 @@ The solution shows that producing excessive notes after your visits to the proje
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 |[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|uses in solution|
  

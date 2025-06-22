@@ -41,7 +41,7 @@ This can be achieved, in the case of an externally-proposed topic, by giving stu
 
 ## Related Patterns
 
-|Pattern  | Relation |
+|Pattern|Relation|
 |--|--|
 |[Team Size Limitation](Team_Size_Limitation.md)|partial driver as the aggregate team capacity puts a limitation on the scope from the start|
 |[Team's Choice](Teams_Choice.md)|facilitated through fostering better informed choices and either creativity (coming up with own topic) or comprehenssion and complexity assessment (if topic given)|
