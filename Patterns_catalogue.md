@@ -106,6 +106,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Team's Choice](catalogue/Teams_Choice.md)
 
+[TED Evenings](catalogue/TED_Evenings.md)
+
 [The Mentor-Assessor Role](catalogue/The_Mentor-Assessor_Role.md)
 
 [Time Size Limitation](catalogue/Team_Size_Limitation.md)

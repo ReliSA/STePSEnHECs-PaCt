@@ -3,6 +3,8 @@
 
 _(Ordered alphabetically by the key.)_
 
+[ABD'18] Abdulrahman, T.. "TED talks as listening teaching strategy in EAP classroom". In The Asian ESP Journal. 2018. Vol. 14, issue 6.
+
 [BEE'08] Beecham, Sarah and Baddoo, Nathan and Hall, Tracy and Robinson, Hugh and Sharp, Helen. "Motivation in Software Engineering: A Systematic Literature Review". In Information and Software Technology. Elsevier, 2008. Vol. 50, issue 9-10, pages 860-878.
 
 [COP'05] Coplien, James O. and Harrison, Neil. "Organizational patterns of agile software development". Pearson Prentice Hall, 2005. Vol. 160.
@@ -25,6 +27,8 @@ _(Ordered alphabetically by the key.)_
 
 [[KOH'22]]((catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
 
+[NUR'20] Nursafira, M.S.. "TED Talks in EFL Context: An Alternative Way for Teaching and Improving Student’s Speaking Skills". In Journal of English Language Studies. 2020. Vol. 2, issue 2, pages 43-47.
+
 [[PIN'25]](catalogue/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.
 
 [SCH'20-1] Schwaber, K. and Sutherland J. "The Scrum Guide - The definitive rules of the game". https://scrumguides.org/scrum-guide.html. 2020.
@@ -32,4 +36,3 @@ _(Ordered alphabetically by the key.)_
 [SCH'20-2] Schwaber, K. and Sutherland J. "The Scrum Guide". https://www.scrum.org/resources/scrum-guide. 2020.
 
 [TUC'77] Tuckman, Bruce W and Jensen, Mary Ann C.. "Stages of Small-Group Development Revisited". In Group & Organization Studies. SAGE Publications Inc., 1977. Vol. 2, issue 4, pages 419-427.
-
