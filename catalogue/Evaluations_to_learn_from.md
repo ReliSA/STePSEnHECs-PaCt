@@ -5,7 +5,7 @@
 
 ## Context
 
-In an agile environment, evaluations take place at the end of every sprint. These evaluations are called retrospectives. During a retrospective, the team reflects on how the sprint went regarding people, relationships, process, and tools [8]. If performed well, retrospectives effectively support continuous improvement of the team-members with respect to their professional relationship, productivity, and quality of delivered work.
+In an agile environment, evaluations take place at the end of every sprint. These evaluations are called retrospectives. During a retrospective, the team reflects on how the sprint went regarding people, relationships, process, and tools [[SCH'20-2]](../References.md). If performed well, retrospectives effectively support continuous improvement of the team-members with respect to their professional relationship, productivity, and quality of delivered work.
 
 Many students initially see these sessions as a burden, rather than a chance for improvement. If not supervised carefully, students rush through them, without challenging themselves and without deriving suitable actions for improvement. Consequently, the evaluations have little value, which confirms the students’ negative preconceptions: a self-fulfilling prophecy.
 
@@ -21,7 +21,7 @@ As a teacher, how do you supervise students during evaluations / retrospectives,
 
 ## Solution
 
-Sources on retrospectives focus on the Scrum master/team leader preparing the session [[SCH'20]](../References.md). On the contrary, our solution is to ask the team to prepare the retrospective thoroughly on team and personal levels. Discussing helps deepen their understanding of the team’s functioning and enables them to formulate smart goals for the next sprint.
+Sources on retrospectives focus on the Scrum master/team leader preparing the session [[SCH'20-1]](../References.md). On the contrary, our solution is to ask the team to prepare the retrospective thoroughly on team and personal levels. Discussing helps deepen their understanding of the team’s functioning and enables them to formulate smart goals for the next sprint.
 
 Be present at the meetings, at least the first two or three times. If you see the students struggle, provide active support, or even take over a session as the moderator. If you do so, decide with the team on who of them will moderate the next session and ask this person to pay particular attention and take notes on how to moderate retrospectives.
 

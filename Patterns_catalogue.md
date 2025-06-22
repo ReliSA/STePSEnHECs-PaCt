@@ -33,6 +33,9 @@ Browse
 ## E
 [Early Meetings Crutch](catalogue/Early_Meetings_Crutch.md)
 
+[Effective product delivery
+meetings](catalogue/Effective_product_delivery_meetings.md)
+
 [Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
 
 [Evaluations to learn from](catalogue/Evaluations_to_learn_from.md)
