@@ -14,6 +14,7 @@ Browse
 [2+2 makes four eyes - Grading individuals is teamwork](catalogue/2_2_makes_four_eyes.md)
 
 ## A
+[Ask for Individual Grading](catalogue/Ask_for_Individual_Grading.md) 
 
 ## B
 [Big Brother](catalogue/Big_Brother.md)
@@ -30,9 +31,11 @@ goals](catalogue/Challenging_personal_learning_goals.md)
 
 [Cross-Pollination](catalogue/Cross-Pollination.md)
 
-[Customer’s Side Project](catalogue/Non-Essential_Project.md)
+[Customer's Side Project](catalogue/Non-Essential_Project.md)
 
 ## D
+[Deliver High Quality Products](catalogue/Deliver_High_Quality_Products.md)
+
 [Disproportional Initial Stage](catalogue/Disproportional_Initial_Stage.md)
 
 [Dual Process Ownership](catalogue/Dual_Process_Ownership.md)
@@ -43,16 +46,23 @@ goals](catalogue/Challenging_personal_learning_goals.md)
 [Effective product delivery
 meetings](catalogue/Effective_product_delivery_meetings.md)
 
+[Eliminate Bottlenecks](catalogue/Eliminate_Bottlenecks.md)
+
+
 [Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
 
 [Evaluations to learn from](catalogue/Evaluations_to_learn_from.md)
 
 ## F
-[Face their facts - Student�s accountability](catalogue/Face_their_facts.md)
+[Face their facts - Student's accountability](catalogue/Face_their_facts.md)
 
 [Fill Knowledge Gaps](catalogue/Fill_Knowledge_Gaps.md)
 
 [Flipped Conference](catalogue/Flipped_Conference.md)
+
+[Focus on Seriosness](catalogue/Focus_on_Seriosness.md)
+
+[Focus the Discussion](catalogue/Focus_the_Discussion.md)
 
 [From requirements to tasks](catalogue/From_requirements_to_tasks.md)
 
@@ -60,6 +70,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 ## G
 [Give a First Warning](catalogue/Give_a_First_Warning.md)
+
+[Give Constructive Feedback](catalogue/Give_Constructive_Feedback.md)
 
 [Grip on the assignment](catalogue/Grip_on_the_assignment.md)
 
@@ -71,16 +83,24 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## I
 [If all pigs would be equal...](catalogue/If_all_pigs_would_be_equal.md)
 
+[Improve the Presentation](catalogue/Improve_the_Presentation.md)
+
 ## J
 
 ## K
+[Keep Motivated](catalogue/Keep_Motivated.md
+
+[Keep Team Spirit](catalogue/Keep_Team_Spirit.md)
 
 ## L
 [Lest not forget - Collecting observations](catalogue/Lest_not_forget.md)
 
 ## M
+[Manage the Project](catalogue/Manage_The_Project.md)
 
 ## N
+[Nominate One Communicator](catalogue/Nominate_One_Communicator.md)
+
 [Non-Daily Scrum](catalogue/Non-Daily_Scrum.md)
 
 [Non-Essential Project](catalogue/Non-Essential_Project.md)
@@ -90,13 +110,17 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Not Business Critical](catalogue/Non-Essential_Project.md)
 
 ## O
+[Own Your Work](catalogue/Own_Your_Work.md)
 
 ## P
+[Plan External Worktime](catalogue/Plan_External_Worktime.md)
+
 [Process-Focused Evaluation](catalogue/Process-Focused_Evaluation.md)
 
 ## Q
 
 ## R
+[Resolve Conflicts](catalogue/Resolve_Conflicts.md)
 
 ## S
 [Self-Assembling Teams](catalogue/Self-Assembling_Teams.md)
@@ -109,7 +133,11 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
+[Spread Tasks Appropriately](catalogue/Spread_Tasks_Appropriately.md)
+
 [Strictly Time-Boxed Team Ceremonies](catalogue/Strictly_Time-Boxed_Team_Ceremonies.md)
+
+[Support_the_Leader](catalogue/Support_the_Leader.md)
 
 ## T
 [Team Chooses Topic](catalogue/Teams_Choice.md)
