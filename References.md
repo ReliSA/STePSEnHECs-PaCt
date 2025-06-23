@@ -7,9 +7,11 @@ _(Ordered alphabetically by the key.)_
 
 [BEE'08] Beecham, Sarah and Baddoo, Nathan and Hall, Tracy and Robinson, Hugh and Sharp, Helen. "Motivation in Software Engineering: A Systematic Literature Review". In Information and Software Technology. Elsevier, 2008. Vol. 50, issue 9-10, pages 860-878.
 
+[[BER'24]](catalogue/publications/ber24/ber24.md) Bertels, Anja and Deimel, Dominik. "Improving Coding Workshops: A Pattern Collection". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-9.
+
 [COP'05] Coplien, James O. and Harrison, Neil. "Organizational patterns of agile software development". Pearson Prentice Hall, 2005. Vol. 160.
 
-[[COR'13]]((catalogue/publications/kop13/kop13.md) de Cortie, Thomas, et al. "Learning Patterns for Group Assignments - Part 2". In Proceedings of the 20th Pattern Languages of Programs conference, PLoP. 2013. Vol. 13.
+[[COR'13]](catalogue/publications/cor13/cor13.md) de Cortie, Thomas, et al. "Learning Patterns for Group Assignments - Part 2". In Proceedings of the 20th Pattern Languages of Programs conference, PLoP. 2013. Vol. 13.
 
 [CUR'73] Curtiss, Paul R. and Warren, Phillip W.. "The dynamics of life skills coaching". Prince Albert, Sask.: Training Research and Development Station, Department of Manpower and Immigration, 1973.
 
