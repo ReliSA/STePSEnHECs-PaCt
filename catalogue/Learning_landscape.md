@@ -96,6 +96,6 @@ Figure 4: Learning landscape at the University of Strathclyde, extending across 
 
 ## [Sources](../References.md)
 
-Shortcuts for references in References.md (with link for each to that file) and/or the word "experience" separated by comma; e.g. [[PIN'25]](publications/pin25/pin25.md).  If the pattern comes from experience, details like projects and organizations where it has been observed should be provided to facilitate verification.
+[[DUB'24]](publications/dub24/dub24.md)
 
 [^1]: https://my.matterport.com/show/?m=FAeiTat8GuR
