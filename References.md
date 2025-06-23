@@ -49,7 +49,7 @@ _(Ordered alphabetically by the key.)_
 
 [[KOH'22]](catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
 
-[[KOH'23]] Kohls, Christian, Dubbert, Dennis and Kehrer, Mareike. "The dynamic campus–flexible learning spaces for hybrid education." In Proceedings of the 28th European Conference on Pattern Languages of Programs. Association for Computing Machinery, July 2023. Pages 1-11.
+[KOH'23] Kohls, Christian, Dubbert, Dennis and Kehrer, Mareike. "The dynamic campus-flexible learning spaces for hybrid education." In Proceedings of the 28th European Conference on Pattern Languages of Programs. Association for Computing Machinery, July 2023. Pages 1-11.
 
 [[KOP'12]](catalogue/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1." In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12.
 
@@ -70,6 +70,9 @@ _(Ordered alphabetically by the key.)_
 [SCH'20-1] Schwaber, K. and Sutherland J. "The Scrum Guide - The definitive rules of the game". https://scrumguides.org/scrum-guide.html. 2020.
 
 [SCH'20-2] Schwaber, K. and Sutherland J. "The Scrum Guide". https://www.scrum.org/resources/scrum-guide. 2020.
+
+[SCH'23] Schröer Sell Architekten, Brandt S., Huber, D., Keller, A., Ninnemann. K., Richter, T. and Sell, G. "Laboratorium Lernräume - Neue Lernräume an der Universität
+Basel. Universität Basel". Open Publishing Plattform, 2023.
 
 [SZA'22] Szabo, Claudia and Sheard, Judy. "Learning theories use and relationships in computing education research." In ACM Transactions on Computing Education. Association for Computing Machinery, New York, NY, USA, 2022. Vol. 23, issue 1, pages 1-34.
 

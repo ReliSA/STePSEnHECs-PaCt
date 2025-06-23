@@ -179,6 +179,7 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## U
 
 ## V
+[Video conference booth](catalogue/Video_conference_booth.md)
 
 ## W
 [Whodunnit? - Using metrics in a fair way](catalogue/Whodunnit.md)
