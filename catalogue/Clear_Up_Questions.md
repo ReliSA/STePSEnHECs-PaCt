@@ -22,7 +22,7 @@ Some — or all — parts of the assignment description are vague and not understand
 
 After the assignment is given, summarize what is clear about the assignment and try to identify what is not. Check this with all team members. If parts stay — or become — unclear, ask the teacher for clarification.
 
-## Implementation (optional) 
+## Implementation
 
 It is always better to ask than to just assume whenever there is uncertainty. Without knowing what is asked from you in an assignment, there is a high chance that what you finally deliver is not sufficient. In some cases you also can get this information from your peer students, in other cases you need to ask the teacher for clarification. Either way, it is recommended to [NOMINATE ONE COMMUNICATOR](Nominate_One_Communicator.md) who’s responsible for asking the teacher or other peer teams.
 

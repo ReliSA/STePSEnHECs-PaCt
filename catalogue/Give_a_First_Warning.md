@@ -21,7 +21,7 @@ Some group members are not fulfilling the expectations and goals agreed on earli
 
 Confront the group member with his or her behavior and explain why it is a problem, thereby ensuring a constructive attitude. Make the consequences clear if the behavior does not improve and make specific agreements on how the student intends to work on the improvement.
 
-## Implementation (optional) 
+## Implementation 
 
 Everybody should get the chance to improve his or her behavior, but without a confrontation the unwanted behavior will probably not change! It is important that this confrontation is done with a constructive attitude: the goal is that the team member starts to fulfill all assigned tasks sufficiently. It is therefore also the first step to ask the member why he or she is not working as expected. If personal problems are the reason, then it should be discussed how much impact these have on the fulfillment of the assignment tasks. In the case of time problems due to a job it could help to [PLAN EXTERNAL WORKTIME](Plan_External_Worktime.md). If the problems lie in missing knowledge, then the team should help to [FILL KNOWLEDGE GAPS](Fill_Knowledge_Gaps.md) of the student. In other cases it might be a sufficient solution to [SPREAD TASKS APPROPRIATELY](Spred_Tasks_Appropriately.md) again, but if the problems are too big the teacher should become involved.
 

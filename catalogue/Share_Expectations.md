@@ -21,7 +21,7 @@ Students might have different expectations of the results and the way of working
 
 Make an opportunity to reflect on the expectations of all group members. Align them, agree on a common set, document them, and have all members indicating acceptance of and commitment to this agreement.
 
-## Implementation (optional) 
+## Implementation 
 
 Your own goals and priorities are influencing what you expect from others, but their goals and priorities aren’t necessarily matching with your expectations. It is therefore always good to reflect on the expectations of every team member, especially in the beginning of the assignment but also on a regular basis during the assignment. The result will be a common set of expectations, like e.g. we all just want to pass the course, we all go for the highest grade, or we will work most of the time face-to-face. Coming to such a common set requires social skills of all team members, everyone should get attention and all expectations should be respected.
 
