@@ -29,6 +29,8 @@ goals](catalogue/Challenging_personal_learning_goals.md)
 
 [Clear Up Questions](catalogue/Clear_Up_Questions.md)
 
+[Code Without Code](catalogue/Code_Without_Code.md)
+
 [Cross-Pollination](catalogue/Cross-Pollination.md)
 
 [Customer's Side Project](catalogue/Non-Essential_Project.md)

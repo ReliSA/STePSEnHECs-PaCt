@@ -21,6 +21,8 @@ _(Ordered alphabetically by the key.)_
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
 
+[IBA'11] Iba, Takashi and Sakamoto, Mami. "Learning patterns III: a pattern language for creative learning." In Proceedings of the 18th conference on pattern languages of programs. 2011. Pages 1-8.
+
 [[JAC'22]](catalogue/publications/jac22/jac22.md) Jacobs, Tineke and Van Heesch, Uwe. "Supporting ICT-Students to Make the Most out of Their Projects". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-13.
 
 [[JAC'24]](catalogue/publications/jac24/jac24.md) Jacobs, Tineke. "Grading individual students in software engineering projects confidently". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices (EuroPLoP ’24). Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-10.
@@ -32,6 +34,10 @@ _(Ordered alphabetically by the key.)_
 [[KOH'22]]((catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
 
 [[KOP'12]]((catalogue/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1." In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12.
+
+[MCN'99] McNerney, Timothy S. "Tangible programming bricks: An approach to making programming accessible to everyone." PhD dissertation. Massachusetts Institute of Technology, 1999.
+
+[MUN'17] Münster, Guido. "Konzeption und Implementierung einer alltagstauglichen Infrastruktur für Innovations- und Kollaborationsräume". Master Thesis. 2017.
 
 [NUR'20] Nursafira, Mutia Sari. "TED Talks in EFL Context: An Alternative Way for Teaching and Improving Student’s Speaking Skills". In Journal of English Language Studies. 2020. Vol. 2, issue 2, pages 43-47.
 
