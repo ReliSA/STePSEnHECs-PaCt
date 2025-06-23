@@ -49,14 +49,6 @@ The presented solution can also be applied to the running example. Connect the p
  
 ## Example(s) / Known Use(s)
 
-## Notes 
-
-![Multiple toy bricks with different heights to visualize sorting algorithms](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/Code_Without_Code.png "Multiple toy bricks with different heights to visualize sorting algorithms")
-
-Figure 1: Multiple toy bricks with different heights to visualize sorting algorithms
-
 ## [Sources](../References.md)
 
 [[BAR'24]](publications/bar24/bar24.md)
-
-[^1]: A visual demonstration can be seen [here](https://th-koeln.sciebo.de/s/l3q4BJ5xdoyTI9T)

@@ -9,7 +9,7 @@ _(Ordered alphabetically by the key.)_
 
 [BER'06] Bergin, Joseph. "Active learning and feedback patterns: version 4." In Proceedings of the 2006 conference on Pattern languages of programs. 2006. Pages 1-6.
 
-[[BER'24]](catalogue/publications/ber24/ber24.md) Bertels, Anja and Deimel, Dominik. "Improving Coding Workshops: A Pattern Collection". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-9.
+[[BAR'24]](catalogue/publications/ber24/ber24.md) Bertels, Anja and Deimel, Dominik. "Improving Coding Workshops: A Pattern Collection". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-9.
 
 [COP'05] Coplien, James O. and Harrison, Neil. "Organizational patterns of agile software development". Pearson Prentice Hall, 2005. Vol. 160.
 
