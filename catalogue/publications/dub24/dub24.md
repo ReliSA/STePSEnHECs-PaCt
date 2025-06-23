@@ -1,0 +1,17 @@
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Publications](../publications.md) > DUB'24
+# Hybridity through subspace creation
+
+Dubbert, Dennis, and Kohls, Christian. In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-24.
+
+- [Learning landscape](../../Learning_landscape.md)
+- [Learning alcove](../../Learning_alcove.md)
+- [Learning isle](../../Learning_isle.md)
+- [Learning corner](../../Learning_corner.md)
+- [Learning box](../../Learning_box.md)
+- [Video conference booth](../../Video_conference_booth.md)
+- [Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
+- [Nearby power supply](../../Nearby_power_supply.md)
+
+![Relations between the eight provided patterns](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/fig-all.png "Relations between the eight provided patterns")
+
+Figure 1: Relations between the eight provided patterns

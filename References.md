@@ -21,6 +21,8 @@ _(Ordered alphabetically by the key.)_
 
 [DIL'16] Dillon, Alexander E., Stolk, Jonathan D., Zastavker, Yevgeniya V. and Gross, Michael D.. "Motivation is a two-way street: pedagogies employing discussion in addition to lecture display more positive student motivational response." In 2016 ASEE Annual Conference & Exposition. 2016.
 
+[[DUB'24]](catalogue/publications/dub24/dub24.md) Dubbert, Dennis, and Kohls, Christian. "Hybridity through subspace creation." In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-24.
+
 [ECK'02] Eckstein, Jutta, Bergin, Joseph and Sharp, Helen. "Patterns for active learning." In Proceedings of PLOP. 2002.
 
 [EZE'17] Eze, Chika and Misava, Edward. "Lecture duration: A risk factor for quality teaching and learning in Higher Education." In Integrity Journal of Education and Training. 2017. Vol. 1, issue 1.
