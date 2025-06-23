@@ -49,6 +49,8 @@ _(Ordered alphabetically by the key.)_
 
 [[KOH'22]](catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
 
+[[KOH'23]] Kohls, Christian, Dubbert, Dennis and Kehrer, Mareike. "The dynamic campus–flexible learning spaces for hybrid education." In Proceedings of the 28th European Conference on Pattern Languages of Programs. Association for Computing Machinery, July 2023. Pages 1-11.
+
 [[KOP'12]](catalogue/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1." In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12.
 
 [MCN'99] McNerney, Timothy S. "Tangible programming bricks: An approach to making programming accessible to everyone." PhD dissertation. Massachusetts Institute of Technology, 1999.
