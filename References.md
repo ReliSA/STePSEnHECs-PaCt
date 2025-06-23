@@ -7,6 +7,8 @@ _(Ordered alphabetically by the key.)_
 
 [BEE'08] Beecham, Sarah and Baddoo, Nathan and Hall, Tracy and Robinson, Hugh and Sharp, Helen. "Motivation in Software Engineering: A Systematic Literature Review". In Information and Software Technology. Elsevier, 2008. Vol. 50, issue 9-10, pages 860-878.
 
+[BER'06] Bergin, Joseph. "Active learning and feedback patterns: version 4." In Proceedings of the 2006 conference on Pattern languages of programs. 2006. Pages 1-6.
+
 [[BER'24]](catalogue/publications/ber24/ber24.md) Bertels, Anja and Deimel, Dominik. "Improving Coding Workshops: A Pattern Collection". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-9.
 
 [COP'05] Coplien, James O. and Harrison, Neil. "Organizational patterns of agile software development". Pearson Prentice Hall, 2005. Vol. 160.
@@ -21,11 +23,15 @@ _(Ordered alphabetically by the key.)_
 
 [ECK'02] Eckstein, Jutta, Bergin, Joseph and Sharp, Helen. "Patterns for active learning." In Proceedings of PLOP. 2002.
 
+[FAJ'14] Faja, Silvana. "Evaluating Effectiveness of Pair Programming as a Teaching Tool in Programming Courses." In Information Systems Education Journal. 2014. Vol. 12, issue 6, pages 36-45.
+
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
 
 [IBA'09] Iba, Takashi, Miyake, Toko, Naruse, Miyuko and Yotsumoto, Natsumi. "Learning Patterns: a pattern language for active learners." In Conference on Pattern Languages of Programs (PLoP). 2009. Vol. 10.
+
+[IBA'10] Iba, Takashi and Miyake, Toko. "Learning Patterns: a pattern language for creative learning II". In Proceedings of the 1st Asian Conference on Pattern Languages of Programs. 2010. Pages 1-6.
 
 [IBA'11] Iba, Takashi and Sakamoto, Mami. "Learning patterns III: a pattern language for creative learning." In Proceedings of the 18th conference on pattern languages of programs. 2011. Pages 1-8.
 
@@ -58,3 +64,5 @@ _(Ordered alphabetically by the key.)_
 [SZA'22] Szabo, Claudia and Sheard, Judy. "Learning theories use and relationships in computing education research." In ACM Transactions on Computing Education. Association for Computing Machinery, New York, NY, USA, 2022. Vol. 23, issue 1, pages 1-34.
 
 [TUC'77] Tuckman, Bruce W and Jensen, Mary Ann C.. "Stages of Small-Group Development Revisited". In Group & Organization Studies. SAGE Publications Inc., 1977. Vol. 2, issue 4, pages 419-427.
+
+[VIH'14] Vihavainen, Arto, Airaksinen, Jonne and Watson, Christopher. "A systematic review of approaches for teaching introductory programming and their influence on success." In Proceedings of the tenth annual conference on International computing education research. 2014. Pages 19-26.
