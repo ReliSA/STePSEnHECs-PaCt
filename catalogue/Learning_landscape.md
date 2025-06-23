@@ -65,8 +65,6 @@ Lastly, if the Learning landscape also contains Flexible Furniture [[KOH'23]](..
 
 |Pattern|Relation|
 |--|--|
-| related pattern with link (if already in catalogue) one per row (if none, replace table with "n/a", leave section heading) | relation description |
-
  
 ## Example(s) / Known Use(s)
 

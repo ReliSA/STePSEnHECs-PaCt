@@ -55,8 +55,6 @@ Lastly, while soundproofing elements often shield the people inside the Learning
 
 |Pattern|Relation|
 |--|--|
-| related pattern with link (if already in catalogue) one per row (if none, replace table with "n/a", leave section heading) | relation description |
-
  
 ## Example(s) / Known Use(s)
 
