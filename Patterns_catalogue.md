@@ -120,6 +120,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## Q
 
 ## R
+[Regularly Check Requirements Fulfillment](catalogue/Regularly_Check_Requirements_Fulfillment.md)
+
 [Resolve Conflicts](catalogue/Resolve_Conflicts.md)
 
 ## S
