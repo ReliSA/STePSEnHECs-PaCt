@@ -186,6 +186,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Work on the Non-Business-Critical](catalogue/Non-Essential_Project.md)
 
+[Workstation with (interactive) displays](catalogue/Workstation_with_interactive_displays.md)
+
 ## X
 
 ## Y
