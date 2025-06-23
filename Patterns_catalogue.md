@@ -55,6 +55,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Full Product Backlog from Day One](catalogue/Full_Product_Backlog_from_Day_One.md)
 
 ## G
+[Give a First Warning](catalogue/Give_a_First_Warning.md)
+
 [Grip on the assignment](catalogue/Grip_on_the_assignment.md)
 
 ## H
