@@ -28,7 +28,6 @@ It is always better to ask than to just assume whenever there is uncertainty. Wi
 
 In some cases it is not possible to clarify all assignment aspects at one time. In that case start with clarifying these aspects first which you need for being able to start with the  assignment and postpone the clarification of the other aspects to a later moment.
 
-
 After all — or enough — assignment parts are clear to you, you should be able to [DELIVER HIGH QUALITY PRODUCTS](Deliver_High_Quality_Products). Perhaps you have to  [FILL KNOWLEDGE GAPS](Fill_Knowledge_Gaps.md) of some group members.
 
 ## Consequences
@@ -43,12 +42,6 @@ After all — or enough — assignment parts are clear to you, you should be able to
 ## Example(s) / Known Use(s)
 
  - In an assignment that comprised both the requirements elicitation and the development of an online banking system, two groups had to collaborate. One group played hereby the role of the customer, while the other group had to analyze the requirements and to build the system (and vice versa). It was not clear to the groups if they should test the system of the other group in their role as users or if they should test the system developed by them, as the instructional material only stated that the developed system should be tested and that a test-report is expected as part of the deliverables. After asking the teacher what exactly was expected from them, they discovered that each group had to do two tests: a system test of their own system and an acceptance test of the system of the other group, which also had to be documented in a test-report. After this clarification all students knew what to do and they were able to finish this part of the assignment as expected.
-
-## Notes (optional) 
-
-Any (meta-level) remarks and information relevant to the pattern or its description, which do not belong to the previous sections.
-
-Also tables and figures referenced. In case of images in extra files, upload to the proper folder in the repository and link here.
 
 ## [Sources](../References.md)
 
