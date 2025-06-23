@@ -80,6 +80,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## H
 [Hackathon](catalogue/Hackathon.md)
 
+[Hands On First](catalogue/Hands_On_First.md)
+
 [Higher Ceremony](catalogue/Higher_Ceremony.md)
 
 ## I

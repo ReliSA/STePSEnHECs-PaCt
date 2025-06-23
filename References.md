@@ -17,9 +17,13 @@ _(Ordered alphabetically by the key.)_
 
 [DEC'12] Deci, Edward L. and Ryan, Richard M.. "Self-Determination Theory". In Handbook of Theories of Social Psychology. SAGE Publications Inc., 2012. Vol. 1, issue 20, pages 416-436.
 
+[DIL'16] Dillon, Alexander E., Stolk, Jonathan D., Zastavker, Yevgeniya V. and Gross, Michael D.. "Motivation is a two-way street: pedagogies employing discussion in addition to lecture display more positive student motivational response." In 2016 ASEE Annual Conference & Exposition. 2016.
+
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
+
+[IBA'09] Iba, Takashi, Miyake, Toko, Naruse, Miyuko and Yotsumoto, Natsumi. "Learning Patterns: a pattern language for active learners." In Conference on Pattern Languages of Programs (PLoP). 2009. Vol. 10.
 
 [IBA'11] Iba, Takashi and Sakamoto, Mami. "Learning patterns III: a pattern language for creative learning." In Proceedings of the 18th conference on pattern languages of programs. 2011. Pages 1-8.
 
@@ -48,5 +52,7 @@ _(Ordered alphabetically by the key.)_
 [SCH'20-1] Schwaber, K. and Sutherland J. "The Scrum Guide - The definitive rules of the game". https://scrumguides.org/scrum-guide.html. 2020.
 
 [SCH'20-2] Schwaber, K. and Sutherland J. "The Scrum Guide". https://www.scrum.org/resources/scrum-guide. 2020.
+
+[SZA'22] Szabo, Claudia and Sheard, Judy. "Learning theories use and relationships in computing education research." In ACM Transactions on Computing Education. Association for Computing Machinery, New York, NY, USA, 2022. Vol. 23, issue 1, pages 1-34.
 
 [TUC'77] Tuckman, Bruce W and Jensen, Mary Ann C.. "Stages of Small-Group Development Revisited". In Group & Organization Studies. SAGE Publications Inc., 1977. Vol. 2, issue 4, pages 419-427.
