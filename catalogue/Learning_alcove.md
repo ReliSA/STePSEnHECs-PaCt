@@ -58,25 +58,30 @@ Lastly, while soundproofing elements often shield the people inside the Learning
  
 ## Example(s) / Known Use(s)
 
- - Learning alcoves can be designed in the form of a house with a roof and an open side wall. In this form, they can be placed either free-standing in the room or against a wall. Figures 1 and 2 (left) shows an example of such a Learning alcove at the Cologne University of Applied Sciences with two benches facing each other and a work table. The ceiling, side walls and seats are padded for sound insulation. Lighting elements are embedded in the ceiling and there are [Nearby power supply](Nearby_power_supply.md) connections next to the table.
- - The example in Figure 2 (right) shows a Learning alcove at Utrecht University. It is made of wood, with two height-adjusted benches on opposite sides.
+ - Figure 1 shows Learning alcove in the "Lernarena" at the Cologne UAS.
+ - Learning alcoves can be designed in the form of a house with a roof and an open side wall. In this form, they can be placed either free-standing in the room or against a wall. Figures 2 and 3 (left) shows an example of such a Learning alcove at the Cologne University of Applied Sciences with two benches facing each other and a work table. The ceiling, side walls and seats are padded for sound insulation. Lighting elements are embedded in the ceiling and there are [Nearby power supply](Nearby_power_supply.md) connections next to the table.
+ - The example in Figure 3 (right) shows a Learning alcove at Utrecht University. It is made of wood, with two height-adjusted benches on opposite sides.
  - However, Learning alcoves can also be integrated directly into a room and delimited by the room’s side walls. Figure 3 illustrates different solutions for this. The example on the left shows a Learning alcove at Utrecht University: the Learning alcove was installed in a row with other uniform Learning alcoves along a corridor and provides open access to the corridor.
- - The example on the right (Figure 3) shows the integration of a Learning alcove into an existing alcove in a room on the campus of Leipzig University.
+ - The example on the right (Figure 4) shows the integration of a Learning alcove into an existing alcove in a room on the campus of Leipzig University.
 
 ## Notes (optional) 
 
-![Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-1.png "Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)")
+![Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-1.png "Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)")
 
-Figure 1: Noise-protected Learning alcove with display and a [Nearby power supply](Nearby_power_supply.md) (Photo: Christian Hahn)
+Figure 1: Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)
 
-![Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-2.png "Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)")
+![Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-2.png "Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)")
 
-Figure 2: Learning alcoves at the Cologne UAS (left) and
+Figure 2: Noise-protected Learning alcove with display and a [Nearby power supply](Nearby_power_supply.md) (Photo: Christian Hahn)
+
+![Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-3.png "Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)")
+
+Figure 3: Learning alcoves at the Cologne UAS (left) and
 Utrecht University (right) (Photo: Christian Kohls)
 
-![Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-3.png "Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)")
+![Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-4.png "Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)")
 
-Figure 3: Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)
+Figure 4: Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)
 
 ## [Sources](../References.md)
 
