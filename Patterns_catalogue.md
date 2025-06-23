@@ -19,6 +19,8 @@ Browse
 [Big Brother](catalogue/Big_Brother.md)
 
 ## C
+[Centralize Work Product Management](catalogue/Centralize_Work_Product_Management.md)
+
 [Challenging personal learning
 goals](catalogue/Challenging_personal_learning_goals.md)
 
