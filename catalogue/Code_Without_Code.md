@@ -58,7 +58,7 @@ A more tangible visualization increases the participants’ **engagement** [[MCN'9
 
  - *Coding Culture.* As part of the ”Coding Culture Oberberg” research project, a workshop was held with a focus on sorting algorithms. One of the goals was to teach the bubble sort algorithm. However, before this was presented in code-based form, it was visualized using toy bricks, which are shown in figure 1[^1]. First, participants were able to try out different sorting concepts by using toy bricks of different heights. For this purpose, the procedure of the bubble sorting algorithm was then visualized by the workshop holder using the toy bricks. Before this concept was then transferred to a codebased representation, the participants had time to reproduce the procedure with their own toy bricks.
 
-## Notes (optional) 
+## Notes 
 
 ![Multiple toy bricks with different heights to visualize sorting algorithms](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/fig1.png "Multiple toy bricks with different heights to visualize sorting algorithms")
 
