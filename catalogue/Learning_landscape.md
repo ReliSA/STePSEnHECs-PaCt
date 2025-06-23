@@ -65,6 +65,11 @@ Lastly, if the Learning landscape also contains Flexible Furniture [[KOH'23]](..
 
 |Pattern|Relation|
 |--|--|
+|Learning alcove|potential part of|
+|Learning isle|potential part of|
+|Learning corner|potential part of|
+|Learning box|potential part of|
+|Video conference booth|potential part of|
  
 ## Example(s) / Known Use(s)
 
@@ -91,6 +96,22 @@ Figure 3: Learning landscape at the Kiel University Library (Photo: Christian Ko
 ![ Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_landscape-4.png " Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)")
 
 Figure 4: Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)
+
+---
+
+Table 1: Overview, attributes and differences of the five patterns a Learning landscape can consist of
+
+||Learning alcove|Learning isle|Learning corner|Learning box|Video conference booth|
+|--|--|--|--|--|--|
+|Main purpose|Privacy and staying connected to learning environment|Very open, invites others to join|Cosy, open and inviting, some protection and privacy|Private space for a group|Private space for one individual|
+|Best for|Focussed work in small groups|Informal learning, chatting, reading|Read, discuss, look at each others screens|Collaboration in groups|Video conferencing|
+|Privacy|High|Low|Good|Best|Best|
+|Joining others|Medium|Easy|Medium|Difficult|Not possible|
+|Costs|10.000-15.000 Euro|3.000-6.000 Euro|3.000-6.000 Euro|18.000-25.000 Euro|3.000-6.000 Euro|
+|Size|2,5 - 3,5 m2|4-8 m2|4-6 m2|6-8 m2|1 - 1,5 m2|
+|Ease to implement|Medium, involve facility management|Easy|Easy|Difficult, involve facility management|Difficult, involve facility management|
+|Additional display options|Good|Medium|Medium|Very good|Difficult|
+|Power supply options|Very good|Medium|Good|Very good|Very good|
 
 ## [Sources](../References.md)
 
