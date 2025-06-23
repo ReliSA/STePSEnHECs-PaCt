@@ -115,6 +115,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Manage the Project](catalogue/Manage_The_Project.md)
 
 ## N
+[Nearby power supply](catalogue/Nearby_power_supply.md)
+
 [Nominate One Communicator](catalogue/Nominate_One_Communicator.md)
 
 [Non-Daily Scrum](catalogue/Non-Daily_Scrum.md)
