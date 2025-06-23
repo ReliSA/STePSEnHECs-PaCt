@@ -101,6 +101,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## L
 [Learning alcove](catalogue/Learning_alcove.md)
 
+[Learning box](catalogue/Learning_box.md)
+
 [Learning corner](catalogue/Learning_corner.md)
 
 [Learning isle](catalogue/Learning_isle.md)
