@@ -51,8 +51,8 @@ A more tangible visualization increases the participants’ **engagement** [[MCN'9
 
 |Pattern|Relation|
 |--|--|
-|Building Materials [[MUN'17]](](../References.md)|prerequisite|
-|Prototyping [[IBA'11]](](../References.md)|potential enabler|
+|Building Materials [[MUN'17]](../References.md)|prerequisite|
+|Prototyping [[IBA'11]](../References.md)|potential enabler|
  
 ## Example(s) / Known Use(s)
 
