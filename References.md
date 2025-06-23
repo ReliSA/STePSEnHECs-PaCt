@@ -27,6 +27,8 @@ _(Ordered alphabetically by the key.)_
 
 [[KOH'22]]((catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
 
+[[KOP'12]]((catalogue/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1." In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12.
+
 [NUR'20] Nursafira, Mutia Sari. "TED Talks in EFL Context: An Alternative Way for Teaching and Improving Student’s Speaking Skills". In Journal of English Language Studies. 2020. Vol. 2, issue 2, pages 43-47.
 
 [[PIN'25]](catalogue/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.
