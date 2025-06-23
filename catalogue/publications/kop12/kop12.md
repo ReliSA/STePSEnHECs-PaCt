@@ -22,6 +22,6 @@ Köppe, Christian. In Proceedings of the 19th Conference on Pattern Languages of 
 - [Plan External Worktime](../../Plan_External_Worktime.md)
 - [Resolve Conflicts](../../Resolve_Conflicts.md)
 - [Share Expectations](../../Share_Expectations.md)
-- [Spread Tasks Appropriately](../../Spred_Tasks_Appropriately.md)
+- [Spread Tasks Appropriately](../../Spread_Tasks_Appropriately.md)
 - [Support_the_Leader](../../Support_the_Leader.md)
 - [Use a Styleguide](../../Use_a_Styleguide.md)
