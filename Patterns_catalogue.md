@@ -99,6 +99,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Keep Team Spirit](catalogue/Keep_Team_Spirit.md)
 
 ## L
+[Learning alcove](catalogue/Learning_alcove.md)
+
 [Learning landscape](catalogue/Learning_landscape.md)
 
 [Lest not forget - Collecting observations](catalogue/Lest_not_forget.md)
