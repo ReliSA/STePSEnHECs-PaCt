@@ -7,6 +7,8 @@
 
 [Learning Patterns for Group Assignments - Part 1](kop12/kop12.md)
 
+[Learning Patterns for Group Assignments - Part 2](cor13/cor13.md)
+
 [Patterns for Teaching Agile with Student Projects - Team and Project Setup](pin25/pin25.md)
 
 [Supporting ICT-students to make the most out of their projects](jac22/jac22.md)

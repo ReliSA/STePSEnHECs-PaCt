@@ -9,6 +9,8 @@ _(Ordered alphabetically by the key.)_
 
 [COP'05] Coplien, James O. and Harrison, Neil. "Organizational patterns of agile software development". Pearson Prentice Hall, 2005. Vol. 160.
 
+[[COR'13]]((catalogue/publications/kop13/kop13.md) de Cortie, Thomas, et al. "Learning Patterns for Group Assignments - Part 2". In Proceedings of the 20th Pattern Languages of Programs conference, PLoP. 2013. Vol. 13.
+
 [CUR'73] Curtiss, Paul R. and Warren, Phillip W.. "The dynamics of life skills coaching". Prince Albert, Sask.: Training Research and Development Station, Department of Manpower and Immigration, 1973.
 
 [DEC'12] Deci, Edward L. and Ryan, Richard M.. "Self-Determination Theory". In Handbook of Theories of Social Psychology. SAGE Publications Inc., 2012. Vol. 1, issue 20, pages 416-436.
