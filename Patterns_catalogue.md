@@ -24,6 +24,8 @@ goals](catalogue/Challenging_personal_learning_goals.md)
 
 [Check Customer's Privilege](catalogue/Check_Customers_Privilege.md)
 
+[Clear Up Questions](catalogue/Clear_Up_Questions.md)
+
 [Cross-Pollination](catalogue/Cross-Pollination.md)
 
 [Customer’s Side Project](catalogue/Non-Essential_Project.md)
