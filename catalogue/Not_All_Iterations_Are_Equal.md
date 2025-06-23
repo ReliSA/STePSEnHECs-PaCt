@@ -10,7 +10,7 @@
 
 ## Problem
 
-There is a learning curve at the start of the project and some necessary ceremonies at the end of it. It’s unfair to weigh these stages the same as the rest of the project in evaluation.
+There is a learning curve at the start of the project and some necessary ceremonies at the end of it. Also, final steps of the project (incl. handing the product over to customer) tend to be coordination heavy with less to learn.  It’s unfair to weigh these stages the same as the rest of the project in evaluation. 
 
 ## Forces
 
