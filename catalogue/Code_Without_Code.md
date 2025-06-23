@@ -60,7 +60,7 @@ A more tangible visualization increases the participants’ **engagement** [[MCN'9
 
 ## Notes 
 
-![Multiple toy bricks with different heights to visualize sorting algorithms](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/fig1.png "Multiple toy bricks with different heights to visualize sorting algorithms")
+![Multiple toy bricks with different heights to visualize sorting algorithms](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/Code_Without_Code.png "Multiple toy bricks with different heights to visualize sorting algorithms")
 
 Figure 1: Multiple toy bricks with different heights to visualize sorting algorithms
 
