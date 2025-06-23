@@ -19,6 +19,8 @@ _(Ordered alphabetically by the key.)_
 
 [DIL'16] Dillon, Alexander E., Stolk, Jonathan D., Zastavker, Yevgeniya V. and Gross, Michael D.. "Motivation is a two-way street: pedagogies employing discussion in addition to lecture display more positive student motivational response." In 2016 ASEE Annual Conference & Exposition. 2016.
 
+[ECK'02] Eckstein, Jutta, Bergin, Joseph and Sharp, Helen. "Patterns for active learning." In Proceedings of PLOP. 2002.
+
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
@@ -35,9 +37,9 @@ _(Ordered alphabetically by the key.)_
 
 [KIR'18] Kirschner, Paul A., Claessens, Luce Corneel Aline and Raaijmakers, Steven Frederik. "Op de schouders van reuzen: Inspirerende inzichten uit de cognitieve psychologie voor leerkrachten". In Education and Learning: Development in Interaction. Ten Brink Uitgevers, 2018.
 
-[[KOH'22]]((catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
+[[KOH'22]](catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education." In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-7.
 
-[[KOP'12]]((catalogue/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1." In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12.
+[[KOP'12]](catalogue/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1." In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12.
 
 [MCN'99] McNerney, Timothy S. "Tangible programming bricks: An approach to making programming accessible to everyone." PhD dissertation. Massachusetts Institute of Technology, 1999.
 
