@@ -99,6 +99,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Shallow Feedback Loops](catalogue/Shallow_Feedback_Loops.md)
 
+[Share Expectations](catalogue/Share_Expectations.md)
+
 [Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
 [Strictly Time-Boxed Team Ceremonies](catalogue/Strictly_Time-Boxed_Team_Ceremonies.md)
