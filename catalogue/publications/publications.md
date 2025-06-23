@@ -5,7 +5,7 @@
 
 [Hybrid Events in Education](koh22/koh22.md)
 
-[Improving Coding Workshops: A Pattern Collection](catalogue/publications/ber24/ber24.md
+[Improving Coding Workshops: A Pattern Collection](catalogue/publications/ber24/ber24.md)
 
 [Learning Patterns for Group Assignments - Part 1](kop12/kop12.md)
 
