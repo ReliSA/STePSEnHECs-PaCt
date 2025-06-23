@@ -88,7 +88,7 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## J
 
 ## K
-[Keep Motivated](catalogue/Keep_Motivated.md
+[Keep Motivated](catalogue/Keep_Motivated.md)
 
 [Keep Team Spirit](catalogue/Keep_Team_Spirit.md)
 
