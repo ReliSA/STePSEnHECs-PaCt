@@ -23,6 +23,8 @@ _(Ordered alphabetically by the key.)_
 
 [ECK'02] Eckstein, Jutta, Bergin, Joseph and Sharp, Helen. "Patterns for active learning." In Proceedings of PLOP. 2002.
 
+[EZE'17] Eze, Chika and Misava, Edward. "Lecture duration: A risk factor for quality teaching and learning in Higher Education." In Integrity Journal of Education and Training. 2017. Vol. 1, issue 1.
+
 [FAJ'14] Faja, Silvana. "Evaluating Effectiveness of Pair Programming as a Teaching Tool in Programming Courses." In Information Systems Education Journal. 2014. Vol. 12, issue 6, pages 36-45.
 
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
@@ -55,7 +57,11 @@ _(Ordered alphabetically by the key.)_
 
 [OAK'04] Oakley, Barbara, et al. "Turning student groups into effective teams." In Journal of student centered learning. 2004. Vol. 2, issue 1, pages 9-34.
 
+[PAA'16] Paas, Fred, Renkl, Alexander and Sweller, John (eds.). "Cognitive load theory: A Special issue of educational psychologist". Routledge, 2016.
+
 [[PIN'25]](catalogue/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup." In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.
+
+[SCH'94] Schwill, Andreas. "Fundamental ideas of computer science." In Bulletin-European Association for Theoretical Computer Science. 1994. Issue 53, pages 274-274.
 
 [SCH'20-1] Schwaber, K. and Sutherland J. "The Scrum Guide - The definitive rules of the game". https://scrumguides.org/scrum-guide.html. 2020.
 

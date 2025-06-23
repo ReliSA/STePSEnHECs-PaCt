@@ -31,6 +31,8 @@ goals](catalogue/Challenging_personal_learning_goals.md)
 
 [Code Without Code](catalogue/Code_Without_Code.md)
 
+[Connect the pieces](catalogue/Connect_the_pieces.md)
+
 [Cross-Pollination](catalogue/Cross-Pollination.md)
 
 [Customer's Side Project](catalogue/Non-Essential_Project.md)
