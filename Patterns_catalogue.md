@@ -150,6 +150,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Support_the_Leader](catalogue/Support_the_Leader.md)
 
 ## T
+[Take It Home](../../Take_It_Home.md)
+
 [Team Chooses Topic](catalogue/Teams_Choice.md)
 
 [Team's Choice](catalogue/Teams_Choice.md)
