@@ -48,6 +48,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 ## F
 [Face their facts - Student�s accountability](catalogue/Face_their_facts.md)
 
+[Fill Knowledge Gaps](catalogue/Fill_Knowledge_Gaps.md)
+
 [Flipped Conference](catalogue/Flipped_Conference.md)
 
 [From requirements to tasks](catalogue/From_requirements_to_tasks.md)
