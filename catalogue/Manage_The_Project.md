@@ -41,7 +41,6 @@ You should make a decision about how you are going to manage the project. By cho
 ## Example(s) / Known Use(s)
 
  - A group of students got an assignment for 10 weeks. A project leader was assigned by the teachers, but he didn’t take his job seriously. After a week no one knew what the status was or what needed to be done. 2 people worked on the same part and one delivered nothing. In the third week there was a mid-term assessment. This resulted in a bad grade, because the products that were delivered didn’t meet with the requirements.
-
  - So the group decided to manage the project on their own in order to reach a better collaboration. Another project-leader was chosen and she worked out a schedule and arranged meetings on every Wednesday. They also used an online tool with an issue list, to report the problems they encountered. During the weekly meetings, work-parts and the issue-list were discussed. Upcoming tasks were divided and the schedule was adjusted if needed. In the end the use of this project-management contributed to a better final grade.
 
 ## [Sources](../References.md)

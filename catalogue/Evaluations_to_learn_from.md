@@ -27,8 +27,7 @@ Sources on retrospectives focus on the Scrum master/team leader preparing the se
 Be present at the meetings, at least the first two or three times. If you see the students struggle, provide active support, or even take over a session as the moderator. If you do so, decide with the team on who of them will moderate the next session and ask this person to pay particular attention and take notes on how to moderate retrospectives.
 
  - *Measurable facts.* Ask the team to gather metrics about the last sprint prior to the meeting. This makes sure that the discussion during the meeting is based on facts, and that the performance during the sprint can be compared to prior sprints. The metrics we like to use are:
- - - How many person-hours were spent on tasks, compared to
-the estimated effort
+ - - How many person-hours were spent on tasks, compared to the estimated effort
  - - Which tasks were added or changed after the sprint was started
  - - Which tasks were under- or overestimated
  - - What tasks were finished (corresponding to the definition of done) and what tasks had to be taken to the next sprint?

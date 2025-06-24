@@ -45,11 +45,8 @@ Sometimes, the teachers make the groups, so the students can not choose who they
 ## Example(s) / Known Use(s)
 
  - A group assignment divided over a period of six weeks was given to a group of students. They started to work on the assignment four weeks after assignation. Even during the remaining two weeks, minor progress was made. Most work was done during the last two days before the deadline. When the work products where rated, the products did not meet the defined requirements. This resulted in a low grade.
-
  - When asked about what the cause of this was, it seemed that the group was just postponing the assignment and were canceling appointments made. The reason was that instructions of the assignment where vague and they did not take any actions cause their motivation was too low.
-
  - The group was given a second chance, and this time, they started working on the assignment immediately. Any ambiguities regarding the assignment were solved directly by asking the teacher about it. This change of behavior gave the students a clear picture of the products that had to be delivered. During their first meeting they spread the tasks among the team members. Every team member now knew what he had to do.
-
  - With the correct tools applied and a better use of their time, the members of the team knew how to go further in the project and what they could achieve. Their motivation about the class increased with their recent success.
 
 ## [Sources](../References.md)

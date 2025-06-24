@@ -78,8 +78,7 @@ Figure 2: Noise-protected Learning alcove with display and a [Nearby power suppl
 
 ![Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-3.png "Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)")
 
-Figure 3: Learning alcoves at the Cologne UAS (left) and
-Utrecht University (right) (Photo: Christian Kohls)
+Figure 3: Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)
 
 ![Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-4.png "Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)")
 

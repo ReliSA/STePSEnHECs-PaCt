@@ -29,8 +29,8 @@ Make sure that it is clear where the knowledge gaps are, otherwise the first ste
 
 After it is clear which gaps to fill, there are several ways of helping other team members to do so:
 
- — If none of the group members has sufficient knowledge, have one member taking the task of acquiring the knowledge — e.g. by doing some research — and then present it to and share it with the whole group (also known as peer teaching).
- — If at least one member has the knowledge, then share this knowledge by pairing the inexperienced with the experienced team members and have the apprentice learn from the master. Pair programming is a good example of how this is realized in software engineering.
+ - If none of the group members has sufficient knowledge, have one member taking the task of acquiring the knowledge — e.g. by doing some research — and then present it to and share it with the whole group (also known as peer teaching).
+ - If at least one member has the knowledge, then share this knowledge by pairing the inexperienced with the experienced team members and have the apprentice learn from the master. Pair programming is a good example of how this is realized in software engineering.
 
 In order to assure that while filling the gaps it still is possible for group members to work on the overall assignment, it might be helpful to consider to temporarily [SPREAD TASKS APPROPRIATELY](Share_Expectations.md).
 

@@ -16,8 +16,7 @@ Students often do not get more specific than dividing every given feature into f
 
 ## Problem
 
-As a teacher, how can you help students to get from requirements
-to concrete, realistic, well-scoped tasks?
+As a teacher, how can you help students to get from requirements to concrete, realistic, well-scoped tasks?
 
 ## Forces
 

@@ -30,8 +30,7 @@ A possible implementation of the solution described in the context of a coding w
 
 ## Consequences
 
- - (+) The visualization of concepts through physical objects allows reducing the **complexity** of the workshop.
-A more tangible visualization increases the participants’ **engagement** [[MCN'99]](../References.md).
+ - (+) The visualization of concepts through physical objects allows reducing the **complexity** of the workshop. A more tangible visualization increases the participants’ **engagement** [[MCN'99]](../References.md).
  - (+) Visualization through physical objects is **independent of programming languages** and their syntax.
  - (+) The **threshold for engagement** for participants with little or no prior knowledge is reduced, resulting in an increased **beginner-friendliness** [[MCN'99]](../References.md).
  - (+) A physical visual representation increases the **memorability** of new content.

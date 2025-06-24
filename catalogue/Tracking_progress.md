@@ -22,7 +22,7 @@ As a teacher, how can you help students set up the right routines, honest and sh
 ## Solution
 
 The solution mainly applies to the daily stand-up meeting. In Scrum, the daily stand-up is the primary means for tracking progress during a sprint[^1]; but ‘standing up’ can be performed in any project. Moreover, it is not necessary to perform it daily if the project is not the only concern of the team members during the project period. By letting every team member state their progress yesterday and their plans for today all team members commit to specific tasks and the team knows if their project will meet the desired outcomes in time. Performed well, it provides short feedback loops, which helps students to see the results of their work very soon and to make the necessary adjustments. Team members can join the stand-up online, but the best results are achieved if the team meets in real life in the first weeks of the project.
-able
+
 We derived the following tips for teachers to support students during the daily standups:
  - Join the daily stand up at least twice a week so that your attendance feels natural for the students
  - Establish a community of trust: remind students regularly that they are part of a learning community and that making mistakes is part of the game; ideally students learn from each other’s mistakes
