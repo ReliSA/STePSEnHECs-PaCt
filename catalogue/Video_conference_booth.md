@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
+
 ## Context
 
 Students are on campus in their everyday learning lives to take part in face-to-face events. In the context of digitalization, however, consultation meetings between students and lecturers are increasingly taking place online, as this makes it easier and more flexible to find appointments with highly individualized timetables and working hours. Student teams are also increasingly organizing themselves online. Several students participate in an online meeting while on campus, either due to concurrent on-site courses or other campusrelated activities, while others join remotely from home or on the go.
