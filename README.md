@@ -5,11 +5,15 @@ We started this catalogue to collect and consolidate the knowledge on teaching (
 
 ## [Patterns catalogue](Patterns_catalogue.md)
 
-The catalogue proper, including [the template](catalogue/template.md) used in pattern description.
+The catalogue proper.
 
 ## [Category pages](catalogue/categories/categories.md)
 
 Lists patterns by a selected category.
+
+## [Templates](templates/templates.md)
+
+Templates used for [individual pattern descriptions)(templates/template-pattern.md), [pattern category pages](templates/template-category.md) and [pattern publication pages](templates/template-publication.md).
 
 ## [References](References.md)
 
@@ -17,4 +21,4 @@ Literature and online sources used to gather the patterns.
 
 ## Notes
 
-The original contents of the catalogue (as of 2025) is based on a review of academic, professional and grey literature sources to collect the currently known and/or defined relevant patterns.  It uses a description template designed to support ease of use and understanding.  
+The original content of the catalogue (as of 2025) is based on a review of academic, professional and grey literature sources to collect the currently known and/or defined relevant patterns.  It uses a description template designed to support ease of use and understanding.  

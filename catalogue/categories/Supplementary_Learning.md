@@ -1,7 +1,5 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Environment and Infrastructure
+[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Supplementary Learning
 # Category: Supplementary Learning
-
-[Template](../template.md) for new pattern contents.
 
 ## 0-9
 

@@ -1,8 +1,6 @@
 [Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Environment and Infrastructure
 # Category: Environment and Infrastructure
 
-[Template](../template.md) for new pattern contents.
-
 ## 0-9
 
 ## A

@@ -1,8 +1,6 @@
 [Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Course Design
 # Category: Course Design
 
-[Template](../template.md) for new pattern contents.
-
 ## 0-9
 
 ## A
