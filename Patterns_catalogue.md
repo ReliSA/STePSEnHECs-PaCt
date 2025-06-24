@@ -63,6 +63,12 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Fill Knowledge Gaps](catalogue/Fill_Knowledge_Gaps.md)
 
+[Flexible Curtain Systems](catalogue/Flexible_Curtain_Systems.md)
+
+[Flexible Educational Rooms](catalogue/Flexible_Educational_Rooms.md)
+
+[Flexible Furniture](catalogue/Flexible_Furniture.md)
+
 [Flipped Conference](catalogue/Flipped_Conference.md)
 
 [Focus on Seriosness](catalogue/Focus_on_Seriosness.md)
@@ -164,6 +170,8 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 ## T
 [Take It Home](catalogue/Take_It_Home.md)
+
+[Teaching-/Learning Experimentation Rooms](catalogue/Teaching-Learning_Experimentation_Rooms.md)
 
 [Team Chooses Topic](catalogue/Teams_Choice.md)
 

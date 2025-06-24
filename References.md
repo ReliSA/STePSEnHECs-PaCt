@@ -69,7 +69,7 @@ _(Ordered alphabetically by the key.)_
 
 [SCH'20-2] Schwaber, K. and Sutherland J. "The Scrum Guide". 2020. [[link]](https://www.scrum.org/resources/scrum-guide)
 
-[SCH'23] Schröer Sell Architekten, Brandt S., Huber, D., Keller, A., Ninnemann. K., Richter, T. and Sell, G. "Laboratorium Lernräume - Neue Lernräume an der Universität Basel. Universität Basel". Open Publishing Plattform, 2023.
+[SCH'23] Schröer Sell Architekten, Brandt S., Huber, D., Keller, A., Ninnemann. K., Richter, T. and Sell, G. "Laboratorium Lernräume - Neue Lernräume an der Universität Basel". Universität Basel. Open Publishing Plattform, 2023. [[link]](https://doi.org/10.21255/978-3-033-09403-1)
 
 [SZA'22] Szabo, Claudia and Sheard, Judy. "Learning theories use and relationships in computing education research". In ACM Transactions on Computing Education. Association for Computing Machinery, New York, NY, USA, 2022. Vol. 23, issue 1, pages 1-34. [[link]](https://doi.org/10.1145/3487056)
 

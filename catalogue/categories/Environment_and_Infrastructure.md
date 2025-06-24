@@ -17,7 +17,7 @@
 ## F
 [Flexible Curtain Systems](../Flexible_Curtain_Systems.md)
 
-[Flexible Edicational Rooms](../Flexible_Edicational_Rooms.md)
+[Flexible Educational Rooms](../Flexible_Educational_Rooms.md)
 
 [Flexible Furniture](../Flexible_Furniture.md)
 
