@@ -1,6 +1,8 @@
 [Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > Categories
 # Patterns Categories
 
+[Course Design](Course_Design.md)
+
 [Environment and Infrastructure](Environment_and_Infrastructure.md)
 
 [Grading](Grading.md)
