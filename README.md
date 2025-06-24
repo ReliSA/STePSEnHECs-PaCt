@@ -13,7 +13,7 @@ Lists patterns by a selected category.
 
 ## [Templates](templates/templates.md)
 
-Templates used for [individual pattern descriptions)(templates/template-pattern.md), [pattern category pages](templates/template-category.md) and [pattern publication pages](templates/template-publication.md).
+Templates used for [individual pattern descriptions](templates/template-pattern.md), [pattern category pages](templates/template-category.md) and [pattern publication pages](templates/template-publication.md).
 
 ## [References](References.md)
 
