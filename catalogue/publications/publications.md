@@ -15,3 +15,5 @@
 
 [Supporting ICT-students to make the most out of their projects](jac22/jac22.md)
 
+[The dynamic campus - flexible learning spaces for hybrid education](koh23/koh23.md)
+
