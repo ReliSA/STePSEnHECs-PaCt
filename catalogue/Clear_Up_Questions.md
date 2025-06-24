@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
 A group assignment has been given to you and some fellow students, including a description of what has to be done and what is expected from you.

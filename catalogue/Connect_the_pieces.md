@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 In a coding workshop, different contents, which are related to a bigger topic, are taught. Even if these topics belong to a common domain, they are initially treated separately and independently of each other. This approach aligns with the principle of ”Divide & Conquer”, breaking down complex subjects into smaller, more manageable units. Furthermore, in consideration of the cognitive load theory, the separate introduction of individual theory leads to a reduction in the cognitive burden on participants [[PAA'16]](../References.md).

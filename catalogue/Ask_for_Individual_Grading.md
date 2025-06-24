@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Grading](categories/Grading.md)
+
 ## Context
 
 ## Problem

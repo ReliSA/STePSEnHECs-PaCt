@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 The group assignment requires a certain level of knowledge from all group members so that they can fulfill their assigned tasks. This knowledge might be taught in additional courses or expected to be present. The group already did [SHARE EXPECTATIONS](Share_Expectations.md).

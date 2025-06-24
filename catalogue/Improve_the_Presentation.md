@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 ## Problem

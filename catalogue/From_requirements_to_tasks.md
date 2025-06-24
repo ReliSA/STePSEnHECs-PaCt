@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 For an IT professional, deriving tasks from requirements is not difficult when requirements are clear [COP'05](../References.md). They know how to scope tasks, oversee potential difficulties and risks, and take dependencies into account; all this is mostly driven by experience. Students require guidance in this process, as they cannot build upon experience. Translating requirements to concrete tasks with accurate estimates is highly challenging for them.
@@ -97,7 +99,7 @@ Figure 1: From requirements to tasks
 
 ## [Sources](../References.md)
 
-[[JAC'24]](publications/jac22/jac22.md)
+[[JAC'22]](publications/jac22/jac22.md)
 
 ---
 

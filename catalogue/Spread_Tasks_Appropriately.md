@@ -4,10 +4,11 @@
 
 ## [Category](categories/categories.md)
 
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
-A group assignment is given to a group of students. You have been debriefed by the instructor about the several tasks
-and work products that are involved. You find yourself at the beginning of the project.
+A group assignment is given to a group of students. You have been debriefed by the instructor about the several tasks and work products that are involved. You find yourself at the beginning of the project.
 
 ## Problem
 

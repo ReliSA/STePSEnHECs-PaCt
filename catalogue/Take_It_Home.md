@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 The pivotal point of coding workshops lies in knowledge dissemination, which involves the effective transfer of information and skills from the facilitator to the participants. Most of these workshops are self-contained, lacking subsequent tasks or assignments as well as follow-up workshops. Upon the conclusion of coding workshops, learners leave the knowledge field that was taught.

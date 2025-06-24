@@ -4,6 +4,9 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
+
 ## Context
 
 You are a member of a group. You are either in the beginning, in the middle, or in the final phase of the project.

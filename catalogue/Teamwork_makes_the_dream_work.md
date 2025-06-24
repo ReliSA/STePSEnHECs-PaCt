@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 In coding workshops, there exists a variety of potential teaching formats. The traditional approach to convey knowledge relies on independent application of solutions to provided tasks.

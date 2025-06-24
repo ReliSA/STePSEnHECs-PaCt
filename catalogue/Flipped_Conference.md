@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 Students should experience research-based learning. Research includes scientific discourse at conferences - with technical papers, networking, and lively discussions during coffee breaks and at the conference dinner.

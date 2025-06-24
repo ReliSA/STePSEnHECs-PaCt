@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
 A group assignment is given to a group of students, which includes deliverables that has to be finished on a prearranged date. You find yourself at the beginning of the project.

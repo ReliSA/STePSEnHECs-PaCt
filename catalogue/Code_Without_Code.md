@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 As part of a low-level workshop, new computer science concepts, such as algorithms, should be taught to participants. The workshop is aimed at students without prior experience. The workshop focuses mainly on teaching coding-based concepts and is conducted by a computer science expert.

@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 Students should develop solutions with high practical relevance and use new technologies. The possibilities of these technologies are often not yet known and have to be explored. Exploring the possibilities of a new technology often takes a lot of time and requires assistance from experts. In computer science the exploration of new technologies and their interfaces is quite common. However, other domains can also benefit from exploring the use cases of new technology.

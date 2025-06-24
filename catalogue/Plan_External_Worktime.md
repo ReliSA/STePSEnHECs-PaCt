@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Process Tailoring](categories/Process_Tailoring.md)
+
 ## Context
 
 ## Problem

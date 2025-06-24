@@ -6,6 +6,8 @@
 
 ## Context
 
+[Process Tailoring](categories/Process_Tailoring.md)
+
 ## Problem
 
 The group leader — either chosen by the group or assigned by the teacher — does not function as expected and the management of the group is insufficient.

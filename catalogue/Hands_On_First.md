@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 As part of a coding workshop, the educators’ main goal is to keep participants motivated and engaged. At the same time, participants should get hands-on experience about the learned concepts. When planning the sequence of a workshop, educators consider different established approaches.

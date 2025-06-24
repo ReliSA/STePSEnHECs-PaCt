@@ -52,7 +52,6 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Eliminate Bottlenecks](catalogue/Eliminate_Bottlenecks.md)
 
-
 [Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
 
 [Evaluations to learn from](catalogue/Evaluations_to_learn_from.md)
@@ -162,7 +161,7 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Support_the_Leader](catalogue/Support_the_Leader.md)
 
 ## T
-[Take It Home](../../Take_It_Home.md)
+[Take It Home](catalogue/Take_It_Home.md)
 
 [Team Chooses Topic](catalogue/Teams_Choice.md)
 
@@ -179,6 +178,7 @@ meetings](catalogue/Effective_product_delivery_meetings.md)
 [Tracking progress](catalogue/Tracking_progress.md)
 
 ## U
+[Use a Styleguide](catalogue/Use_a_Styleguide.md)
 
 ## V
 [Video conference booth](catalogue/Video_conference_booth.md)

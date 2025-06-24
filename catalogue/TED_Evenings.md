@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Supplementary Learning](categories/Supplementary_Learning.md)
+
 ## Context
 
 There are very well performed talks available for free on the web. The TED Talks are an outstanding example, but there are also much impressive recordings of regular conferences. But how is a link made to the learning outcomes of students’ modules? How do students find the appropriate videos for a course? And how can you interact with each other?

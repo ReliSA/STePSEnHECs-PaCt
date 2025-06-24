@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Team and Project Setup](categories/Team_and_Project_Setup.md)
+
 ## Context
 
 You have to work in a group on an assignment and you might not have worked with all group members before.
