@@ -62,11 +62,11 @@ Scores: 0 = not observed; ? = absent; + = present; ++ = strongly present
 |Plan board is visible for all team members|||
 |Plan board is actively used|||
 |Plan board is up to date when stand up is finished|||
-|A logical sequence is used:<ul><li>Which tasks did you finish yesterday?</li><li>(2) Which tasks will you be completing today?</li><li>(3) Do you experience any impediments?</li></ul>|||
+|A logical sequence is used:<ul><li>Which tasks did you finish yesterday?</li><li>Which tasks will you be completing today?</li><li>Do you experience any impediments?</li></ul>|||
 |The team gives an unisono and substantiated answer to the question if they think the agreed customer goal will be met in time|||
 |If the team agree that there are delays, the team lead discusses the impact on the planning and let the team decide on actions|||
 |Team lead asks if any tasks need to be added|||
-|No vague texts are spoken by any team member. This means everybody talks about:<ul><li>Specific tasks (if possible: issue numbers)</li><li>(2) Specific statuses: to do - in progress - to review – done</li></ul>|||
+|No vague texts are spoken by any team member. This means everybody talks about:<ul><li>Specific tasks (if possible: issue numbers)</li><li>Specific statuses: to do - in progress - to review – done</li></ul>|||
 |It is clear who leads the stand up (in case of a Scrum team: the Scrum master)|||
 |The lead does not allow discussions during the stand up. S/he postpones them till after the stand up|||
 |The stand-up meeting does not take more than 15 minutes|||
