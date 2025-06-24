@@ -12,6 +12,6 @@ Dubbert, Dennis, and Kohls, Christian. In Proceedings of the 29th European Confe
 - [Video conference booth](../../Video_conference_booth.md)
 - [Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
 
-![Relations between the eight provided patterns](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/fig-all.png "Relations between the eight provided patterns")
+![Relations between the eight provided patterns](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/fig-all.png "Relations between the eight provided patterns")
 
 Figure 1: Relations between the eight provided patterns

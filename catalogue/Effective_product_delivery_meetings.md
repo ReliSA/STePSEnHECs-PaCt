@@ -47,7 +47,7 @@ In doing so, you provide the team with an extra goal: their evaluation will not 
 
 ## Notes 
 
-![Effective product delivery meetings](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac22/Effective_product_delivery_meetings.png "Effective product delivery meetings")
+![Effective product delivery meetings](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/Effective_product_delivery_meetings.png "Effective product delivery meetings")
 
 Figure 1: Effective product delivery meetings
 

@@ -65,7 +65,7 @@ Get back to these goals every next visit to the team. This way, they do not forg
 
 ## Notes 
 
-![Evaluations to learn from](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac22/Evaluations_to_learn_from.png "Evaluations to learn from")
+![Evaluations to learn from](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/Evaluations_to_learn_from.png "Evaluations to learn from")
 
 Figure 1: Your routines
 

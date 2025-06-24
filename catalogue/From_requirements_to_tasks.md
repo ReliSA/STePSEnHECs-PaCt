@@ -91,7 +91,7 @@ After some time, get back to them and help improve the task definitions by:
 
 ## Notes (optional) 
 
-![From requirements to tasks](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac22/From_requirements_to_tasks.png "From requirements to tasks")
+![From requirements to tasks](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/From_requirements_to_tasks.png "From requirements to tasks")
 
 Figure 1: From requirements to tasks
 

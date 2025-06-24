@@ -60,7 +60,7 @@ Additionally, it’s important to consider the optimal group size when implementin
 
 ## Notes 
 
-![A visualization of ”Pair Programming”](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/Teamwork_makes_the_dream_work.png "A visualization of ”Pair Programming”")
+![A visualization of ”Pair Programming”](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/ber24/Teamwork_makes_the_dream_work.png "A visualization of ”Pair Programming”")
 
 Figure 1: A visualization of ”Pair Programming”[^1]
 

@@ -64,19 +64,19 @@ If Learning boxes are to be used as break-out rooms for a specific course, it mu
 
 ## Notes (optional) 
 
-![Learning boxes at the Kiel University (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_box-1.png "Learning boxes at the Kiel University (Photo: Christian Kohls)")
+![Learning boxes at the Kiel University (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_box-1.png "Learning boxes at the Kiel University (Photo: Christian Kohls)")
 
 Figure 1: Learning boxes at the Kiel University (Photo: Christian Kohls)
 
-![Learning box at the University of Wuppertal (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_box-2.png "Learning box at the University of Wuppertal (Photo: Christian Kohls)")
+![Learning box at the University of Wuppertal (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_box-2.png "Learning box at the University of Wuppertal (Photo: Christian Kohls)")
 
 Figure 2: Learning box at the University of Wuppertal (Photo: Christian Kohls)
 
-![Circular Learning box at the University of Wuppertal (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_box-3.png "Circular Learning box at the University of Wuppertal (Photo: Christian Kohls)")
+![Circular Learning box at the University of Wuppertal (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_box-3.png "Circular Learning box at the University of Wuppertal (Photo: Christian Kohls)")
 
 Figure 3: Circular Learning box at the University of Wuppertal (Photo: Christian Kohls)
 
-![Learning box made out of a Learning box at the Ruhr West UAS (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_box-4.png "Learning box made out of a Learning box at the Ruhr West UAS (Photo: Christian Kohls)")
+![Learning box made out of a Learning box at the Ruhr West UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_box-4.png "Learning box made out of a Learning box at the Ruhr West UAS (Photo: Christian Kohls)")
 
 Figure 4: Learning box made out of a Learning box at the Ruhr West UAS (Photo: Christian Kohls)
 

@@ -61,11 +61,11 @@ others.
 
 ## Notes 
 
-![Comparison of 3D-printed object and bricks used in the workshop](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/Take_It_Home-1.png "Comparison of 3D-printed object and bricks used in the workshop")
+![Comparison of 3D-printed object and bricks used in the workshop](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/ber24/Take_It_Home-1.png "Comparison of 3D-printed object and bricks used in the workshop")
 
 Figure 1: Comparison of 3D-printed object and bricks used in the workshop
 
-![Wooden pattern coins from EuroPLoP 2023](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/Take_It_Home-2.png "Wooden pattern coins from EuroPLoP 2023")
+![Wooden pattern coins from EuroPLoP 2023](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/ber24/Take_It_Home-2.png "Wooden pattern coins from EuroPLoP 2023")
 
 Figure 2: Wooden pattern coins from EuroPLoP 2023
 

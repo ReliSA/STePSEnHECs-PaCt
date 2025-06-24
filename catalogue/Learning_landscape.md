@@ -85,19 +85,19 @@ Lastly, if the Learning landscape also contains Flexible Furniture [[KOH'23]](..
 
 ## Notes (optional) 
 
-![The "Lernarena", a Learning landscape at the Cologne UAS (Photo: Guido Münster)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_landscape-1.png "The "Lernarena", a Learning landscape at the Cologne UAS (Photo: Guido Münster)")
+![The "Lernarena", a Learning landscape at the Cologne UAS (Photo: Guido Münster)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_landscape-1.png "The "Lernarena", a Learning landscape at the Cologne UAS (Photo: Guido Münster)")
 
 Figure 1: The "Lernarena", a Learning landscape at the Cologne UAS (Photo: Guido Münster)
 
-![Learning landscape at the OWL UAS (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_landscape-2.png "Learning landscape at the OWL UAS (Photo: Christian Kohls)")
+![Learning landscape at the OWL UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_landscape-2.png "Learning landscape at the OWL UAS (Photo: Christian Kohls)")
 
 Figure 2: Learning landscape at the OWL UAS (Photo: Christian Kohls)
 
-![Learning landscape at the Kiel University Library (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_landscape-3.png "Learning landscape at the Kiel University Library (Photo: Christian Kohls)")
+![Learning landscape at the Kiel University Library (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_landscape-3.png "Learning landscape at the Kiel University Library (Photo: Christian Kohls)")
 
 Figure 3: Learning landscape at the Kiel University Library (Photo: Christian Kohls)
 
-![ Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_landscape-4.png " Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)")
+![ Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_landscape-4.png " Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)")
 
 Figure 4: Learning landscape at the University of Strathclyde, extending across multiple floors (Photo: Christian Kohls)
 

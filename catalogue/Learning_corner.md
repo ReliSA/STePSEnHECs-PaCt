@@ -73,15 +73,15 @@ Lastly, in order for students to use the Learning corners productively, the work
 
 ## Notes (optional) 
 
-![Learning corner at the "Lernarena" (Photo: Dennis Dubbert)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_corner-1.png "Learning corner at the "Lernarena" (Photo: Dennis Dubbert)")
+![Learning corner at the "Lernarena" (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_corner-1.png "Learning corner at the "Lernarena" (Photo: Dennis Dubbert)")
 
 Figure 1: Learning corner at the "Lernarena" (Photo: Dennis Dubbert)
 
-![Learning corners at the HAW Hamburg (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_corner-2.png "Learning corners at the HAW Hamburg (Photo: Christian Kohls)")
+![Learning corners at the HAW Hamburg (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_corner-2.png "Learning corners at the HAW Hamburg (Photo: Christian Kohls)")
 
 Figure 2: Learning corners at the HAW Hamburg (Photo: Christian Kohls)
 
-![Learning corner at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_corner-3.png "Learning corner at the MIT (Photo: Christian Kohls)")
+![Learning corner at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_corner-3.png "Learning corner at the MIT (Photo: Christian Kohls)")
 
 Figure 3: Learning corner at the MIT (Photo: Christian Kohls)
 

@@ -60,7 +60,7 @@ A possible implementation of the solution described in the context of a coding w
 
 ## Notes 
 
-![Multiple toy bricks with different heights to visualize sorting algorithms](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/ber24/Code_Without_Code.png "Multiple toy bricks with different heights to visualize sorting algorithms")
+![Multiple toy bricks with different heights to visualize sorting algorithms](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/ber24/Code_Without_Code.png "Multiple toy bricks with different heights to visualize sorting algorithms")
 
 Figure 1: Multiple toy bricks with different heights to visualize sorting algorithms
 

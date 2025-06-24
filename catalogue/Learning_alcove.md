@@ -70,19 +70,19 @@ Lastly, while soundproofing elements often shield the people inside the Learning
 
 ## Notes (optional) 
 
-![Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-1.png "Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)")
+![Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_alcove-1.png "Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)")
 
 Figure 1: Learning alcove in the "Lernarena" at the Cologne UAS (Photo: Guido Münster)
 
-![Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-2.png "Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)")
+![Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_alcove-2.png "Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)")
 
 Figure 2: Noise-protected Learning alcove with display and a [Nearby power supply](Nearby_power_supply.md) (Photo: Christian Hahn)
 
-![Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-3.png "Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)")
+![Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_alcove-3.png "Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)")
 
 Figure 3: Learning alcoves at the Cologne UAS (left) and Utrecht University (right) (Photo: Christian Kohls)
 
-![Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/dub24/Learning_alcove-4.png "Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)")
+![Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_alcove-4.png "Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)")
 
 Figure 4: Integrated Learning alcoves at the Utrecht University (left) and Leipzig University (right) (Photo: Christian Kohls)
 
