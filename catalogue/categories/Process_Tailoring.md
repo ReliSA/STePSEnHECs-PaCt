@@ -8,6 +8,7 @@
 ## B
 
 ## C
+[Celebrate Your Team](../Keep_Team_Spirit.md)
 
 ## D
 [Deliver High Quality Products](../Deliver_High_Quality_Products.md)

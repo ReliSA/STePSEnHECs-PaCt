@@ -2,6 +2,10 @@
 
 # Keep Team Spirit (Draft)
 
+## Also Known As
+
+Celebrate Your Team
+
 ## [Category](categories/categories.md)
 
 [Process Tailoring](categories/Process_Tailoring.md)

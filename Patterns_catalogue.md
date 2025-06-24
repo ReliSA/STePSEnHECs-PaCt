@@ -20,6 +20,8 @@ Browse
 [Big Brother](catalogue/Big_Brother.md)
 
 ## C
+[Celebrate Your Team](catalogue/Keep_Team_Spirit.md)
+
 [Centralize Work Product Management](catalogue/Centralize_Work_Product_Management.md)
 
 [Challenging personal learning
