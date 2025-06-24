@@ -26,13 +26,24 @@ Sources on retrospectives focus on the Scrum master/team leader preparing the se
 
 Be present at the meetings, at least the first two or three times. If you see the students struggle, provide active support, or even take over a session as the moderator. If you do so, decide with the team on who of them will moderate the next session and ask this person to pay particular attention and take notes on how to moderate retrospectives.
 
- - *Measurable facts.* Ask the team to gather metrics about the last sprint prior to the meeting. This makes sure that the discussion during the meeting is based on facts, and that the performance during the sprint can be compared to prior sprints. The metrics we like to use are:
- - - How many person-hours were spent on tasks, compared to the estimated effort
- - - Which tasks were added or changed after the sprint was started
- - - Which tasks were under- or overestimated
- - - What tasks were finished (corresponding to the definition of done) and what tasks had to be taken to the next sprint?
- - - If coding is part of the work and the tool stack provides for data: code-metrics like lines of code, commits per person, pull requests per person, test coverage could be retrieved
- - *Personal perception.* Ask every member of the team to think of personal feedback for every other team member prior to the meeting.
+<ul>
+    <li><i>Measurable facts.</i> Ask the team to gather metrics about the last sprint prior to the meeting. This makes sure that the discussion during the meeting is based on facts, and that the performance during the sprint can be compared to prior sprints. The metrics we like to use are: 
+    <ul>
+        <li>How many person-hours were spent on tasks, compared to the estimated effort 
+        </li>
+        <li>Which tasks were added or changed after the sprint was started 
+        </li>
+        <li>Which tasks were under- or overestimated 
+        </li>
+        <li>What tasks were finished (corresponding to the definition of done) and what tasks had to be taken to the next sprint? 
+        </li>
+        <li>If coding is part of the work and the tool stack provides for data: code-metrics like lines of code, commits per person, pull requests per person, test coverage could be retrieved 
+        </li>
+    </ul>
+    </li>
+    <li><i>Personal perception.</i> Ask every member of the team to think of personal feedback for every other team member prior to the meeting. 
+    </li>
+</ul>
 
 Make sure that the personal feedback round is done seriously, honestly and unharmful. Feedback is always aimed at better teamwork and becoming a better software engineer. Remind the students of their community-of-trust relationship.
 

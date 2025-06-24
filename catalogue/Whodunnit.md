@@ -22,14 +22,24 @@ How do you use metrics from a tool stack in a good way?
 ## Solution
 
 The solution is a process again:
- - **Cost before benefit.** If you want to work with metrics, you need to delve into the possibilities offered by the specific tool stack and discuss with your colleagues what should be the most useful metrics. The tool stacks are not designed for grading information, so you need to figure out which possibilities there are. Sometimes you even need to write a plugin to derive the data from the stack.
- - **Train students how to use the tool stack properly.** The success of their project depends partly on the use of the tool stack. This means that just telling how to use is is not enough. Check on them using it correctly and let them adapt if necessary.
- - **Calculate the averages for every metric.** This gives you a hint of the project team’s productivity as a whole.
- - **Look for outliers.** Be ’suspicious’ of the students who score very high or low towards an average. It goes without saying that the lowest scorers might be doing too little. On the other hand the highest scorers might be frequent-committers or the students who correct language errors one by one; their high score certainly does not necessarily mean they are the most industrious.
- - **Some rules of thumb you could use when interpreting
-the numbers:**
-  - - Students who score more than approximately 20 percent above or below average have your special interest. 20 percent is of course an arbitrarily chosen border, 15 percent could work as well. The objective is to help you to differentiate between ’the good majority’ and outliers.
-  - - For hours spent on tasks: 50-60 percent of the available time is directly spent on tasks concerning the product-tobe. We expect students to work 40 hours per week on their project, so approximately 20-24 hours should be traceable in the tool stack.
+<ul>
+    <li><b>Cost before benefit.</b> If you want to work with metrics, you need to delve into the possibilities offered by the specific tool stack and discuss with your colleagues what should be the most useful metrics. The tool stacks are not designed for grading information, so you need to figure out which possibilities there are. Sometimes you even need to write a plugin to derive the data from the stack. 
+    </li>
+    <li><b>Train students how to use the tool stack properly.</b> The success of their project depends partly on the use of the tool stack. This means that just telling how to use is is not enough. Check on them using it correctly and let them adapt if necessary. 
+    </li>
+    <li><b>Calculate the averages for every metric.</b> This gives you a hint of the project team’s productivity as a whole. 
+    </li>
+    <li><b>Look for outliers.</b> Be ’suspicious’ of the students who score very high or low towards an average. It goes without saying that the lowest scorers might be doing too little. On the other hand the highest scorers might be frequent-committers or the students who correct language errors one by one; their high score certainly does not necessarily mean they are the most industrious. 
+    </li>
+    <li><b>Some rules of thumb you could use when interpreting the numbers:</b> 
+    <ul>
+        <li>Students who score more than approximately 20 percent above or below average have your special interest. 20 percent is of course an arbitrarily chosen border, 15 percent could work as well. The objective is to help you to differentiate between ’the good majority’ and outliers. 
+        </li>
+        <li>For hours spent on tasks: 50-60 percent of the available time is directly spent on tasks concerning the product-tobe. We expect students to work 40 hours per week on their project, so approximately 20-24 hours should be traceable in the tool stack. 
+        </li>
+        </li>
+    </ul>
+</ul>
 
 ## Consequences
 

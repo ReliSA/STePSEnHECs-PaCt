@@ -19,24 +19,48 @@ As they are novices to ICT-projects, students do not recognize the fuzziness com
 ## Solution
 
 In the following, we present some cross-cutting solution aspects of supervising student projects before diving into the specific patterns. These solutions are about setting up your routines for the project period, for preparing and visiting the team. Likewise, the general forces, these aspects are recurring in all patterns.
- - *Setting up your routines for the project period.* When setting up your routines consider the following points:
- - - It is more effective to visit your team five times a week for half an hour than to visit it once for 2,5 hours
- - - Divide your visits into sessions regarding the ceremonies as described in the patterns, and -mostly shorter- general visits in which you have your own agenda. Also plan for individual talks to students
- - - When planning your work with the teams, rely on the technique of scaffolding [[KIR'06]](../References.md): In the first few weeks they need
-far more guidance than later
- - - It is more efficient and effective to guide two or more groups at a time: your observations in group A will provide you with better ideas in guiding group B and vice versa
- - - If you have colleagues guiding groups in the same period: set up weekly meetings with them. It will appear that your colleagues experience the same as you do. Exchanging best -and
-worst- practices will help enormously to feel more confident
-in the next encounters with your team(s)
- - *Preparing your visits to the team.* Prepare your visits by:
- - - Skimming their work for a maximum of 10 minutes. You will always see something remarkable to discuss with them
- - - Differentiating: some days you focus on group work, others it is individual work
- - *Visiting the team.* During your visits:
- - - Ask if the students have any questions. Or, even better, require them to prepare questions in advance
- - - Be clear in what they do right and what has to be improved. Phrases like: “If I would have to grade you now, you would receive a ... ” work very well. On the other hand be aware that students do not start thinking that everything you see will have an immediate effect on their grades. This prevents them from learning from mistakes. Balance is key.
- - - If you see people lagging in quality or quantity of work: share your observations, ask them if you are right and what they need to do to get up to the right level
- - - Never leave without telling them what you expect them to do now: “next time I visit I want you to have improved on X”
- - - Let the team be responsible for taking notes, so that you both can get back to them if necessary. A concise list of subjects you talked about, or an action list serves well.
+<ul>
+    <li><i>Setting up your routines for the project period.</i> When setting up your routines consider the following points: 
+    <ul>
+        <li>It is more effective to visit your team five times a week for half an hour than to visit it once for 2,5 hours 
+        </li>
+        <li>Divide your visits into sessions regarding the ceremonies as described in the patterns, and -mostly shorter- general visits in which you have your own agenda. Also plan for individual talks to students 
+        </li>
+        <li>When planning your work with the teams, rely on the technique of scaffolding [[KIR'06]](../References.md): In the first few weeks they need far more guidance than later 
+        </li>
+        <li>It is more efficient and effective to guide two or more groups at a time: your observations in group A will provide you with better ideas in guiding group B and vice versa 
+        </li>
+        <li>If you have colleagues guiding groups in the same period: set up weekly meetings with them. It will appear that your colleagues experience the same as you do. Exchanging best -and worst- practices will help enormously to feel more confident in the next encounters with your team(s) 
+        </li>
+    </ul>
+    </li>
+    <li><i>Preparing your visits to the team.</i>
+    
+Prepare your visits by: 
+    <ul>
+        <li>Skimming their work for a maximum of 10 minutes. You will always see something remarkable to discuss with them 
+        </li>
+        <li>Differentiating: some days you focus on group work, others it is individual work 
+        </li>
+    </ul>
+    </li>
+    <li><i>Visiting the team.</i>
+    
+During your visits: 
+    <ul>
+        <li>Ask if the students have any questions. Or, even better, require them to prepare questions in advance 
+        </li>
+        <li>Be clear in what they do right and what has to be improved. Phrases like: “If I would have to grade you now, you would receive a ... ” work very well. On the other hand be aware that students do not start thinking that everything you see will have an immediate effect on their grades. This prevents them from learning from mistakes. Balance is key. 
+        </li>
+        <li>If you see people lagging in quality or quantity of work: share your observations, ask them if you are right and what they need to do to get up to the right level 
+        </li>
+        <li>Never leave without telling them what you expect them to do now: “next time I visit I want you to have improved on X” 
+        </li>
+        <li>Let the team be responsible for taking notes, so that you both can get back to them if necessary. A concise list of subjects you talked about, or an action list serves well. 
+        </li>
+        </li>
+    </ul>
+</ul>
 
 ## Consequences
 
