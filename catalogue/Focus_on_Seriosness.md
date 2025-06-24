@@ -2,6 +2,8 @@
 
 # Focus on Seriosness (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

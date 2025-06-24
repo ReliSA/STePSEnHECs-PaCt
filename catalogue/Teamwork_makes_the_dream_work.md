@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Teamwork makes the dream work
 
-
 # Teamwork makes the dream work
+
+## [Category](categories/categories.md)
 
 ## Context
 
@@ -66,5 +67,7 @@ Figure 1: A visualization of ”Pair Programming”[^1]
 ## [Sources](../References.md)
 
 [[BAR'24]](publications/bar24/bar24.md)
+
+---
 
 [^1]: https://www.linkedin.com/pulse/when-implement-pair-programminggetinrhythm/

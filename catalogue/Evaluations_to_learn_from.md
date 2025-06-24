@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >   Evaluations to learn from
 
-
 # Evaluations to learn from
+
+## [Category](categories/categories.md)
 
 ## Context
 

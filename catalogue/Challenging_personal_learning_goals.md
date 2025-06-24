@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Challenging personal learning goals
 
-
 # Challenging personal learning goals
+
+## [Category](categories/categories.md)
 
 ## Context
 

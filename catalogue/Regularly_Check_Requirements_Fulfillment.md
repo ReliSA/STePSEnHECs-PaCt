@@ -2,6 +2,8 @@
 
 # Regularly Check Requirements Fulfillment
 
+## [Category](categories/categories.md)
+
 ## Context
 
 A group assignment is given to a group of students. The project consists of single or multiple deliverables and the quality requirements are determined, either by the teacher or the students. You are at the beginning, middle or final phase of the project.

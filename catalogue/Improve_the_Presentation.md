@@ -2,6 +2,8 @@
 
 # Improve the Presentation (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

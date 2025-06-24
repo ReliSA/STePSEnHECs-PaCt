@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Effective product delivery meetings
 
-
 # Effective product delivery meetings
+
+## [Category](categories/categories.md)
 
 ## Context
 

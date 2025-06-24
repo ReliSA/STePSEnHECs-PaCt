@@ -2,6 +2,8 @@
 
 # Focus the Discussion(Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

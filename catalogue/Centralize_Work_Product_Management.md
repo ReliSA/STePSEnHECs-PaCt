@@ -2,6 +2,8 @@
 
 # Centralize Work Product Management
 
+## [Category](categories/categories.md)
+
 ## Context
 
 Working on a group assignment which includes work products often requires the exchange of these among group members. You already started to [MANAGE THE PROJECT](Manage_The_Project.md) and did [SPREAD TASKS APPROPRIATELY](Spread_Tasks_Appropriately.md).

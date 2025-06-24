@@ -1,6 +1,5 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Pattern template
 
-
 # The Pattern Name
 
 ## Also Known As (optional)
@@ -9,7 +8,7 @@ Other names of this pattern, separated by comma, if exist.
 
 ## [Category](categories/categories.md)
 
-[Category name](categories/Category_file.md)
+[Category name](categories/Category file.md)
 
 ## Context
 
@@ -67,3 +66,7 @@ Also tables and figures referenced. In case of images in extra files, upload to 
 ## [Sources](../References.md)
 
 Shortcuts for references in References.md (with link for each to that file) and/or the word "experience" separated by comma; e.g. [[PIN'25]](publications/pin25/pin25.md).  If the pattern comes from experience, details like projects and organizations where it has been observed should be provided to facilitate verification.
+
+---
+
+[^1]: footnotes (if applicable)

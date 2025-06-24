@@ -2,6 +2,8 @@
 
 # Own Your Work (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

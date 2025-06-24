@@ -1,6 +1,6 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Lest not forget - Collecting observations
 
-#  Lest not forget - Collecting observations
+# Lest not forget - Collecting observations
 
 ## [Category](categories/categories.md)
 

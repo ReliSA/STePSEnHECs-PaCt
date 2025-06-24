@@ -2,6 +2,8 @@
 
 # Learning box
 
+## [Category](categories/categories.md)
+
 ## Context
 
 Teaching at universities is increasingly project-oriented, offering various approaches to project execution. While some projects require workshops, others can be self-organized and completed at home. Many projects involve small teams of 2-4 or 4-8 individuals collaborating on tasks. Despite the rise of online collaboration, meeting in person fosters more intensive teamwork. Working on campus allows students attending courses to gather for group and project work, creating a conducive environment for undisturbed, private collaboration, where students can make the space their own, fostering a sense of privacy and ownership that enhances focused collaboration. The privacy and lack of distraction can be crucial for deep focus, creativity, and effective problem-solving during project work.

@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > TED Evenings
 
-
 # TED Evenings
+
+## [Category](categories/categories.md)
 
 ## Context
 

@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Hands On First
 
-
 # Hands On First
+
+## [Category](categories/categories.md)
 
 ## Context
 
@@ -66,5 +67,7 @@ Figure 1: The application ”Hour of Code”, which consists of smaller individual l
 ## [Sources](../References.md)
 
 [[BAR'24]](publications/bar24/bar24.md)
+
+---
 
 [^1]: https://code.org/hourofcode

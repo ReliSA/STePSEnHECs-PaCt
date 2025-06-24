@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Hackathon
 
-
 # Hackathon
+
+## [Category](categories/categories.md)
 
 ## Context
 

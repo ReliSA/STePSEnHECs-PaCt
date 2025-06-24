@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Your routines
 
-
 # Your routines
+
+## [Category](categories/categories.md)
 
 ## Context
 

@@ -2,6 +2,8 @@
 
 # Nearby power supply
 
+## [Category](categories/categories.md)
+
 ## Context
 
 Mobile devices, such as laptops or smartphones, are important tools for studying. Students use them to access digital learning resources, create and save their own notes and work results or use digital collaboration and communication tools during courses and selfstudy. Studying on campus takes place in a hybrid learning space consisting of a physical and digital learning environment - both in courses and self-directed at individual workstations and group workstations such as [Learning isles](Learning_isle.md), [Learning boxes](Learning_box.md), [Learning alcoves](Learning_alcove.md), etc. The mobile devices you bring with you (bring your own device) are a constant companion in everyday study life and must be supplied with power or charged regularly.

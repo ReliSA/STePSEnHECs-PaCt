@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Flipped Conference
 
-
 # Flipped Conference
+
+## [Category](categories/categories.md)
 
 ## Context
 

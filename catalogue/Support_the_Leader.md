@@ -2,6 +2,8 @@
 
 # Support the Leader (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

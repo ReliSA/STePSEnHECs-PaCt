@@ -2,6 +2,8 @@
 
 # Deliver High Quality Products (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

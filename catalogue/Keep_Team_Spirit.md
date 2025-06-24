@@ -2,6 +2,8 @@
 
 # Keep Team Spirit (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

@@ -2,6 +2,8 @@
 
 # Learning corner
 
+## [Category](categories/categories.md)
+
 ## Context
 
 Students need group workspaces for flexible group sizes, fluid levels of visibility and varying privacy within their learning environment. In a lot of situations, they want to be seen, provide insights into their own learning activities and be part of a larger learning community, without having to completely disclose their documents or media and thereby fully compromising their privacy. Corners resolve this conflict as they have both closed and open sides. They make it possible to view the room from a protected position, creating a pleasant, trusting, enclosed space and an open, safe atmosphere at the same time.

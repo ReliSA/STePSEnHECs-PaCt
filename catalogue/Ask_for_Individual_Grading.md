@@ -2,6 +2,8 @@
 
 # Ask for Individual Grading (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

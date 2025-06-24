@@ -2,6 +2,8 @@
 
 # Clear Up Questions
 
+## [Category](categories/categories.md)
+
 ## Context
 
 A group assignment has been given to you and some fellow students, including a description of what has to be done and what is expected from you.

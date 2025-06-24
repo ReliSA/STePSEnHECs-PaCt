@@ -2,6 +2,8 @@
 
 # Spread Tasks Appropriately
 
+## [Category](categories/categories.md)
+
 ## Context
 
 A group assignment is given to a group of students. You have been debriefed by the instructor about the several tasks

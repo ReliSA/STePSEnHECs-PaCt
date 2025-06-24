@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Take It Home
 
-
 # Take It Home
+
+## [Category](categories/categories.md)
 
 ## Context
 

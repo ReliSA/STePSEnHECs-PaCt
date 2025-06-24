@@ -2,6 +2,8 @@
 
 # Resolve Conflicts
 
+## [Category](categories/categories.md)
+
 ## Context
 
 You are a member of a group. You are either in the beginning, in the middle, or in the final phase of the project.

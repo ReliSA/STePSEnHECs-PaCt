@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > From requirements to tasks
 
-
 # From requirements to tasks
+
+## [Category](categories/categories.md)
 
 ## Context
 
@@ -71,5 +72,7 @@ Figure 1: From requirements to tasks
 ## [Sources](../References.md)
 
 [[JAC'24]](publications/jac22/jac22.md)
+
+---
 
 [^1]: A requirement is what the customer wants, a wish. All activities necessary to provide for the wish are tasks. E.g. a requirement is “Please give me a birthday cake”. If the cake is not in the shelf already -which it is not in ICT- you need to define a sequence of smaller tasks to be able to meet the customers wish (choosing which recipe, buying ingredients, baking the cake, icing and delivering it).

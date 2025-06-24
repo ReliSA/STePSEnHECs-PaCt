@@ -2,6 +2,8 @@
 
 # Learning alcove
 
+## [Category](categories/categories.md)
+
 ## Context
 
 Campus life consists of a colorful hustle and bustle in which private and study-oriented situations merge into one another. Students need to switch between multiple forms of learning: self-organized or guided, individual or collaborative, in small or large groups, formal or informal. Transitions between these activities, social forms and media use should be seamless, especially when it comes to varying levels of privacy. In courses, certain activities demand secluded learning spaces, providing groups with temporary high privacy without complete isolation from the overall learning community. They should still feel as part of a bigger learning community and be perceived as active members of the group to remain available for dynamic interactions, while having a sense of great protection which enables undisturbed communication, advancing the groups work and development of results.

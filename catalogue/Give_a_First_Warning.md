@@ -2,6 +2,8 @@
 
 # Give a First Warning
 
+## [Category](categories/categories.md)
+
 ## Context
 
 All members of the group did [SHARE EXPECTATIONS](Share_Expectations.md) and started working on the group assignment.

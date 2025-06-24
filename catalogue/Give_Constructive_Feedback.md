@@ -2,6 +2,8 @@
 
 # Give Constructive Feedback (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

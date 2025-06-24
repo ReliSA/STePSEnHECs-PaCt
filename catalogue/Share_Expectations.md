@@ -2,6 +2,8 @@
 
 # Share Expectations
 
+## [Category](categories/categories.md)
+
 ## Context
 
 You have to work in a group on an assignment and you might not have worked with all group members before.

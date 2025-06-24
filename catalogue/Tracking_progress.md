@@ -2,6 +2,8 @@
 
 # Tracking progress
 
+## [Category](categories/categories.md)
+
 ## Context
 
 Now the team has a grip on the assignment, defined tasks, and started working. The next step is reporting on progress, which will enlighten the progress, as well as their understanding of the assignment and shows how their skills are improving.
@@ -73,5 +75,7 @@ Scores: 0 = not observed; ? = absent; + = present; ++ = strongly present
 ## [Sources](../References.md)
 
 [[JAC'22]](publications/jac22/jac22.md)
+
+---
 
 [^1]: A sprint is a phase of a project (which lasts mostly 2-4 weeks) in which an increment, a ‘product of value’ is delivered to the customer.

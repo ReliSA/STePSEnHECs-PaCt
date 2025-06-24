@@ -2,6 +2,8 @@
 
 # Plan External Worktime (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

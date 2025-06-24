@@ -2,6 +2,8 @@
 
 # Use a Styleguide (Draft)
 
+## [Category](categories/categories.md)
+
 ## Context
 
 ## Problem

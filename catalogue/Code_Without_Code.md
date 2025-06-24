@@ -1,7 +1,8 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Code Without Code
 
-
 # Code Without Code
+
+## [Category](categories/categories.md)
 
 ## Context
 
@@ -67,5 +68,7 @@ Figure 1: Multiple toy bricks with different heights to visualize sorting algori
 ## [Sources](../References.md)
 
 [[BAR'24]](publications/bar24/bar24.md)
+
+---
 
 [^1]: A visual demonstration can be seen [here](https://th-koeln.sciebo.de/s/l3q4BJ5xdoyTI9T)

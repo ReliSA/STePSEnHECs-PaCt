@@ -2,6 +2,8 @@
 
 # Manage The Project
 
+## [Category](categories/categories.md)
+
 ## Context
 
 You are in the beginning of the project. You have been debriefed by the instructor and know what is expected from you. You received a deadline, resulting in a time-span in which you will have to complete the project.

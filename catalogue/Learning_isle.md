@@ -2,6 +2,8 @@
 
 # Learning isle
 
+## [Category](categories/categories.md)
+
 ## Context
 
 In today’s university environment, students constantly juggle shortterm assignments and spontaneous meetings during and between classes. The focus on project-oriented teaching encourages both individual tasks and impromptu collaborations, for which students need openly accessible workspaces on campus. These spaces should facilitate quick meetings for group projects and provide an environment conducive to individual research. While privacy in these open workspaces can be beneficial for certain tasks, it is not essential for every academic activity and may even hinder student productivity and development in some cases. Ensuring sufficient availability of these spaces on campus is critical to accommodate all students and promote a productive and inclusive academic environment.

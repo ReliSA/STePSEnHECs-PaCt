@@ -2,6 +2,8 @@
 
 # Start Immediately
 
+## [Category](categories/categories.md)
+
 ## Context
 
 A group assignment is given to a group of students, which includes deliverables that has to be finished on a prearranged date. You find yourself at the beginning of the project.

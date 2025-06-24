@@ -1,6 +1,5 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Team Size Limitation
 
-
 # Team Size Limitation
 
 ## Also Known As
