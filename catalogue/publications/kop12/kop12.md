@@ -1,7 +1,7 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Publications](../publications.md) > KOP'12
 # Learning Patterns for Group Assignments - Part 1
 
-Köppe, Christian. In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12.
+Köppe, Christian. In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12. [[link]](https://www.researchgate.net/profile/Christian-Koeppe/publication/230682834_Learning_Patterns_for_Group_Assignments_-_Part_1/links/599a9ebc45851564432f0b1f/Learning-Patterns-for-Group-Assignments-Part-1.pdf)
 
 - [Ask for Individual Grading](../../Ask_for_Individual_Grading.md) 
 - [Centralize Work Product Management](../../Centralize_Work_Product_Management.md)
