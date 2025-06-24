@@ -29,6 +29,8 @@ _(Ordered alphabetically by the key.)_
 
 [FAJ'14] Faja, Silvana. "Evaluating Effectiveness of Pair Programming as a Teaching Tool in Programming Courses". In Information Systems Education Journal. 2014. Vol. 12, issue 6, pages 36-45. [[link]](https://eric.ed.gov/?id=EJ1140923)
 
+[HAR'19] Harth, Thilo and Panke, Stefanie. "Creating Effective Physical Learning Spaces in the Digital Age–Results of a Student-Centered Design Thinking Workshop". E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education. Association for the Advancement of Computing in Education (AACE), 2019. Pages 284-294. [[link]](https://www.learntechlib.org/d/211093/)
+
 [HOS'96] Hoskin, K.. "The ‘awful idea of accountability’: inscribing people into the measurement of objects". In Accountability: Power , Ethos and the Technologies of Managing. International Thomson Business Press, 1996.
 
 [IBA'09] Iba, Takashi, Miyake, Toko, Naruse, Miyuko and Yotsumoto, Natsumi. "Learning Patterns: a pattern language for active learners". In Conference on Pattern Languages of Programs (PLoP). 2009. Vol. 10. [[link]](https://hillside.net/plop/2009/papers/People/Learning%20Patterns%20A%20Pattern%20Language%20for%20Active%20Learners.pdf)
