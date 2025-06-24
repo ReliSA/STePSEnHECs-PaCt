@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 In getting a grip on the assignment, students need help with a balancing act: getting specific enough to be able to start with the project and learning to deal with the uncertainty that comes with the start of any project.

@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 Now the team has a grip on the assignment, defined tasks, and started working. The next step is reporting on progress, which will enlighten the progress, as well as their understanding of the assignment and shows how their skills are improving.

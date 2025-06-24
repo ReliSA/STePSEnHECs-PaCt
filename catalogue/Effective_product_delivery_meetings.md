@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 In fact, product delivery meetings are the team’s second, third etc. meetings with the customer. Product delivery meetings also result in more grip on the assignment, but now this is done by showing specific results, matching them to the expectations of the customer, and deciding how to move on [[SCH'20-2]](../References.md). In the agile world, product delivery meetings are called sprint reviews.

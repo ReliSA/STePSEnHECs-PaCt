@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 In an agile environment, evaluations take place at the end of every sprint. These evaluations are called retrospectives. During a retrospective, the team reflects on how the sprint went regarding people, relationships, process, and tools [[SCH'20-2]](../References.md). If performed well, retrospectives effectively support continuous improvement of the team-members with respect to their professional relationship, productivity, and quality of delivered work.

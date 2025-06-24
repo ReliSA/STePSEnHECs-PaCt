@@ -4,6 +4,8 @@
 
 ## [Category](categories/categories.md)
 
+[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+
 ## Context
 
 Compared to study courses that focus on specific topics (e.g., programming in Java, algorithms and data-structures, mathematics), the learning context in study projects is way more complex. Likewise considering the individual progression of students in a team is difficult. Students have different expertise, skills, problems, and preferences that they bring into the project. While one student may use the project as an opportunity to improve specific technical skills, another student may use it to improve project management or communication skills. Therefore, in our student projects, every student must identify and manage personal learning goals explicitly. These goals are regularly revisited and considered when grading the students.
