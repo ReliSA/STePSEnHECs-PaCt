@@ -53,7 +53,7 @@ others.
 |Pattern|Relation|
 |--|--|
 |Output-Driven Learning [[IBA'09]](../References.md)|can facilitate|
-|Embodied Skills [[IBA'11]](](../References.md)|potentially facilitated by|
+|Embodied Skills [[IBA'11]](../References.md)|potentially facilitated by|
  
 ## Example(s) / Known Use(s)
 

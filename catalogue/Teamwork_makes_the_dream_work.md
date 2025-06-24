@@ -52,7 +52,7 @@ Additionally, it’s important to consider the optimal group size when implementin
 |Pattern|Relation|
 |--|--|
 |Community of Learning [[IBA'10]](../References.md)|supports solution|
-|Release of Thought [[IBA'09]](](../References.md)|supported by|
+|Release of Thought [[IBA'09]](../References.md)|supported by|
 |Ice Breaker [[BER'06]](../References.md)|facilitates|
 |Open-Process Learning [[IBA'11]](../References.md)|facilitates|
  
