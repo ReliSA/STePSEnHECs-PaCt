@@ -8,23 +8,23 @@
 ## B
 
 ## C
-[Code Without Code](../Code_Without_Code.md)
+[Code Without Code](../../Code_Without_Code.md)
 
-[Connect the pieces](../Connect_the_pieces.md)
+[Connect the pieces](../../Connect_the_pieces.md)
 
 ## D
 
 ## E
 
 ## F
-[Flipped Conference](../Flipped_Conference.md)
+[Flipped Conference](../../Flipped_Conference.md)
 
 ## G
 
 ## H
-[Hackathon](../Hackathon.md)
+[Hackathon](../../Hackathon.md)
 
-[Hands On First](../Hands_On_First.md)
+[Hands On First](../../Hands_On_First.md)
 
 ## I
 
@@ -49,11 +49,11 @@
 ## S
 
 ## T
-[Take It Home](../Take_It_Home.md)
+[Take It Home](../../Take_It_Home.md)
 
-[Teamwork makes the dream work](../Teamwork_makes_the_dream_work.md)
+[Teamwork makes the dream work](../../Teamwork_makes_the_dream_work.md)
 
-[TED Evenings](../TED_Evenings.md)
+[TED Evenings](../../TED_Evenings.md)
 
 ## U
 

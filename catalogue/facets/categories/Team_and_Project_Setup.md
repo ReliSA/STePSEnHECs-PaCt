@@ -8,14 +8,14 @@
 ## B
 
 ## C
-[Clear Up Questions](../Clear_Up_Questions.md)
+[Clear Up Questions](../../Clear_Up_Questions.md)
 
-[Customer’s Side Project](../Non-Essential_Project.md)
+[Customer’s Side Project](../../Non-Essential_Project.md)
 
 ## D
 
 ## E
-[Enough Cooks in the Kitchen](../Team_Size_Limitation.md)
+[Enough Cooks in the Kitchen](../../Team_Size_Limitation.md)
 
 ## F
 
@@ -34,9 +34,9 @@
 ## M
 
 ## N
-[Non-Essential Project](../Non-Essential_Project.md)
+[Non-Essential Project](../../Non-Essential_Project.md)
 
-[Not Business Critical](../Non-Essential_Project.md)
+[Not Business Critical](../../Non-Essential_Project.md)
 
 ## O
 
@@ -47,29 +47,29 @@
 ## R
 
 ## S
-[Self-Assembling Teams](../Self-Assembling_Teams.md)
+[Self-Assembling Teams](../../Self-Assembling_Teams.md)
 
-[Share Expectations](../Share_Expectations.md)
+[Share Expectations](../../Share_Expectations.md)
 
-[Smaller Project Scope](../Smaller_Project_Scope.md)
+[Smaller Project Scope](../../Smaller_Project_Scope.md)
 
-[Spread Tasks Appropriately](../Spread_Tasks_Appropriately.md)
+[Spread Tasks Appropriately](../../Spread_Tasks_Appropriately.md)
 
-[Start Immediately](../Start_Immediately.md)
+[Start Immediately](../../Start_Immediately.md)
 
 ## T
-[Team Chooses Topic](../Teams_Choice.md)
+[Team Chooses Topic](../../Teams_Choice.md)
 
-[Team's Choice](../Teams_Choice.md)
+[Team's Choice](../../Teams_Choice.md)
 
-[Time Size Limitation](../Team_Size_Limitation.md)
+[Time Size Limitation](../../Team_Size_Limitation.md)
 
 ## U
 
 ## V
 
 ## W
-[Work on the Non-Business-Critical](../Non-Essential_Project.md)
+[Work on the Non-Business-Critical](../../Non-Essential_Project.md)
 
 ## X
 
