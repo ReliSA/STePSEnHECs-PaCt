@@ -2,9 +2,9 @@
 
 # Strictly Time-Boxed Team Ceremonies (Draft)
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
 
-[Process Tailoring](categories/Process_Tailoring.md)
+[Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
 
 ## Context
 

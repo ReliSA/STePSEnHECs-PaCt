@@ -2,9 +2,9 @@
 
 # Flipped Conference
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
 
-[Supplementary Learning](categories/Supplementary_Learning.md)
+[Category](facets/categories/categories.md): [Supplementary Learning](facets/categories/Supplementary_Learning.md)
 
 ## Context
 

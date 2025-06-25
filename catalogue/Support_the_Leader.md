@@ -2,7 +2,9 @@
 
 # Support the Leader (Draft)
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
+
+[Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
 
 ## Context
 

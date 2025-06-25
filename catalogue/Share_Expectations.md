@@ -2,9 +2,9 @@
 
 # Share Expectations
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
 
-[Team and Project Setup](categories/Team_and_Project_Setup.md)
+[Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
 
 ## Context
 

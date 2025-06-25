@@ -2,9 +2,9 @@
 
 # Give a First Warning
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
 
-[Transparency and Guidance](categories/Transparency_and_Guidance.md)
+[Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
 
 ## Context
 

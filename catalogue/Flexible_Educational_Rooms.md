@@ -2,9 +2,9 @@
 
 # Flexible Educational Rooms
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
 
-[Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
+[Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md)
 
 ## Synopsis
 

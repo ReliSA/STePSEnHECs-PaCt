@@ -2,9 +2,9 @@
 
 # 2+2 makes four eyes - Grading individuals is teamwork
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
 
-[Grading](categories/Grading.md)
+[Category](facets/categories/categories.md): [Grading](facets/categories/Grading.md)
 
 ## Context
 

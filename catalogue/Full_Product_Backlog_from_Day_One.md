@@ -2,11 +2,11 @@
 
 # Full Product Backlog from Day One (Draft)
 
-## [Category](categories/categories.md)
+## [Facets](facets/facets.md)
 
-## Category
+[Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
 
-[Process Tailoring](categories/Process_Tailoring.md)
+## Context
 
 ## Problem
 
