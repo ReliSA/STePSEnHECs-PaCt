@@ -59,8 +59,12 @@ Make them aware of any criteria that need to be met and give them a near enough 
  - [Software Engineering](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882), [Large Scale Software Development](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=518806) -- Students in the same lab class self-assemble in teams depending on the team size defined by the teachers during the first lab class. When teams deviate from the expected size (either when a team has too many students or there are students without a team), the teacher intervenes and facilitates team assembly with the students.
  - [Team Project](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem5_MLE5012_en_dsuciu_2025_9414.pdf) - Project teams used to be formed randomly or based on various other criteria, but participants' motivation was negatively affected. Now, they use self-assembling teams following exactly this pattern.
  - [Software Construction](https://www.fhnw.ch/plattformen/swc/) - Uses an online sign-up sheet for students to form teams.
- - System Engineering course - Students are free to form the teams on their own.
+ - System Engineering course[^1] - Students are free to form the teams on their own.
  
 ## [Sources](../References.md)
 
 [[PIN'25]](publications/pin25/pin25.md)
+
+---
+
+[^1]: a course formerly taught at Free University of Bozen-Bolzano
