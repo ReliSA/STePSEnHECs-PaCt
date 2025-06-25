@@ -4,7 +4,7 @@
 
 ## [Category](categories/categories.md)
 
-[Learner Support](categories/Learner_Support.md)
+[Process Tailoring](categories/Process_Tailoring.md)
 
 ## Context
 

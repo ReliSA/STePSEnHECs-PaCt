@@ -13,6 +13,8 @@
 ## D
 [Deliver High Quality Products](../Deliver_High_Quality_Products.md)
 
+[Disproportional Initial Stage](../Disproportional_Initial_Stage.md)
+
 [Dual Process Ownership](../Dual_Process_Ownership.md)
 
 ## E
@@ -23,9 +25,12 @@
 
 [Focus the Discussion](../Focus_the_Discussion.md)
 
+[Full Product Backlog from Day One](../Full_Product_Backlog_from_Day_One.md)
+
 ## G
 
 ## H
+[Higher Ceremony](../Higher_Ceremony.md)
 
 ## I
 
@@ -60,6 +65,8 @@
 [Self-Defined Policies](../Self-Defined_Policies.md)
 
 [Shallow Feedback Loops](../Shallow_Feedback_Loops.md)
+
+[Strictly Time-Boxed Team Ceremonies](../Strictly_Time-Boxed_Team_Ceremonies.md)
 
 [Support_the_Leader](../Support_the_Leader.md)
 

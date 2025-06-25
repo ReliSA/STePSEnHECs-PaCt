@@ -6,7 +6,7 @@
 
 ## Category
 
-[Learner Support](categories/Learner_Support.md)
+[Process Tailoring](categories/Process_Tailoring.md)
 
 ## Problem
 

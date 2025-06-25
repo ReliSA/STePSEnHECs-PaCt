@@ -7,8 +7,6 @@
 
 [Grading](Grading.md)
 
-[Learner Support](Learner_Support.md)
-
 [Process Tailoring](Process_Tailoring.md)
 
 [Supplementary Learning](Supplementary_Learning.md)
