@@ -1,4 +1,4 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > 
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > 
 Name
 # Category: Name
 

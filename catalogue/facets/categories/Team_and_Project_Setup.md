@@ -1,4 +1,4 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Team and Project Setup
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Team and Project Setup
 # Category: Team and Project Setup
 
 ## 0-9

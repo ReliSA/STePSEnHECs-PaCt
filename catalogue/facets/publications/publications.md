@@ -1,4 +1,4 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > Publications
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > Publications
 # Patterns publications
 
 [Grading individual students in software engineering projects confidently](jac24/jac24.md)

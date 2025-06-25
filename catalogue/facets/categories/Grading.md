@@ -1,4 +1,4 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Grading
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Grading
 # Category: Grading
 
 ## 0-9

@@ -1,4 +1,4 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > Categories
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > Categories
 # Patterns Categories
 
 [Course Design](Course_Design.md)

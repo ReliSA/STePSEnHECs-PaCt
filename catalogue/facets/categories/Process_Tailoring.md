@@ -1,4 +1,4 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Process Tailoring
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Process Tailoring
 # Category: Process Tailoring
 
 ## 0-9

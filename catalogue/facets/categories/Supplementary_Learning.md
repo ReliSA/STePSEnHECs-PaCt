@@ -1,4 +1,4 @@
-[Home](../../README.md) > [Catalogue](../../Patterns_catalogue.md) > [Categories](categories.md) > Supplementary Learning
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Supplementary Learning
 # Category: Supplementary Learning
 
 ## 0-9

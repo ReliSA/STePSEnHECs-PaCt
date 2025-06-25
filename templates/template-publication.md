@@ -1,8 +1,8 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Publications](../publications.md) > Publication_shorthand
+[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../../facets.md) > [Publications](../publications.md) > Publication_shorthand
 # Publication Name
 
 Rest of the publication' reference 
 
-- [Pattern 1 Name](../pattern_1_link.md)
+- [Pattern 1 Name](../../../pattern 1 file)
 
 Auxilary materials applicable to the whole publications, like figures, tables, etc.

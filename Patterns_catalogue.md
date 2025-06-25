@@ -5,8 +5,9 @@
 
 Browse
 --
- - [by category](catalogue/categories/categories.md),
- - [by publication](catalogue/publications/publications.md),
+ - [by category](catalogue/facets/categories/categories.md),
+ - [by perspective](catalogue/facets/perspectives/perspectives.md),
+ - [by publication](catalogue/facets/publications/publications.md),
  - all alphabtically below.
 
 --- 

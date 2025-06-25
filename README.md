@@ -7,9 +7,9 @@ We started this catalogue to collect and consolidate the knowledge on teaching (
 
 The catalogue proper.
 
-## [Category pages](catalogue/categories/categories.md)
+## [Faceted classification](catalogue/facets/facets.md)
 
-Lists patterns by a selected category.
+Lists patterns by a selected [category](catalogue/facets/categories/categories.md), [perspective](catalogue/facets/perspectives/perspectives.md) or source [publication](catalogue/facets/publications/publications.md).
 
 ## [Templates](templates/templates.md)
 
