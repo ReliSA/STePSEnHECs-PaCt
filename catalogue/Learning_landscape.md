@@ -71,13 +71,13 @@ Lastly, if the Learning landscape also contains Flexible Furniture [[KOH'23]](..
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|Learning alcove|potential part of|
-|Learning isle|potential part of|
-|Learning corner|potential part of|
-|Learning box|potential part of|
-|Video conference booth|potential part of|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|Learning alcove|potential part of||
+|Learning isle|potential part of||
+|Learning corner|potential part of||
+|Learning box|potential part of||
+|Video conference booth|potential part of||
  
 ## Example(s) / Known Use(s)
 

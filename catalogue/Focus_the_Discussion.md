@@ -22,8 +22,8 @@ Stay inside the scope of the problem, write down the results and regularly check
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

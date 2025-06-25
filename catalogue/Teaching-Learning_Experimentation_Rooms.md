@@ -60,8 +60,8 @@ There may be concerns on the part of the students if a regular course is to be c
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

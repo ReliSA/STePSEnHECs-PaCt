@@ -65,8 +65,8 @@ Curation of the films can be done by faculty, research staff, or even students. 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

@@ -37,8 +37,8 @@ You should make a decision about how you are going to manage the project. By cho
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

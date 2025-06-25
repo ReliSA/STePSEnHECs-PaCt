@@ -22,8 +22,8 @@ Let group members which are not that good with presentations practice it or prov
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

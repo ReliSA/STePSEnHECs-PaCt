@@ -22,8 +22,8 @@ Customers, especially those from industrial IT settings, have a tendency to “t
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s) 
 

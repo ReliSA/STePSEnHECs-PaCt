@@ -61,8 +61,8 @@ When redesigning rooms, escape routes must be taken into account. Flexible furni
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

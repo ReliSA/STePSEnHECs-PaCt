@@ -22,8 +22,8 @@ People without restraint wonder off in conversation from the topic at hand wasti
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

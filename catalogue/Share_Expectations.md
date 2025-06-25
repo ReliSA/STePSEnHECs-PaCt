@@ -39,8 +39,8 @@ Even if all members have the same expectations and goals, it can happen that som
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

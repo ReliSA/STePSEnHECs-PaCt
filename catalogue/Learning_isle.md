@@ -68,8 +68,8 @@ Furthermore, when setting up Learning isles, particular attention must be paid t
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

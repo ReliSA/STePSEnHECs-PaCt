@@ -57,11 +57,11 @@ An obvious final option is the course allowing for any mixture of all of the abo
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|[Smaller Project Scope](Smaller_Project_Scope.md)|facilitates, as students can better understand the point of the project, as well as compare between topics|
-|[Self-Assembling Teams](Self-Assembling_Teams.md)|facilitates, as students will have a stronger familiarity and team identity that can lead to a more confident and appropriate topic choice|
-|[Non-Essential Project](Non-Essential_Project.md)|precedes|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|[Smaller Project Scope](Smaller_Project_Scope.md)|facilitates, as students can better understand the point of the project, as well as compare between topics||
+|[Self-Assembling Teams](Self-Assembling_Teams.md)|facilitates, as students will have a stronger familiarity and team identity that can lead to a more confident and appropriate topic choice||
+|[Non-Essential Project](Non-Essential_Project.md)|precedes||
  
 ## Example(s) / Known Use(s)
 

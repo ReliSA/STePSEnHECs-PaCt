@@ -22,8 +22,8 @@ Students do not have enough experience to take on the Scrum Master (or equivalen
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

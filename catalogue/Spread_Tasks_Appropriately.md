@@ -40,8 +40,8 @@ In most cases this pattern is used at the beginning of a project. But sometimes 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

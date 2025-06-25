@@ -39,8 +39,8 @@ You could also prevent a decrease in the quality of your deliverables, by [SPREA
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

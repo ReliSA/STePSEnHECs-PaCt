@@ -22,8 +22,8 @@ Some good practices are hard to explain and are best learned about hands on.
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s) 
 

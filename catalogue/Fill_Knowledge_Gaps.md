@@ -44,8 +44,8 @@ Applying this pattern may cost extra time if assistance by members with sufficie
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

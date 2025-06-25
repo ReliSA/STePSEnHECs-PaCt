@@ -22,8 +22,8 @@ Make sure that it is clear for all group members that things have to be taken se
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

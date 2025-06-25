@@ -45,11 +45,11 @@ This can be achieved, in the case of an externally-proposed topic, by giving stu
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|[Team Size Limitation](Team_Size_Limitation.md)|partial driver as the aggregate team capacity puts a limitation on the scope from the start|
-|[Team's Choice](Teams_Choice.md)|facilitated through fostering better informed choices and either creativity (coming up with own topic) or comprehenssion and complexity assessment (if topic given)|
-|[Non-Essential Project](Non-Essential_Project.md)|supported, as the customers rarely have proposals that are small enough for the courses, yet very important or business critical|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|[Team Size Limitation](Team_Size_Limitation.md)|partial driver as the aggregate team capacity puts a limitation on the scope from the start||
+|[Team's Choice](Teams_Choice.md)|facilitated through fostering better informed choices and either creativity (coming up with own topic) or comprehenssion and complexity assessment (if topic given)||
+|[Non-Essential Project](Non-Essential_Project.md)|supported, as the customers rarely have proposals that are small enough for the courses, yet very important or business critical||
  
 ## Example(s) / Known Use(s)
 

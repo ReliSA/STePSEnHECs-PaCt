@@ -46,8 +46,8 @@ As the main goal is to finish the assignment successfully, in the end they have 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

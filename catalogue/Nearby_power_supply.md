@@ -78,8 +78,8 @@ Occasionally, borrowing power banks is suggested as an alternative or supplement
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

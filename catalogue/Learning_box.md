@@ -56,8 +56,8 @@ If Learning boxes are to be used as break-out rooms for a specific course, it mu
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

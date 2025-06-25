@@ -48,9 +48,9 @@ The resulting circumstances of the solution application, both beneficial (benefi
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-| related pattern with link (if already in catalogue) one per row (if none, replace table with "n/a", leave section heading) | relation description |
+|Pattern|Relation type|Relation description|
+|--|--|--|
+| related pattern with link (if already in catalogue) one per row (if none, replace table with "n/a", leave section heading) |short expression of the relation|full relaton description|
 
  
 ## Example(s) / Known Use(s)

@@ -47,9 +47,9 @@ Make them aware of any criteria that need to be met and give them a near enough 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|[Team's Choice](Teams_Choice.md)|influenced as all team members need to sign-off on the collective decision|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|[Team's Choice](Teams_Choice.md)|influenced as all team members need to sign-off on the collective decision||
 
  
 ## Example(s) / Known Use(s) 

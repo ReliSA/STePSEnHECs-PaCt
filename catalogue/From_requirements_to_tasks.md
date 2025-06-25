@@ -86,8 +86,8 @@ After some time, get back to them and help improve the task definitions by:
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

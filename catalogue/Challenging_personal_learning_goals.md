@@ -63,8 +63,8 @@ To let students think ‘forward’, we suggest asking them:
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
 
 ## Example(s) / Known Use(s)
 

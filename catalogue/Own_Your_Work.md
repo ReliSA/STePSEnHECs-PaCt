@@ -22,8 +22,8 @@ If you encounter that someone copied (parts of) your work products, immediately 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

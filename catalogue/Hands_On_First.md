@@ -49,11 +49,11 @@ As this solution describes an initial hands-on part, the example from the Code w
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|First Steep[[IBA'09]](../References.md)|supports solution|
-|Prototyping [[IBA'11]](../References.md)|potential enabler|
-|Students Decide [[ECK'02]](../References.md)|potential enabler|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|First Steep[[IBA'09]](../References.md)|supports solution||
+|Prototyping [[IBA'11]](../References.md)|potential enabler||
+|Students Decide [[ECK'02]](../References.md)|potential enabler||
  
 ## Example(s) / Known Use(s)
 

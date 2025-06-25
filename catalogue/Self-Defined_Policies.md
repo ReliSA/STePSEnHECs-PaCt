@@ -22,8 +22,8 @@ Rigid detailed policies on everything (code, notations, roles, tools, planning s
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s) 
 

@@ -22,8 +22,8 @@ Plan breaks on a regular basis which offer the group member to focus on the job 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

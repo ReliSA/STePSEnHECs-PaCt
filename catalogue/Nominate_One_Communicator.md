@@ -22,8 +22,8 @@ Determine fixed communication moments and give one group member the responsibili
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

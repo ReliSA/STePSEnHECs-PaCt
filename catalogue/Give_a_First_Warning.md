@@ -43,8 +43,8 @@ Possible consequences for the student that could be decided on and communicated 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

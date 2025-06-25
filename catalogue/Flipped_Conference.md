@@ -68,8 +68,8 @@ For the professional discourse, it is important that academic staff and lecturer
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

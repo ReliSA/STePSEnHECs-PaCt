@@ -66,8 +66,8 @@ Lastly, in order for students to use the Learning corners productively, the work
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

@@ -46,10 +46,10 @@ The presented solution can also be applied to the running example. Connect the p
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|Hidden Connections [[IBA'09]](../References.md)|aligns with|
-|Larger than Life [[ECK'02]](../References.md)|counterpart|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|Hidden Connections [[IBA'09]](../References.md)|aligns with||
+|Larger than Life [[ECK'02]](../References.md)|counterpart||
  
 ## Example(s) / Known Use(s)
 

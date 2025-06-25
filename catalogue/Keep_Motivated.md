@@ -52,8 +52,8 @@ Keep everything as fun as possible, but also try to regain focus; reward yoursel
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

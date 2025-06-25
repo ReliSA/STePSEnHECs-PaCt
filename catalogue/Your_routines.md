@@ -68,8 +68,8 @@ During your visits:
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
 
 ## Example(s) / Known Use(s)
 

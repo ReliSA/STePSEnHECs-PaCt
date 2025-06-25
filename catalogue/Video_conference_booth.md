@@ -75,8 +75,8 @@ Lastly, small Video conference booths can have an oppressive effect. The interio
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

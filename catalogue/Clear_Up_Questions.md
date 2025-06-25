@@ -38,10 +38,8 @@ After all — or enough — assignment parts are clear to you, you should be able to
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-| related pattern with link (if already in catalogue) one per row (if none, replace table with "n/a", leave section heading) | relation description |
-
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

@@ -43,8 +43,9 @@ This solution consists of guidelines which should be adapted throughout the whol
 
 ## Related Patterns
 
-|Pattern|Relation|
-|[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|specifies one step of the solution|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|specifies one step of the solution||
  
 ## Example(s) / Known Use(s) (optional) 
 

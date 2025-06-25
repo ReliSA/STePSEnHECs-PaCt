@@ -22,8 +22,8 @@ Though the  projects' smaller scale might would not call for it in industry, we 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

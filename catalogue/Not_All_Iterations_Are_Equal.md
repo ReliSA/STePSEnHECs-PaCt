@@ -22,8 +22,8 @@ There is a learning curve at the start of the project and some necessary ceremon
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

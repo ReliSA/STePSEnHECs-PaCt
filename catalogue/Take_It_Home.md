@@ -50,10 +50,10 @@ others.
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|Output-Driven Learning [[IBA'09]](../References.md)|can facilitate|
-|Embodied Skills [[IBA'11]](../References.md)|potentially facilitated by|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|Output-Driven Learning [[IBA'09]](../References.md)|can facilitate||
+|Embodied Skills [[IBA'11]](../References.md)|potentially facilitated by||
  
 ## Example(s) / Known Use(s)
 

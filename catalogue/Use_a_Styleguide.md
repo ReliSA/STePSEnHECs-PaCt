@@ -22,8 +22,8 @@ Define a styleguide or decide on an existing one and use this consequently throu
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

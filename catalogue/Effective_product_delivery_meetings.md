@@ -42,8 +42,8 @@ In doing so, you provide the team with an extra goal: their evaluation will not 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
 
 ## Example(s) / Known Use(s)
 

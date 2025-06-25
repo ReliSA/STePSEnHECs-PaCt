@@ -22,8 +22,8 @@ Students are meant to learn the practices, processes, tools and management of th
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s) 
 

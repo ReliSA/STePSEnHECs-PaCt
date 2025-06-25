@@ -59,8 +59,8 @@ If a room is used by several groups of people at the same time, the use of the c
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

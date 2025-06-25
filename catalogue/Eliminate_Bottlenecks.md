@@ -22,8 +22,8 @@ Reassign the tasks so that everyone in the group can work and that the project i
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

@@ -22,8 +22,8 @@ New teams formed by students struggle to balance preparation and execution when 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

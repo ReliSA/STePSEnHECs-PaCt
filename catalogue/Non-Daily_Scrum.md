@@ -22,8 +22,8 @@ Daily stand-ups can be impractical due to time constraints or conflicting schedu
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s) 
 

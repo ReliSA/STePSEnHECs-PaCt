@@ -41,8 +41,8 @@ Sometimes, the teachers make the groups, so the students can not choose who they
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

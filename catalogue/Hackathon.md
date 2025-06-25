@@ -70,8 +70,8 @@ The role of the lecturer has to be questioned. Are lecturers participants at eye
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

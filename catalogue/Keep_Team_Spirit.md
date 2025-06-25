@@ -26,8 +26,8 @@ Don’t work too long and make regularly breaks. Finish the assignment together as
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

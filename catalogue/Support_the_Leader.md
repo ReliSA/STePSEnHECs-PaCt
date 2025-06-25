@@ -22,8 +22,8 @@ Address the issue by the group leader and start to support him or her if necessa
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

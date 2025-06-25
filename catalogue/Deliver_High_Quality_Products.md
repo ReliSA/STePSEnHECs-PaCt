@@ -22,8 +22,8 @@ Start working on the assignment immediately and keep track of the progress of th
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

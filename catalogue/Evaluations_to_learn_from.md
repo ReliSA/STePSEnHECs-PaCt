@@ -60,8 +60,8 @@ Get back to these goals every next visit to the team. This way, they do not forg
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 

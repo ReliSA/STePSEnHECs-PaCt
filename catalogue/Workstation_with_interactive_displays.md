@@ -71,15 +71,14 @@ Lastly, broken displays or connections make the workstation unusable for hybrid 
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
  
 ## Example(s) / Known Use(s)
 
  - Figure 4 shows an example from the Bildungscampus Heilbronn for group workstations with small displays for approx. 6 students each. The displays are directly connected to the desks, the desks are raised - students can both stand and sit at the desk, the seats can be pushed under the desk to save space.
  - A Workstation with (interactive) displays is also a frequently found room element in so-called SCALE-UP rooms (short for "Student-Centered Active Learning Environment with Upsidedown Pedagogies"). Kiel UAS, for example, has set up several group workstations in a SCALE-UP room with chairs on wheels for 6 students each. Figure 5 shows two of the work tables, each of which has a large interactive display at the top. Students can work at the workstations in group work phases and connect their own devices to the display. The results of the group work can be presented on the other displays in the room as well as on a main screen.
- - A Workstation with (interactive) displays can also be found
-in other SCALE-UP rooms, for example at Ostfalia University[^1]. Depending on the room design, some of the displays are mounted at the head end of the long desks, while others combine round desks with raised displays mounted on the wall.
+ - A Workstation with (interactive) displays can also be found in other SCALE-UP rooms, for example at Ostfalia University[^1]. Depending on the room design, some of the displays are mounted at the head end of the long desks, while others combine round desks with raised displays mounted on the wall.
  - Lastly, the University of Strathclyde shows how to implement this pattern while still providing a bit more privacy, as they created a Workstation with (interactive) displays out of a Learning alcove (Figure 2).
 
 ## Notes (optional) 

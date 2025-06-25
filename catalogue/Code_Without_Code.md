@@ -51,10 +51,10 @@ A possible implementation of the solution described in the context of a coding w
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|Building Materials [[MUN'17]](../References.md)|prerequisite|
-|Prototyping [[IBA'11]](../References.md)|potential enabler|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|Building Materials [[MUN'17]](../References.md)|prerequisite||
+|Prototyping [[IBA'11]](../References.md)|potential enabler||
  
 ## Example(s) / Known Use(s)
 

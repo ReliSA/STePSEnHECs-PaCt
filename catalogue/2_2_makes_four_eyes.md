@@ -79,12 +79,12 @@ The solution balances working alone and working together. After a quick consulta
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|[Face their facts - Student’s accountability](Face_their_facts.md)|part of the solution|
-|[Lest not forget - Collecting observations](Lest_not_forget.md)|part of the solution|
-|[The basis pattern: If all pigs would be equal...](If_all_pigs_would_be_equal.md)|parent|
-|[Whodunnit? - Using metrics in a fair way](Whodunnit.md)|part of the solution|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|[Face their facts - Student’s accountability](Face_their_facts.md)|part of the solution||
+|[Lest not forget - Collecting observations](Lest_not_forget.md)|part of the solution||
+|[The basis pattern: If all pigs would be equal...](If_all_pigs_would_be_equal.md)|parent||
+|[Whodunnit? - Using metrics in a fair way](Whodunnit.md)|part of the solution||
  
 ## Example(s) / Known Use(s)
 

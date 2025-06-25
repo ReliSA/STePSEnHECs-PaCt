@@ -104,8 +104,8 @@ Above all: given the information you have now, assess if you think the assignmen
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
+|Pattern|Relation type|Relation description|
+|--|--|--|
 
 ## Example(s) / Known Use(s)
 
