@@ -13,7 +13,11 @@ Lists patterns by a selected [category](catalogue/facets/categories/categories.m
 
 ## [Templates](templates/templates.md)
 
-Templates used for [individual pattern descriptions](templates/template-pattern.md), [pattern category pages](templates/template-category.md) and [pattern publication pages](templates/template-publication.md).
+Templates used for
+ - individual [pattern](templates/template-pattern.md) descriptions,
+ - pattern [category](templates/template-category.md) pages
+ - pattern [perspective](templates/template-perspective.md) pages
+ - and pattern [publication](templates/template-publication.md) pages.
 
 ## [References](References.md)
 
