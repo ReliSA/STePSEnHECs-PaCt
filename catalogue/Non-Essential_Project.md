@@ -12,7 +12,7 @@ Not Business Critical, Customerâ€™s Side Project, Work on the Non-Business-Criti
 
 ## Synopsis (optional)
 
-How not to risk relationship between teachers and customers inherent in students working on core business? Accept projects that are not on the customer’s critical path or essential for their operations.
+How not to risk relationship between teachers and customers inherent in students working on core business? Accept projects that are not on the customer's critical path or essential for their operations.
 
 ## Context
 
@@ -44,11 +44,11 @@ Giving customers an opening to propose project topics that fall outside of their
 
 ## Related Patterns
 
-|Pattern|Relation|
-|--|--|
-|[Smaller Project Scope](Smaller_Project_Scope.md)|facilitated by customers proposing project topics that are not business critical for them|
-|[Team's Choice](Teams_Choice.md)|facilitated by the topics liset collected from customer proposals|
-|[Shallow Feedback Loops](Shallow_Feedback_Loops.md)|partially caused by the students not having the access to at least a representative sample of end users, or the time to gain it due to non-essential nature and limited time span of the projects|
+|Pattern|Relation type|Relation description|
+|--|--|--|
+|[Smaller Project Scope](Smaller_Project_Scope.md)|facilitated by customers proposing project topics that are not business critical for them||
+|[Team's Choice](Teams_Choice.md)|facilitated by the topics liset collected from customer proposals||
+|[Shallow Feedback Loops](Shallow_Feedback_Loops.md)|partially caused by the students not having the access to at least a representative sample of end users, or the time to gain it due to non-essential nature and limited time span of the projects||
 
  
 ## Example(s) / Known Use(s)
