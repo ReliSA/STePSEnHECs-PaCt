@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+Didactic settings and the use of digital media can only lead to innovations if teachers and learners are willing to experiment and try out new ways of using spaces. Experimental teaching learning spaces are spaces that can be used in regular teaching, but whose furnishings and modes of use are explicitly experimental.
+
 ## Context
 
 Digitization means upheaval for teaching. Courses are transformed, and in some cases completely new forms are created that replace old approaches (disruptive changes). There are many possibilities for designing studies and teaching with digital media - especially for the new media and didactic ideas that are continually being added. However, there often is only a specific use case they have been tested in and a lack of concrete experience for other use cases. So, adopting these new ideas in a new context presupposes gaining more experience with them. This can only be done by trying them out and experimenting with them in realistic scenarios such as regular courses, which can represent a high additional time expenditure.

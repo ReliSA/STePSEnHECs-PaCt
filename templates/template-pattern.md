@@ -10,6 +10,10 @@ Other names of this pattern, separated by comma, if exist.
 
 [Category name](categories/Category file.md)
 
+## Synopsis (optional)
+
+A summary of the pattern or its pattlet form.
+
 ## Context
 
 A situation and circumstances in which the pattern is applied.

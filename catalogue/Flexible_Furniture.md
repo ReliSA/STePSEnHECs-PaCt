@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+Movable furniture enables the rapid reconfiguration of a room. This increases the functionality of the room (flexible educational rooms), enables more participation in the design of learning spaces (teaching-learning-experiment spaces) and seamless switching between different didactic settings.
+
 ## Context
 
 As described in Flexible educational rooms, there is a need for flexible learning and teaching spaces because frequently, rooms are to be used for different tasks that require different didactic settings. This applies both to general learning rooms and to subject-related learning rooms that are assigned to a laboratory or institute. The patterns solution promoted to target multiple primary and secondary forms of use when designing such a room, while still focusing on a fixed arrangement of furniture. But such a fixed setup has its limitations regarding the number of supported functionalities and didactic options, no matter how many thoughts went into its design. At some point in time, rearranging the furniture will still be needed to match the didactic needs and therefore raise the quality of education.

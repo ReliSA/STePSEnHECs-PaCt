@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+A Learning isle is a freely accessible table with several workstations for groups or individuals that is located in a larger room or area, e.g. within the library, a foyer or a Learning landscape. Students can sit down to study there without a reservation and are easy to find and visible to other students or lecturers.
+
 ## Context
 
 In today’s university environment, students constantly juggle shortterm assignments and spontaneous meetings during and between classes. The focus on project-oriented teaching encourages both individual tasks and impromptu collaborations, for which students need openly accessible workspaces on campus. These spaces should facilitate quick meetings for group projects and provide an environment conducive to individual research. While privacy in these open workspaces can be beneficial for certain tasks, it is not essential for every academic activity and may even hinder student productivity and development in some cases. Ensuring sufficient availability of these spaces on campus is critical to accommodate all students and promote a productive and inclusive academic environment.

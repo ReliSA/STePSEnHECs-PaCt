@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+A Learning landscape is a large, contiguous area that combines different room areas that merge into one another. The entire area is openly accessible and can be used flexibly. The Learning landscape offers zones for different noise levels, and the individual room areas also differ in terms of their furnishings and the space available for groups and forms of activity.
+
 ## Context
 
 Everyday learning is diverse. Learning groups of different sizes - from individuals to small teams of 4-6 people to even larger groups - require differently designed areas. This applies to both self-organized learning and orchestrated courses in which students switch between different social forms (large groups, small working groups, individual work) and methods. Nowadays, media diversity is another decisive aspect, as different (digital) tools are needed for different tasks, e.g. interactive boards, simple whiteboards (which can be easily filmed or photographed) or small screens. In order to meet this wealth of requirements, learning institutions offer different learning and work spaces on campus, each for a certain form of learning.

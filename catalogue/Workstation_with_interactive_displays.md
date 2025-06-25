@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+Students meet on campus to learn together and work on projects. They usually bring their own mobile devices to access documents and tools. However, larger displays are required for shared viewing so that all group members can see the content. The use of (interactive) displays also makes it possible to interact with the content and make digital sketches. By providing displays, simple workstations become hybrid learning areas.
+
 ## Context
 
 In project-oriented teaching scenarios, students work on a question or task over a longer period of time - both online, in a private setting and on the university campus. Even in small project groups, there is often a division of labor: Students work in parallel on individual subtasks, using digital materials and producing data themselves, for example in the form of text documents, data surveys, photos, graphics or coding. For the purpose of deliberating upon partial findings, synchronizing work results, and collectively advancing them, students typically convene on campus, necessitating a confidential means of promptly presenting digital documents in a visibly clear manner to all attendees.

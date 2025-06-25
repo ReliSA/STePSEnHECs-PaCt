@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+A Learning corner offers a protected learning area that is simultaneously open on two sides and closed on two sides. The protected atmosphere allows students to work and discuss in peace without disturbing others. When working with mobile devices, students are protected from unwelcome glances at the screen. At the same time, they are part of the environment: students can see each other and lecturers in the room can be contacted quickly.
+
 ## Context
 
 Students need group workspaces for flexible group sizes, fluid levels of visibility and varying privacy within their learning environment. In a lot of situations, they want to be seen, provide insights into their own learning activities and be part of a larger learning community, without having to completely disclose their documents or media and thereby fully compromising their privacy. Corners resolve this conflict as they have both closed and open sides. They make it possible to view the room from a protected position, creating a pleasant, trusting, enclosed space and an open, safe atmosphere at the same time.

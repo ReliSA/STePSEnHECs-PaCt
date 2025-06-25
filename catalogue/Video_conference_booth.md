@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+A Video conference booth is a small separate room or a (semi-) closed, soundproofed individual workstation where a single person can take part in a video conference or make phone calls undisturbed for a short period of time.
+
 ## Context
 
 Students are on campus in their everyday learning lives to take part in face-to-face events. In the context of digitalization, however, consultation meetings between students and lecturers are increasingly taking place online, as this makes it easier and more flexible to find appointments with highly individualized timetables and working hours. Student teams are also increasingly organizing themselves online. Several students participate in an online meeting while on campus, either due to concurrent on-site courses or other campusrelated activities, while others join remotely from home or on the go.

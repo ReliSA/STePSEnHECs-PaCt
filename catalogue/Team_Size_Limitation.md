@@ -10,6 +10,10 @@ Enough Cooks in the Kitchen
 
 [Team and Project Setup](categories/Team_and_Project_Setup.md)
 
+## Synopsis (optional)
+
+How to best set up the student team size to maximize product and educational efficiency? Put a reasonable upper limit on team size.
+
 ## Context
 
 We are running or planning to establish a (at least) semester-long university course on software engineering with collaborative student projects and including some aspects or the entire process of agile development. The goal being to provide learning by experience of agile principles and practices as well as general project management skills. No prior knowledge or experience of the students in these domains is assumed.

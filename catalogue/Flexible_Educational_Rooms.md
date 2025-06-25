@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+Rooms are flexible when they can be used well for different purposes. This is often accomplished by allowing for rapid changes of the furniture. The best case would be though, if a setup allows for multiple teaching or learning scenarios, without needing to rearrange the furniture at all. The design of the rooms should therefore take into account the primary functions, but also the secondary forms of use. For example, a seminar room can be designed for group discussion (primary function) and still allow for lectures or practical exercises (secondary form of use).
+
 ## Context
 
 In the field of education, spaces suggest certain options for action and social forms. A classroom reduces the didactic possibilities to what it offers functionally. This means, that if the functional scope of individual rooms is very small, then many rooms, each with a specific functional scope, must be provided for different functions and educational purposes.

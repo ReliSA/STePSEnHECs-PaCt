@@ -6,6 +6,10 @@
 
 [Environment and Infrastructure](categories/Environment_and_Infrastructure.md)
 
+## Synopsis
+
+Ideally, rooms on campus should be usable for different teaching and learning scenarios. Room-height curtain systems that can be used to separate smaller areas can support the flexible use of rooms.
+
 ## Context
 
 The variety of methods and social forms, as well as the diverse use of digital media and tools, creates diverse requirements for the spaces on campus in which teaching and learning take place. In contrast to the huge variety of different didactic scenarios, Universities only possess a fixed number of different rooms. In addition, not all didactic settings are needed at the same time in most cases and having different rooms would lead to a situation in which not all of them could be fully utilized. Accordingly, there is a great need for flexible spaces that enable a variety of teaching-learning scenarios. Now, as described in the patterns [Flexible educational rooms](Flexible_educational_rooms.md) and [Flexible furniture](Flexible_Furniture.md), there are already solutions targeting the reusability or movability of equipment and furnishings, through which their flexible usage can be increased. But apart from the interior, there are also spatial requirements of the room itself, which can vary greatly and change quickly: sometimes one large room is needed, sometimes many small rooms.
