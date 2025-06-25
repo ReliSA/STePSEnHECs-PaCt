@@ -62,10 +62,30 @@ When redesigning rooms, escape routes must be taken into account. Flexible furni
  
 ## Example(s) / Known Use(s)
 
+ - Figure 1 shows movable furniture at the Technical University of Cologne.
  - The University of Applied Sciences and Arts Northwestern Switzerland (FHNW) offers teachers and students flexible learning spaces equipped with movable furniture. Among other things, chairs with castors and integrated desk shelves are used, which can be placed anywhere in the room. An open work zone at the FHNW Campus Brugg-Windisch with modular wooden boxes, standing tables, etc. can be individually designed for group and project work. With the learning and teaching spaces, agile and project-oriented forms of teaching in particular, as well as other forms of collaborative and interactive learning and teaching, are to be spatially supported in an even more targeted manner.
- - The image from the Innovation Hub Bergisches Rheinland shows how to enhance a classical seminar room with flexible furniture. Tables and chairs can be placed anywhere in the room on castors. The room equipment is supplemented by a mobile display and rollable flipcharts. Additionally, all the tables can be used as whiteboards, making their flexibility even more powerful.
+ - The image from the Innovation Hub Bergisches Rheinland (Figure 2) shows how to enhance a classical seminar room with flexible furniture. Tables and chairs can be placed anywhere in the room on castors. The room equipment is supplemented by a mobile display and rollable flipcharts. Additionally, all the tables can be used as whiteboards, making their flexibility even more powerful.
  - Figure 3 presents furniture that can be flexibly adapted according to the modular building block principle, as used for example at the Technical University of Cologne. The furniture can be used individually as seating and small tables or combined with each other in different variants, e.g. as bleachers.
- - Whiteboards, pin boards and similar furniture do not necessarily have to be on wheels in the room for flexible use. Use in different areas of the room can also be made possible as shown by the PH Karlsruhe, who attached the interaction surfaces to the wall with a rail system. In this way, they can be moved as required in the short term. Individual elements can also be relocated on the rail system or even be detached and used independently if the room setup is to be changed in the medium to long term.
+ - Whiteboards, pin boards and similar furniture do not necessarily have to be on wheels in the room for flexible use. Use in different areas of the room can also be made possible as shown by the PH Karlsruhe (Figure 4), who attached the interaction surfaces to the wall with a rail system. In this way, they can be moved as required in the short term. Individual elements can also be relocated on the rail system or even be detached and used independently if the room setup is to be changed in the medium to long term.
+
+## Notes
+
+![Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-1.png "Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)")
+
+Figure 1: Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)
+
+![Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-2.png "Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)")
+
+Figure 2: Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)
+
+![Modular building block furniture at the Technical University of Cologne (Photo: Dennis Wilk)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-3.png "Modular building block furniture at the Technical
+University of Cologne (Photo: Dennis Wilk)")
+
+Figure 2: Modular building block furniture at the Technical University of Cologne (Photo: Dennis Wilk)
+
+![Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-4.png "Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)")
+
+Figure 4: Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)
 
 ## [Sources](../References.md)
 

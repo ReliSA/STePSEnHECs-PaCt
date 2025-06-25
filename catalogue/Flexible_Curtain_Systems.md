@@ -36,7 +36,7 @@ Curtain systems are suitable for flexibly dividing seminar rooms into smaller ar
 
 To ensure that the room can actually be used flexibly, flexible furniture is required in addition to the curtain system. Seating and tables must be transportable and quickly and easily adaptable to different usage scenarios.
 
-Another elementary requirement for the flexible use of digital media is a power supply in all room areas as well as connections for the room technology in the room units being created. Preference should be given to easily accessible, barrier-free connections in the floor or walls and, if necessary, connections that can be lowered from the ceiling (see Figure 8) and do not restrict freedom of movement in the room.
+Another elementary requirement for the flexible use of digital media is a power supply in all room areas as well as connections for the room technology in the room units being created. Preference should be given to easily accessible, barrier-free connections in the floor or walls and, if necessary, connections that can be lowered from the ceiling (see Figure 1) and do not restrict freedom of movement in the room.
 
 ### Obstacles
 
@@ -60,9 +60,19 @@ If a room is used by several groups of people at the same time, the use of the c
  
 ## Example(s) / Known Use(s)
 
- - At the Technical University of Cologne, curtain systems are used on the Gummersbach campus to divide a large room into smaller subareas as required (see Figure 7). Supporting columns in the room were specifically integrated into the curtain system as partitioning elements.
+ - At the Technical University of Cologne, curtain systems are used on the Gummersbach campus to divide a large room into smaller subareas as required (see Figure 2). Supporting columns in the room were specifically integrated into the curtain system as partitioning elements.
  - At the Bauhaus University Weimar , a hybrid learning studio has been created as part of the Lernraum.Bauhaus project, in which prototypical hybrid teaching and learning situations are staged and tested, and technological solutions are tested regarding their practicality, usability and ease of use, as well as their didacticmethodological potential. A flexible curtain system allows the studio to be divided into sub-areas and represents an important aspect of the spatial concept, in which aesthetic and atmospheric aspects of the space in particular were taken into account as essential factors in the experience of use.
  - In the journal stacks of the University Library of Basel, a curtain system was installed to separate a quiet zone from a larger learning area with workstations. These and many other design solutions can be found in the open access publication "Learning Spaces Laboratory: New Learning Spaces at the University of Basel"[[SCH'23]](../References.md).
+
+## Notes
+
+![Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Curtain_Systems-1.png "Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)")
+
+Figure 1: Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)
+
+![Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Curtain_Systems-2.png "Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)")
+
+Figure 2: Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)
 
 ## [Sources](../References.md)
 
