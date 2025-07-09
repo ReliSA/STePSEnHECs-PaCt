@@ -90,7 +90,7 @@ The solution balances working alone and working together. After a quick consulta
 
 ## Notes
 
-![The teacher's preparation for grading](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac24/fig1.png "The teacher's preparation for grading")
+![The teacher's preparation for grading](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac24/fig1.png "The teacher's preparation for grading")
 
 Figure 1: The teacher's preparation for grading 
 
