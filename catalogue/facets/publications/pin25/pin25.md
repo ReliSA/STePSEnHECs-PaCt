@@ -29,12 +29,12 @@ Pinho, Daniel, Picha, Petr and Brada, Premek. In EuroPLop '25: Proceedings of th
 - [Time Size Limitation](../../../Team_Size_Limitation.md)
 - [Work on the Non-Business-Critical](../../../Non-Essential_Project.md)
 
-![Current state of the pattern language](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/pin25/pat-lan.jpg "Current state of the pattern language")
+![Current state of the pattern language](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/pin25/pat-lan.jpg "Current state of the pattern language")
 
 Figure 1: Current state of the pattern language
 
 ![Identified relationships between pattern candidates in the Team and Project
-Setup category.](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/pin25/patterns.jpg "Identified relationships between pattern candidates in the Team and Project
+Setup category.](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/pin25/patterns.jpg "Identified relationships between pattern candidates in the Team and Project
 Setup category")
 
 Figure 2: Identified relationships between pattern candidates in the Team and Project

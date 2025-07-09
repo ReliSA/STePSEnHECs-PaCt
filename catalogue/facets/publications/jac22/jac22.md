@@ -13,6 +13,6 @@ meetings](../../../Effective_product_delivery_meetings.md)
 - [Tracking progress](../../../Tracking_progress.md)
 - [Your routines](../../../Your_routines.md)
 
-![Pattern interdependency](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/fig-all.png "Pattern interdependency")
+![Pattern interdependency](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac22/fig-all.png "Pattern interdependency")
 
 Figure 1: Pattern interdependency

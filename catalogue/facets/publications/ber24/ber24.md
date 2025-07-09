@@ -10,7 +10,7 @@ Bertels, Anja and Deimel, Dominik. In Proceedings of the 29th European Conferenc
 - [Teamwork makes the dream work](../../../Teamwork_makes_the_dream_work.md)
 
 ![Overview of the presented patterns in the context
-of a Coding Workshop](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/fig-all.png "Overview of the presented patterns in the context
+of a Coding Workshop](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac22/fig-all.png "Overview of the presented patterns in the context
 of a Coding Workshop")
 
 Figure 1: Overview of the presented patterns in the context

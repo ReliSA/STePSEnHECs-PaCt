@@ -9,6 +9,6 @@ Jacobs, Tineke. In Proceedings of the 29th European Conference on Pattern Langua
 - [Lest not forget - Collecting observations](../../../Lest_not_forget.md)
 - [Whodunnit? - Using metrics in a fair way](../../../Whodunnit.md)
 
-![The interdependency of the patterns](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac24/fig-all.png "The interdependency of the patterns")
+![The interdependency of the patterns](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac24/fig-all.png "The interdependency of the patterns")
 
 Figure 1: The interdependency of the patterns
