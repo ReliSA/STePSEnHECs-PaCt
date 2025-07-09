@@ -90,23 +90,23 @@ Occasionally, borrowing power banks is suggested as an alternative or supplement
 
 ## Notes (optional) 
 
-![Integrated Nearby power supply at the "Lernarena" (Photo: Mareike Kehrer and Dennis Dubbert)] (https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Nearby_power_supply-1.png "Integrated Nearby power supply at the "Lernarena" (Photo: Mareike Kehrer and Dennis Dubbert)")
+![Integrated Nearby power supply at the "Lernarena" (Photo: Mareike Kehrer and Dennis Dubbert)] (https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Nearby_power_supply-1.png "Integrated Nearby power supply at the "Lernarena" (Photo: Mareike Kehrer and Dennis Dubbert)")
 
 Figure 1: Integrated Nearby power supply at the "Lernarena" (Photo: Mareike Kehrer and Dennis Dubbert)
 
-![Integrated Nearby power supply from the ceiling at the Cologne UAS (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Nearby_power_supply-2.png "Integrated Nearby power supply from the ceiling at the Cologne UAS (Photo: Dennis Dubbert)")
+![Integrated Nearby power supply from the ceiling at the Cologne UAS (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Nearby_power_supply-2.png "Integrated Nearby power supply from the ceiling at the Cologne UAS (Photo: Dennis Dubbert)")
 
 Figure 2: Integrated Nearby power supply from the ceiling at the Cologne UAS (Photo: Dennis Dubbert)
 
-![Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Nearby_power_supply-3.png "Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)")
+![Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Nearby_power_supply-3.png "Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)")
 
 Figure 3: Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)
 
-![Integrated Nearby power supply at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Nearby_power_supply-4.png "Integrated Nearby power supply at the MIT (Photo: Christian Kohls)")
+![Integrated Nearby power supply at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Nearby_power_supply-4.png "Integrated Nearby power supply at the MIT (Photo: Christian Kohls)")
 
 Figure 4: Integrated Nearby power supply at the MIT (Photo: Christian Kohls)
 
-![Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Nearby_power_supply-5.png "Integrated Nearby power supply at the Ostwestfalen-Lippe UAS(Photo: Christian Kohls)")
+![Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Nearby_power_supply-5.png "Integrated Nearby power supply at the Ostwestfalen-Lippe UAS(Photo: Christian Kohls)")
 
 Figure 5: Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)
 

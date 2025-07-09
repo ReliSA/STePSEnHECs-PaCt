@@ -62,13 +62,13 @@ As this solution describes an initial hands-on part, the example from the Code w
 
 ## Notes 
 
-![The application ”Hour of Code”, which consists of smaller individual learning tasks](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/ber24/Hands_On_First.png "The application ”Hour of Code”, which consists of smaller individual learning tasks")
+![The application ”Hour of Code”, which consists of smaller individual learning tasks](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/ber24/Hands_On_First.png "The application ”Hour of Code”, which consists of smaller individual learning tasks")
 
 Figure 1: The application ”Hour of Code”, which consists of smaller individual learning tasks
 
 ## [Sources](../References.md)
 
-[[BAR'24]](publications/bar24/bar24.md)
+[[BER'24]](facets/publications/ber24/ber24.md)
 
 ---
 

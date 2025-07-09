@@ -86,19 +86,19 @@ Lastly, small Video conference booths can have an oppressive effect. The interio
 
 ## Notes (optional) 
 
-![Video conference booth at the Fulda UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Video_conference_booth-1.png "Video conference booth at the Fulda UAS (Photo: Christian Kohls)")
+![Video conference booth at the Fulda UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Video_conference_booth-1.png "Video conference booth at the Fulda UAS (Photo: Christian Kohls)")
 
 Figure 1: Video conference booth at the Fulda UAS (Photo: Christian Kohls)
 
-![ Video conference booth at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Video_conference_booth-2.png " Video conference booth at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)")
+![ Video conference booth at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Video_conference_booth-2.png " Video conference booth at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)")
 
 Figure 2:  Video conference booth at the Ostwestfalen-Lippe UAS (Photo: Christian Kohls)
 
-![Video conference booth as a room-in-room solution at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Video_conference_booth-3.png "Video conference booth as a room-in-room solution at the MIT (Photo: Christian Kohls)")
+![Video conference booth as a room-in-room solution at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Video_conference_booth-3.png "Video conference booth as a room-in-room solution at the MIT (Photo: Christian Kohls)")
 
 Figure 3: Video conference booth as a room-in-room solution at the MIT (Photo: Christian Kohls)
 
-![Video conference booth integrated into the corridor at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Video_conference_booth-4.png "Video conference booth integrated into the corridor at the MIT (Photo: Christian Kohls)")
+![Video conference booth integrated into the corridor at the MIT (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Video_conference_booth-4.png "Video conference booth integrated into the corridor at the MIT (Photo: Christian Kohls)")
 
 Figure 4: Video conference booth integrated into the corridor at the MIT (Photo: Christian Kohls)
 

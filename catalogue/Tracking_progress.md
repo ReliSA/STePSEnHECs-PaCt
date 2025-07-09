@@ -46,7 +46,7 @@ We derived the following tips for teachers to support students during the daily 
 
 ## Notes
 
-![Tracking progress](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/publications/jac22/Tracking_progress.png "Tracking progress")
+![Tracking progress](https://github.com/ReliSA/TAwSP-Patterns-Catalogue/blob/main/catalogue/facets/publications/jac22/Tracking_progress.png "Tracking progress")
 
 Figure 1: Tracking progress
 

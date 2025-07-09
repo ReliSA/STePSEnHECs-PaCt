@@ -94,7 +94,7 @@ The solution balances working alone and working together. After a quick consulta
 
 Figure 1: The teacher's preparation for grading 
 
-![Deciding on the grades](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac24/fig2.png "Deciding on the grades")
+![Deciding on the grades](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac24/fig2.png "Deciding on the grades")
 
 Figure 2: Deciding on the grades
 

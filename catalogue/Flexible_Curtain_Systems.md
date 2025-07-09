@@ -70,11 +70,11 @@ If a room is used by several groups of people at the same time, the use of the c
 
 ## Notes
 
-![Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Curtain_Systems-1.png "Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)")
+![Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/koh23/Flexible_Curtain_Systems-1.png "Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)")
 
 Figure 1: Ceiling socket cube at the TH Köln (Photo: Mareike Kehrer)
 
-![Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Curtain_Systems-2.png "Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)")
+![Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/koh23/Flexible_Curtain_Systems-2.png "Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)")
 
 Figure 2: Curtain system at the Gummersbach Campus of the TH Köln (Photos: Mareike Kehrer)
 

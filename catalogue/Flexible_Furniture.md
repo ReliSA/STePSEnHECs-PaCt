@@ -74,20 +74,20 @@ When redesigning rooms, escape routes must be taken into account. Flexible furni
 
 ## Notes
 
-![Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-1.png "Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)")
+![Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/koh23/Flexible_Furniture-1.png "Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)")
 
 Figure 1: Movable furniture at the Technical University of Cologne (Photo: Dennis Dubbert)
 
-![Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-2.png "Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)")
+![Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/koh23/Flexible_Furniture-2.png "Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)")
 
 Figure 2: Flexible furniture on castors in a seminar room at the Innovation Hub (Photo: Dennis Wilk)
 
-![Modular building block furniture at the Technical University of Cologne (Photo: Dennis Wilk)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-3.png "Modular building block furniture at the Technical
+![Modular building block furniture at the Technical University of Cologne (Photo: Dennis Wilk)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/koh23/Flexible_Furniture-3.png "Modular building block furniture at the Technical
 University of Cologne (Photo: Dennis Wilk)")
 
 Figure 2: Modular building block furniture at the Technical University of Cologne (Photo: Dennis Wilk)
 
-![Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Flexible_Furniture-4.png "Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)")
+![Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/koh23/Flexible_Furniture-4.png "Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)")
 
 Figure 4: Whiteboards and pinboards mounted on a rail system on the wall in a seminar room at the PH Karlsruhe (Photo: Dennis Dubbert)
 

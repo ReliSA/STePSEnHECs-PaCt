@@ -75,7 +75,7 @@ During your visits:
 
 ## Notes 
 
-![Your routines](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/Your_routines.png "Your routines")
+![Your routines](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac22/Your_routines.png "Your routines")
 
 Figure 1: Your routines
 

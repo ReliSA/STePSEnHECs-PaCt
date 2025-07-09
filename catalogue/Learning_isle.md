@@ -81,19 +81,19 @@ Furthermore, when setting up Learning isles, particular attention must be paid t
 
 ## Notes (optional) 
 
-![Learning isles at the "Lernarena" (Photo: Guido Münster)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_isle-1.png "Learning isles at the "Lernarena" (Photo: Guido Münster)")
+![Learning isles at the "Lernarena" (Photo: Guido Münster)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Learning_isle-1.png "Learning isles at the "Lernarena" (Photo: Guido Münster)")
 
 Figure 1: Learning isles at the "Lernarena" (Photo: Guido Münster)
 
-![Learning isles at the central learning space of the Code and Context study program, Cologne UAS - Mühlheim (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_isle-2.png "Learning isles at the central learning space of the Code and Context study program, Cologne UAS - Mühlheim (Photo: Christian Kohls)")
+![Learning isles at the central learning space of the Code and Context study program, Cologne UAS - Mühlheim (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Learning_isle-2.png "Learning isles at the central learning space of the Code and Context study program, Cologne UAS - Mühlheim (Photo: Christian Kohls)")
 
 Figure 2: Learning isles at the central learning space of the Code and Context study program, Cologne UAS - Mühlheim (Photo: Christian Kohls)
 
-![Learning isles at the Cologne UAS, Leverkusen (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_isle-3.png "Learning isles at the Cologne UAS, Leverkusen (Photo: Christian Kohls)")
+![Learning isles at the Cologne UAS, Leverkusen (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Learning_isle-3.png "Learning isles at the Cologne UAS, Leverkusen (Photo: Christian Kohls)")
 
 Figure 3: Learning isles at the Cologne UAS, Leverkusen (Photo: Christian Kohls)
 
-![Learning isles at the Bielefeld UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_isle-4.png "Learning isles at the Bielefeld UAS (Photo: Christian Kohls)")
+![Learning isles at the Bielefeld UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Learning_isle-4.png "Learning isles at the Bielefeld UAS (Photo: Christian Kohls)")
 
 Figure 4: Learning isles at the Bielefeld UAS (Photo: Christian Kohls)
 

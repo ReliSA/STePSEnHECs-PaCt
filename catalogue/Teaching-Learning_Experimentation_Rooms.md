@@ -75,7 +75,7 @@ There may be concerns on the part of the students if a regular course is to be c
 
 ## Notes
 
-![Experimentation room FH Muenster (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/koh23/Teaching-Learning_Experimentation_Rooms-1.png "Experimentation room FH Muenster (Photo: Christian Kohls)")
+![Experimentation room FH Muenster (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/koh23/Teaching-Learning_Experimentation_Rooms-1.png "Experimentation room FH Muenster (Photo: Christian Kohls)")
 
 Figure 1: Experimentation room FH Muenster (Photo: Christian Kohls)
 

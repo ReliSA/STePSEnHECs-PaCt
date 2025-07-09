@@ -83,23 +83,23 @@ Lastly, broken displays or connections make the workstation unusable for hybrid 
 
 ## Notes (optional) 
 
-![Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Learning_alcove-2.png "Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)")
+![Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Learning_alcove-2.png "Noise-protected Learning alcove with display and a Nearby power supply (Photo: Christian Hahn)")
 
 Figure 1: Noise-protected [Learning alcove](Learning_alcove.md) with display and a [Nearby power supply](Nearby_power_supply.md) (Photo: Christian Hahn)
 
-![Learning alcove as a Workstation with (interactive) displays at the University of Strathclyde (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Workstation_with_interactive_displays-1.png "Learning alcove as a Workstation with (interactive) displays at the University of Strathclyde (Photo: Christian Kohls)")
+![Learning alcove as a Workstation with (interactive) displays at the University of Strathclyde (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Workstation_with_interactive_displays-1.png "Learning alcove as a Workstation with (interactive) displays at the University of Strathclyde (Photo: Christian Kohls)")
 
 Figure 2: [Learning alcove](Learning_alcove.md) as a Workstation with (interactive) displays at the University of Strathclyde (Photo: Christian Kohls)
 
-![Workstation with (interactive) displays at the "Lernarena" (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Workstation_with_interactive_displays-2.png "Workstation with (interactive) displays at the "Lernarena" (Photo: Dennis Dubbert)")
+![Workstation with (interactive) displays at the "Lernarena" (Photo: Dennis Dubbert)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Workstation_with_interactive_displays-2.png "Workstation with (interactive) displays at the "Lernarena" (Photo: Dennis Dubbert)")
 
 Figure 3: Workstation with (interactive) displays at the "Lernarena" (Photo: Dennis Dubbert)
 
-![Workstation with (interactive) displays at the Bildungscampus Heilbronn (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Workstation_with_interactive_displays-3.png "Workstation with (interactive) displays at the Bildungscampus Heilbronn (Photo: Christian Kohls)")
+![Workstation with (interactive) displays at the Bildungscampus Heilbronn (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Workstation_with_interactive_displays-3.png "Workstation with (interactive) displays at the Bildungscampus Heilbronn (Photo: Christian Kohls)")
 
 Figure 4: Workstation with (interactive) displays at the Bildungscampus Heilbronn (Photo: Christian Kohls)
 
-![Workstation with (interactive) displays at the Kiel UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/dub24/Workstation_with_interactive_displays-4.png "Workstation with (interactive)  displays at the Kiel UAS (Photo: Christian Kohls)")
+![Workstation with (interactive) displays at the Kiel UAS (Photo: Christian Kohls)](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/dub24/Workstation_with_interactive_displays-4.png "Workstation with (interactive)  displays at the Kiel UAS (Photo: Christian Kohls)")
 
 Figure 5: Workstation with (interactive) displays at the Kiel UAS (Photo: Christian Kohls)
 

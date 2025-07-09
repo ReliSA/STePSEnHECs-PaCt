@@ -111,11 +111,11 @@ Above all: given the information you have now, assess if you think the assignmen
 
 ## Notes (optional) 
 
-![Grip on the assignment](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/Grip_on_the_assignment.png "Grip on the assignment")
+![Grip on the assignment](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac22/Grip_on_the_assignment.png "Grip on the assignment")
 
 Figure 1: Grip on the assignment
 
-![A noisy learning environment](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/noisy_environment.png "A noisy learning environment")
+![A noisy learning environment](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac22/noisy_environment.png "A noisy learning environment")
 
 Figure 2: A noisy learning environment 
 

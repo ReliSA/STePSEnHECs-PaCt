@@ -70,7 +70,7 @@ To let students think ‘forward’, we suggest asking them:
 
 ## Notes 
 
-![Challenging personal learning goals](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/publications/jac22/Challenging_personal_learning_goals.png "Challenging personal learning goals")
+![Challenging personal learning goals](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/jac22/Challenging_personal_learning_goals.png "Challenging personal learning goals")
 
 Figure 1: Challenging personal learning goals
 

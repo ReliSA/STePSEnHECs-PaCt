@@ -55,4 +55,4 @@ The presented solution can also be applied to the running example. Connect the p
 
 ## [Sources](../References.md)
 
-[[BAR'24]](publications/bar24/bar24.md)
+[[BER'24]](facets/publications/ber24/ber24.md)
