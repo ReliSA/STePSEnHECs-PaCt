@@ -9,11 +9,11 @@ _(Ordered alphabetically by the key.)_
 
 [BER'06] Bergin, Joseph. "Active learning and feedback patterns: version 4". In Proceedings of the 2006 conference on Pattern languages of programs. 2006. Pages 1-6. [[link]](https://doi.org/10.1145/1415472.1415479)
 
-[[BAR'24]](catalogue/publications/ber24/ber24.md) Bertels, Anja and Deimel, Dominik. "Improving Coding Workshops: A Pattern Collection". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-9. [[link]](https://doi.org/10.1145/3698322.3698323)
+[[BAR'24]](catalogue/facets/publications/ber24/ber24.md) Bertels, Anja and Deimel, Dominik. "Improving Coding Workshops: A Pattern Collection". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-9. [[link]](https://doi.org/10.1145/3698322.3698323)
 
 [COP'05] Coplien, James O. and Harrison, Neil. "Organizational patterns of agile software development". Pearson Prentice Hall, 2005. Vol. 160. [[link]](https://www.academia.edu/download/110994634/123300924.pdf)
 
-[[COR'13]](catalogue/publications/cor13/cor13.md) de Cortie, Thomas, et al. "Learning Patterns for Group Assignments - Part 2". In Proceedings of the 20th Pattern Languages of Programs conference, PLoP. 2013. Vol. 13. [[link]](https://hillside.net/plop/2013/papers/Group5/plop13_preprint_20.pdf)
+[[COR'13]](catalogue/facets/publications/cor13/cor13.md) de Cortie, Thomas, et al. "Learning Patterns for Group Assignments - Part 2". In Proceedings of the 20th Pattern Languages of Programs conference, PLoP. 2013. Vol. 13. [[link]](https://hillside.net/plop/2013/papers/Group5/plop13_preprint_20.pdf)
 
 [CUR'73] Curtiss, Paul R. and Warren, Phillip W.. "The dynamics of life skills coaching". Prince Albert, Sask.: Training Research and Development Station, Department of Manpower and Immigration, 1973.
 
@@ -21,7 +21,7 @@ _(Ordered alphabetically by the key.)_
 
 [DIL'16] Dillon, Alexander E., Stolk, Jonathan D., Zastavker, Yevgeniya V. and Gross, Michael D.. "Motivation is a two-way street: pedagogies employing discussion in addition to lecture display more positive student motivational response". In 2016 ASEE Annual Conference & Exposition. 2016. [[link]](https://doi.org/10.18260/p.25758)
 
-[[DUB'24]](catalogue/publications/dub24/dub24.md) Dubbert, Dennis, and Kohls, Christian. "Hybridity through subspace creation". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-24. [[link]](https://doi.org/10.1145/3698322.3698331)
+[[DUB'24]](catalogue/facets/publications/dub24/dub24.md) Dubbert, Dennis, and Kohls, Christian. "Hybridity through subspace creation". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-24. [[link]](https://doi.org/10.1145/3698322.3698331)
 
 [ECK'02] Eckstein, Jutta, Bergin, Joseph and Sharp, Helen. "Patterns for active learning". In Proceedings of PLOP. 2002. [[link]](https://hillside.net/plop/plop2002/final/ActiveLearningV1%5B1%5D.8.doc)
 
@@ -39,19 +39,19 @@ _(Ordered alphabetically by the key.)_
 
 [IBA'11] Iba, Takashi and Sakamoto, Mami. "Learning patterns III: a pattern language for creative learning". In Proceedings of the 18th conference on pattern languages of programs. 2011. Pages 1-8. [[link]](https://doi.org/10.1145/2578903.2579166)
 
-[[JAC'22]](catalogue/publications/jac22/jac22.md) Jacobs, Tineke and Van Heesch, Uwe. "Supporting ICT-Students to Make the Most out of Their Projects". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, New York, NY, USA, July 2022. Pages 1-13. [[link]](https://doi.org/10.1145/3551902.3551972)
+[[JAC'22]](catalogue/facets/publications/jac22/jac22.md) Jacobs, Tineke and Van Heesch, Uwe. "Supporting ICT-Students to Make the Most out of Their Projects". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, New York, NY, USA, July 2022. Pages 1-13. [[link]](https://doi.org/10.1145/3551902.3551972)
 
-[[JAC'24]](catalogue/publications/jac24/jac24.md) Jacobs, Tineke. "Grading individual students in software engineering projects confidently". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices (EuroPLoP ’24). Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-10. [[link]](https://doi.org/10.1145/3698322.3698330)
+[[JAC'24]](catalogue/facets/publications/jac24/jac24.md) Jacobs, Tineke. "Grading individual students in software engineering projects confidently". In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices (EuroPLoP ’24). Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-10. [[link]](https://doi.org/10.1145/3698322.3698330)
 
 [KIR'06] Kirschner, Paul A., Sweller, John, and Clark, Richard E.. "Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching". In Educational psychologist. 2006. Vol. 41, issue 2, pages 75-86. [[link]](https://doi.org/10.1207/s15326985ep4102_1)
 
 [KIR'18] Kirschner, Paul A., Claessens, Luce Corneel Aline and Raaijmakers, Steven Frederik. "Op de schouders van reuzen: Inspirerende inzichten uit de cognitieve psychologie voor leerkrachten". In Education and Learning: Development in Interaction. Ten Brink Uitgevers, 2018. [[link]](https://research-portal.uu.nl/en/publications/op-de-schouders-van-reuzen-inspirerende-inzichten-uit-de-cognitie)
 
-[[KOH'22]](catalogue/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, New York, NY, USA, July 2022. Pages 1-7. [[link]](https://doi.org/10.1145/3551902.3551976)
+[[KOH'22]](catalogue/facets/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, New York, NY, USA, July 2022. Pages 1-7. [[link]](https://doi.org/10.1145/3551902.3551976)
 
 [[KOH'23]] Kohls, Christian, Dubbert, Dennis and Kehrer, Mareike. "The dynamic campus - flexible learning spaces for hybrid education". In Proceedings of the 28th European Conference on Pattern Languages of Programs. Association for Computing Machinery, New York, NY, USA, July 2023. Pages 1-11. [[link]](https://doi.org/10.1145/3628034.3628062)
 
-[[KOP'12]](catalogue/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1". In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12. [[link]](https://www.researchgate.net/profile/Christian-Koeppe/publication/230682834_Learning_Patterns_for_Group_Assignments_-_Part_1/links/599a9ebc45851564432f0b1f/Learning-Patterns-for-Group-Assignments-Part-1.pdf)
+[[KOP'12]](catalogue/facets/publications/kop12/kop12.md) Köppe, Christian. "Learning Patterns for Group Assignments - Part 1". In Proceedings of the 19th Conference on Pattern Languages of Programs. 2012. Pages 1-12. [[link]](https://www.researchgate.net/profile/Christian-Koeppe/publication/230682834_Learning_Patterns_for_Group_Assignments_-_Part_1/links/599a9ebc45851564432f0b1f/Learning-Patterns-for-Group-Assignments-Part-1.pdf)
 
 [MCN'99] McNerney, Timothy S. "Tangible programming bricks: An approach to making programming accessible to everyone". PhD dissertation. Massachusetts Institute of Technology, 1999. [[link]](https://dspace.mit.edu/handle/1721.1/62094)
 
@@ -63,7 +63,7 @@ _(Ordered alphabetically by the key.)_
 
 [PAA'16] Paas, Fred, Renkl, Alexander and Sweller, John (eds.). "Cognitive load theory: A Special issue of educational psychologist". Routledge, 2016.
 
-[[PIN'25]](catalogue/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup". In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10. [[link]]()
+[[PIN'25]](catalogue/facets/publications/pin25/pin25.md) Pinho, Daniel, Picha, Petr and Brada, Premek. "Patterns for Teaching Agile with Student Projects - Team and Project Setup". In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10. [[link]]()
 
 [SCH'94] Schwill, Andreas. "Fundamental ideas of computer science". In Bulletin-European Association for Theoretical Computer Science. 1994. Issue 53, pages 274-274. [[link]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a1631893b1f501110f8540a6b6e1432b17e31a84)
 
