@@ -48,8 +48,8 @@ The presented solution can also be applied to the running example. Connect the p
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Hidden Connections [[IBA'09]](../References.md)|aligns with||
-|Larger than Life [[ECK'02]](../References.md)|counterpart||
+|Hidden Connections [[IBA'09]](../References.md)|aligns with|Hidden Connection supports the idea of finding hidden connections among topic. The allows for a new perspective on already known topics and therefore aligns with the concept of Connect the pieces to paint a bigger picture for workshop participants.|
+|Larger than Life [[ECK'02]](../References.md)|counterpart|Larger than life supports the idea of giving students a big complex topic upfront and slowly work towards that topic. Even though this is contrary to Connect the Pieces, a switch in perspective could be used in a coding workshop.|
  
 ## Example(s) / Known Use(s)
 

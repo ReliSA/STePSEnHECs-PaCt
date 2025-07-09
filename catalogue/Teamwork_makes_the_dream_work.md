@@ -51,10 +51,10 @@ Additionally, it’s important to consider the optimal group size when implementin
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Community of Learning [[IBA'10]](../References.md)|supports solution||
-|Release of Thought [[IBA'09]](../References.md)|supported by||
-|Ice Breaker [[BER'06]](../References.md)|facilitates||
-|Open-Process Learning [[IBA'11]](../References.md)|facilitates||
+|Community of Learning [[IBA'10]](../References.md)|supports solution|Community of Learning supports the idea of learning together in a group, as the individual capacity is limited. This aligns with the solution of Teamwork makes the dream work.|
+|Release of Thought [[IBA'09]](../References.md)|supported by|While working together as a team, participants are able to talk about their ideas with others. They therefore get a chance to reflect upon their ideas.|
+|Ice Breaker [[BER'06]](../References.md)|facilitates|The idea behind Ice Breaker is to provide an activity for a group to get them to interact with each other, so there is no awkward moment among new group members.|
+|Open-Process Learning [[IBA'11]](../References.md)|facilitates|Open-Process Learning is about opening your learning process to others. This allows the exchange and discussion of ideas.|
  
 ## Example(s) / Known Use(s)
 

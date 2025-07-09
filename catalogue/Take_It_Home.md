@@ -52,8 +52,8 @@ others.
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Output-Driven Learning [[IBA'09]](../References.md)|can facilitate||
-|Embodied Skills [[IBA'11]](../References.md)|potentially facilitated by||
+|Output-Driven Learning [[IBA'09]](../References.md)|can facilitate|Output-Driven Learning supports the idea of working towards a concrete output at the end of a learning session. This can be applied to where for example concrete buildings blocks are being build and can then be gifted to the participants as part of Take it home.|
+|Embodied Skills [[IBA'11]](../References.md)|potentially facilitated by|Continuous practice can help to acquire a desired skill. Giving participants something to take home, enables them to repeat the topic of the workshop or solve open questions.|
  
 ## Example(s) / Known Use(s)
 

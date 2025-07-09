@@ -53,8 +53,8 @@ A possible implementation of the solution described in the context of a coding w
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Building Materials [[MUN'17]](../References.md)|prerequisite||
-|Prototyping [[IBA'11]](../References.md)|potential enabler||
+|Building Materials [[MUN'17]](../References.md)|prerequisite|To enable participants to for example build algorithms in a paper-based form, building materials like paper or building bricks are required.|
+|Prototyping [[IBA'11]](../References.md)|potential enabler|The reduce in Overhead through the abundance of real code syntax supports the exploration of a topic and can therefore be used to try out ideas in a first prototype.|
  
 ## Example(s) / Known Use(s)
 
