@@ -1,8 +1,6 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > Categories
 # Patterns Categories
 
-[Accessible Teaching](Accessible_Teaching.md)
-
 [Course Design](Course_Design.md)
 
 [Environment and Infrastructure](Environment_and_Infrastructure.md)

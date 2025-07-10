@@ -5,7 +5,7 @@
 
 [Methodologies](methodologies/methodologies.md)
 
-[Modes (of Teaching)](modes/modes.md)
+[Modes](modes/modes.md)
 
 [Perspectives](perspectives/perspectives.md)
 
