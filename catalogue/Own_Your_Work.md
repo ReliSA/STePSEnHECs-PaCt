@@ -4,7 +4,7 @@
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
+[Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md), [Perspective](facets/perspectives/perspectives.md): [Individual Student](facets/perspectives/Individual_Student.md)
 
 ## Context
 

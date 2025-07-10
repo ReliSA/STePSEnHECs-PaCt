@@ -4,7 +4,7 @@
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Grading](facets/categories/Grading.md)
+[Category](facets/categories/categories.md): [Grading](facets/categories/Grading.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
 ## Context
 

@@ -4,7 +4,7 @@
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Supplementary Learning](facets/categories/Supplementary_Learning.md)
+[Category](facets/categories/categories.md): [Supplementary Learning](facets/categories/Supplementary_Learning.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
 ## Context
 

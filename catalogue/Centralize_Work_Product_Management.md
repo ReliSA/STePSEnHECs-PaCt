@@ -4,7 +4,7 @@
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md)
+[Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md), [Perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
 
 ## Context
 

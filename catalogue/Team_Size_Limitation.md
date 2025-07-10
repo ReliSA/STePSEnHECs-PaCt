@@ -8,7 +8,7 @@ Enough Cooks in the Kitchen
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
+[Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
 ## Synopsis (optional)
 

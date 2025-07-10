@@ -4,7 +4,7 @@
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
+[Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md), [Perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
 
 
 ## Context

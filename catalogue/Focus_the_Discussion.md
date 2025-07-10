@@ -1,10 +1,10 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Focus the Discussion
 
-# Focus the Discussion(Draft)
+# Focus the Discussion (Draft)
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
+[Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md), [Perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
 
 ## Context
 

@@ -4,13 +4,13 @@
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
+[Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md), [Perspective](facets/perspectives/perspectives.md): [Individual Student](facets/perspectives/Individual_Student.md)
 
 ## Context
 
 ## Problem
 
-If things go wrong, but are not addressed in the group. then the chance that things improve is small. But giving and receiving feedback is difficult and group members are possibly afraid of giving feedback or do not handle it in a good way.
+If things go wrong, but are not addressed in the group, then the chance that things improve is small. But giving and receiving feedback is difficult and group members are possibly afraid of giving feedback or do not handle it in a good way.
 
 ## Forces
 

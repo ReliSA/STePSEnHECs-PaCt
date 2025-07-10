@@ -4,7 +4,7 @@
 
 ## [Facets](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
+[Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md), [Perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
 
 ## Context
 
