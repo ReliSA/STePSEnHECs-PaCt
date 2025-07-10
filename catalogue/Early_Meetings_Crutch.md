@@ -2,6 +2,8 @@
 
 # Early Meetings Crutch (Draft)
 
+## [Classification](facets/facets.md)
+
 - [Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
 - [Methodology](facets/methodologies/methodologies.md): [Agile](facets/methodologies/Agile.md)
 - [Mode](facets/modes/modes.md): *TBD*

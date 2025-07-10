@@ -4,7 +4,7 @@
 
 ## Also Known As
 
-Not Business Critical, Customer’s Side Project, Work on the Non-Business-Critical
+Not Business Critical, Customer's Side Project, Work on the Non-Business-Critical
 
 ## [Classification](facets/facets.md)
 

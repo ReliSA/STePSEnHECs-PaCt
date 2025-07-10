@@ -2,6 +2,8 @@
 
 # Dual Process Ownership (Draft)
 
+## [Classification](facets/facets.md)
+
 - [Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
 - [Methodology](facets/methodologies/methodologies.md): [Agile](facets/methodologies/Agile.md)
 - [Mode](facets/modes/modes.md): *TBD*
