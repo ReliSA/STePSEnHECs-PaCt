@@ -16,13 +16,9 @@ Lists patterns by a selected
 - [perspective](catalogue/facets/perspectives/perspectives.md) or
 - source [publication](catalogue/facets/publications/publications.md).
 
-## [Templates](templates/templates.md)
+## Templates
 
-Templates used for
- - individual [pattern](templates/template-pattern.md) descriptions,
- - pattern [category](templates/template-category.md) pages
- - pattern [perspective](templates/template-perspective.md) pages
- - and pattern [publication](templates/template-publication.md) pages.
+Find templates used for individual pattern or facet pages in their [folder](templates).
 
 ## [References](References.md)
 
