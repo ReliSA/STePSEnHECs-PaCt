@@ -4,20 +4,20 @@
 <ul>              
     <li>Course Runners            
     <ul>                          
-        <li>[Organization](Organization.md)                             
+        <li><a href="Organization.md">Organization</a>
         </li>                       
-        <li>[Teacher](Teacher.md)                         
+        <li><a href="Teacher.md">Teacher</a>                         
         </li>                 
     </ul>              
     </li>        
     <li>Students           
     <ul>                          
-        <li>[Team](Team.md)                             
+        <li><a href="Team.md">Team</a>                             
         </li>                       
-        <li>[Individual Student](Individual_Student.md)                         
+        <li><a href="Individual_Student.md">Individual Student</a>                        
         </li>                 
     </ul>                  
-    <li>[Customer](Customer.md)                     
+    <li><a href="Customer.md">Customer</a>                     
     </li>
 </ul>
 
