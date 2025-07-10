@@ -8,9 +8,12 @@
 
 *Other names of this pattern, separated by comma, if exist.*
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [*category name*](*category_file_name*.md), [Perspective](facets/perspectives/perspectives.md): [*perspective name*](*perspective_file_name*.md)
+- [Category](facets/categories/categories.md): [*category name*](*category_file_name*.md)
+- [Methodology](facets/methodologies/methodologies.md): [*methodology name*](*methodology_file_name*.md)
+- [Mode](facets/modes/modes.md): [*mode name*](*mode_file_name*.md)
+- [Primary perspective](facets/perspectives/perspectives.md): [*perspective name*](*perspective_file_name*.md)
 
 ## Synopsis *(optional)*
 

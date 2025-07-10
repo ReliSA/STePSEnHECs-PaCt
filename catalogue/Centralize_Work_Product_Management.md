@@ -2,9 +2,12 @@
 
 # Centralize Work Product Management
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md), [Perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
+- [Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md)
+- [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
 
 ## Context
 

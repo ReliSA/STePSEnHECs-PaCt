@@ -2,9 +2,12 @@
 
 # Not All Iterations Are Equal (Draft)
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Grading](facets/categories/Grading.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
+- [Category](facets/categories/categories.md): [Grading](facets/categories/Grading.md)
+- [Methodology](facets/methodologies/methodologies.md): [Agile](facets/methodologies/Agile.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
 ## Context
 

@@ -2,9 +2,12 @@
 
 # Video conference booth
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md), [Perspective](facets/perspectives/perspectives.md): [Organization](facets/perspectives/Organization.md)
+- [Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md)
+- [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Organization](facets/perspectives/Organization.md)
 
 ## Synopsis
 

@@ -2,9 +2,12 @@
 
 # From requirements to tasks
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
+- [Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
+- [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
 ## Context
 

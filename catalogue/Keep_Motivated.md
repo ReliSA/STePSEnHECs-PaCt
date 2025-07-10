@@ -6,6 +6,13 @@
 
 [Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md), [Perspective](facets/perspectives/perspectives.md): [Individual Student](facets/perspectives/Individual_Student.md)
 
+## [Classification](facets/facets.md)
+
+- [Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
+- [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Individual Student](facets/perspectives/Individual_Student.md)
+
 ## Context
 
 When the group started working on the assignment, they were motivated. The group already did [SPREAD TASKS APPROPRIATELY](Spread_Tasks_Appropriately.md). They tried to resolve previous conflicts (as in [RESOLVE CONFLICTS](Resolve_Conflicts.md)), if there have been a lack of knowledge or skill, they did [CLEAR UP QUESTIONS](Clear_Up_Questions.md) and [FILL KNOWLEDGE GAPS](Fill_Knowledge_Gaps.md). They are either in the beginning, in the middle, or in the final phase of the project.

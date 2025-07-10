@@ -2,9 +2,12 @@
 
 # Clear Up Questions
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md), [Perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
+- [Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
+- [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
 
 ## Context
 

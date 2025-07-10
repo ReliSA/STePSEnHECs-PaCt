@@ -2,9 +2,10 @@
 
 # Dual Process Ownership (Draft)
 
-## [Facets](facets/facets.md)
-
-[Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
+- [Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
+- [Methodology](facets/methodologies/methodologies.md): [Agile](facets/methodologies/Agile.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
 ## Context
 

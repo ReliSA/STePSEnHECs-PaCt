@@ -2,9 +2,12 @@
 
 # Give Constructive Feedback (Draft)
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md), [Perspective](facets/perspectives/perspectives.md): [Individual Student](facets/perspectives/Individual_Student.md)
+- [Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md)
+- [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Individual Student](facets/perspectives/Individual_Student.md)
 
 ## Context
 

@@ -2,9 +2,12 @@
 
 # Smaller Project Scope
 
-## [Facets](facets/facets.md)
+## [Classification](facets/facets.md)
 
-[Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
+- [Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
+- [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
 ## Synopsis (optional)
 

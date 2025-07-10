@@ -6,6 +6,13 @@
 
 [Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md), [Perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
 
+## [Classification](facets/facets.md)
+
+- [Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
+- [Methodology](facets/methodologies/methodologies.md): [Agile](facets/methodologies/Agile.md)
+- [Mode](facets/modes/modes.md): *TBD*
+- [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
+
 ## Context
 
 In an agile environment, evaluations take place at the end of every sprint. These evaluations are called retrospectives. During a retrospective, the team reflects on how the sprint went regarding people, relationships, process, and tools [[SCH'20-2]](../References.md). If performed well, retrospectives effectively support continuous improvement of the team-members with respect to their professional relationship, productivity, and quality of delivered work.
