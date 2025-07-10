@@ -9,7 +9,12 @@ The catalogue proper.
 
 ## [Faceted classification](catalogue/facets/facets.md)
 
-Lists patterns by a selected [category](catalogue/facets/categories/categories.md), [perspective](catalogue/facets/perspectives/perspectives.md) or source [publication](catalogue/facets/publications/publications.md).
+Lists patterns by a selected
+- [category](catalogue/facets/categories/categories.md),
+- project [methodology](catalogue/facets/methodologies/methodologies.md),
+- [mode](catalogue/facets/modes/modes.md),
+- [perspective](catalogue/facets/perspectives/perspectives.md) or
+- source [publication](catalogue/facets/publications/publications.md).
 
 ## [Templates](templates/templates.md)
 
