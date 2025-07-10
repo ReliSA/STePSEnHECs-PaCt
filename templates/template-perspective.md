@@ -1,5 +1,4 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Perspectives](perspectives.md) > 
-Name
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Perspectives](perspectives.md) > Name
 # Perspective: Name
 
 Description of the perspective.

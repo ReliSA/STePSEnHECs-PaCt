@@ -1,5 +1,4 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > 
-Name
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Name
 # Category: Name
 
 Description of the intention, context or other detials of the category.
