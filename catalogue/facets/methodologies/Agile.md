@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Methodologies](methodologies.md) > Agile
 # Project Methodology: Agile
 
+Patterns for student projects utilizing Agile methodologies/practices.
+
 ## 0-9
 
 ## A

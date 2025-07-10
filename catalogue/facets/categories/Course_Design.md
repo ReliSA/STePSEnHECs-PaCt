@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Course Design
 # Category: Course Design
 
+Patterns dealing with designing a higher education course in software engineering containing student projects.
+
 ## 0-9
 
 ## A

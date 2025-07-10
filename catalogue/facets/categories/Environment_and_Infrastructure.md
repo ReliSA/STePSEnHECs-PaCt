@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Environment and Infrastructure
 # Category: Environment and Infrastructure
 
+Patterns dealing with obtaining, setting up, providing and/or using special facilities, infrastructure, tools, utilities, etc. in student projects.
+
 ## 0-9
 
 ## A

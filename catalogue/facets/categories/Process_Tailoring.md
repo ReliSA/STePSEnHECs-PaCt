@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Process Tailoring
 # Category: Process Tailoring
 
+Patterns for process modifications of the student team projects.
+
 ## 0-9
 
 ## A

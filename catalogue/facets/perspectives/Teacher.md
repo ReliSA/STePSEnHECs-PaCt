@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Perspectives](perspectives.md) > Teacher
 # Perspective: Teacher
 
+Patterns to be primarily applied by the teachers of course containing student projects.
+
 ## 0-9
 
 ## A

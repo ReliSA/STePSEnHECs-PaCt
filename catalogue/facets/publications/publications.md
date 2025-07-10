@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > Publications
 # Patterns publications
 
+Pattern categorization by the publication or source they appear in.
+
 [Grading individual students in software engineering projects confidently](jac24/jac24.md)
 
 [Hybrid Events in Education](koh22/koh22.md)

@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Transparency and Guidance
 # Category: Transparency and Guidance
 
+Patterns for general guidance and hightened transparency in student team projects.
+
 ## 0-9
 
 ## A

@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Grading
 # Category: Grading
 
+Patterns surrounding grading students in higher eductaion software engineering courses containing team projects.
+
 ## 0-9
 [2+2 makes four eyes- Grading individuals is teamwork](../2_2_makes_four_eyes.md)
 

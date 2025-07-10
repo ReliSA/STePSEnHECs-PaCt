@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Perspectives](perspectives.md) > Customer
 # Perspective: Customer
 
+Patterns to be primarily applied by the actors playing the role of a customer in student projects.
+
 ## 0-9
 
 ## A

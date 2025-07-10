@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Modes](modes.md) > Online
 # Mode: Online
 
+Patterns for teaching/learning online in the course of the student projects.
+
 ## 0-9
 
 ## A

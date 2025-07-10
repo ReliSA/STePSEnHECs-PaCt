@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Modes](modes.md) > Accessible Teaching
 # Mode: Accessible Teaching
 
+Patterns for inclussive and accessible teaching during the student projects, focusing on helping different groups of student with non-normative needs.
+
 ## 0-9
 
 ## A

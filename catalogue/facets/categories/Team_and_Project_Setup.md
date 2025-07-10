@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Team and Project Setup
 # Category: Team and Project Setup
 
+Patterns for setting up student teams and their projects at the start of each course execution.
+
 ## 0-9
 
 ## A
@@ -10,7 +12,7 @@
 ## C
 [Clear Up Questions](../../Clear_Up_Questions.md)
 
-[Customer’s Side Project](../../Non-Essential_Project.md)
+[Customer's Side Project](../../Non-Essential_Project.md)
 
 ## D
 

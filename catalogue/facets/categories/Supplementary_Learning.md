@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Supplementary Learning
 # Category: Supplementary Learning
 
+Patterns for auxilary and complementary teaching/learning practices to student team projects.
+
 ## 0-9
 
 ## A

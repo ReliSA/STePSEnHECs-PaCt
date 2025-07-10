@@ -1,6 +1,8 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > Categories
 # Patterns Categories
 
+*TBD*
+
 [Course Design](Course_Design.md)
 
 [Environment and Infrastructure](Environment_and_Infrastructure.md)
