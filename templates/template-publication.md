@@ -1,8 +1,10 @@
-[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../../facets.md) > [Publications](../publications.md) > Publication_shorthand
-# Publication Name
+[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../../facets.md) > [Publications](../publications.md) > *Publication_shorthand*
+# *Publication Name*
 
-Rest of the publication' reference 
+*Rest of the publication' reference*
 
-- [Pattern 1 Name](../../../pattern 1 file)
+*remove or replace everything in itallics, including above* 
 
-Auxilary materials applicable to the whole publications, like figures, tables, etc.
+- [*Pattern 1 Name*](../../../*pattern_1_file_name*.md)
+
+*Auxilary materials applicable to the whole publications, like figures, tables, etc.*

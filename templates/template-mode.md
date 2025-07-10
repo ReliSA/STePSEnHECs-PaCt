@@ -1,7 +1,9 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Modes](modes.md) > Name
-# Mode: Name
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Modes](modes.md) > *Name*
+# Mode: *Name*
 
-Description of the intention, context or other detials of the mode.
+*remove or replace everything in itallics, including above* 
+
+*Description of the intention, context or other detials of the mode.*
 
 ## 0-9
 

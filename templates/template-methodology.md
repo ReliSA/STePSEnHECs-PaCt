@@ -1,7 +1,9 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Methodologies](methodologies.md) > Name
-# Project Methodology: Name
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Methodologies](methodologies.md) > *Name*
+# Project Methodology: *Name*
 
-Description of the intention, context or other detials of the methodology.
+*remove or replace everything in itallics, including above* 
+
+*Description of the intention, context or other detials of the methodology.*
 
 ## 0-9
 
