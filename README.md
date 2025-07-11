@@ -9,12 +9,15 @@ The catalogue proper.
 
 ## [Faceted classification](catalogue/facets/facets.md)
 
-Lists patterns by a selected
-- [category](catalogue/facets/categories/categories.md),
+List patterns by a selected
+- solution [form](catalogue/facets/forms/forms.md),
 - project [methodology](catalogue/facets/methodologies/methodologies.md),
-- [mode](catalogue/facets/modes/modes.md),
-- [perspective](catalogue/facets/perspectives/perspectives.md) or
-- source [publication](catalogue/facets/publications/publications.md).
+- [mode](catalogue/facets/modes/modes.md) of teaching,
+- pattern [perspective](catalogue/facets/perspectives/perspectives.md),
+- source [publication](catalogue/facets/publications/publications.md),
+- project [stage](catalogue/facets/stages/stages.md),
+- or miscellaneous [category](catalogue/facets/categories/categories.md).
+
 
 ## Templates
 
