@@ -1,7 +1,7 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Environment and Infrastructure
-# Category: Environment and Infrastructure
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Solution Forms](forms.md) > Environment and Infrastructure
+# Solution Form: Environment and Infrastructure
 
-Patterns dealing with obtaining, setting up, providing and/or using special facilities, infrastructure, tools, utilities, etc. in student projects.
+Patterns with solutions in a form of environment, infrastructure or facilities change or creation.
 
 ## 0-9
 

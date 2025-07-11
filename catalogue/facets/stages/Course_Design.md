@@ -1,5 +1,5 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Course Design
-# Category: Course Design
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Stages](stages.md) > Course Design
+# Stage: Course Design
 
 Patterns dealing with designing a higher education course in software engineering containing student projects.
 

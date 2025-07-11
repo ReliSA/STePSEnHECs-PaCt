@@ -1,7 +1,7 @@
 [Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > Perspectives
 # Pattern Perspectives
 
-Pattern categorization by the primary entity applying them.
+Pattern classification by the primary entity applying them.
 
 <ul>              
     <li>Course Runners            

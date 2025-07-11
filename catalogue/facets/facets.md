@@ -11,4 +11,6 @@
 
 [Publications](publications/publications.md)
 
+[Stages](stages/stages.md)
+
 

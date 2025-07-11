@@ -1,5 +1,5 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Grading
-# Category: Grading
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Stages](stages.md) > Grading
+# Stage: Grading
 
 Patterns surrounding grading students in higher eductaion software engineering courses containing team projects.
 
