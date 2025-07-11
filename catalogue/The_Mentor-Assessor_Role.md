@@ -4,7 +4,7 @@
 
 ## [Classification](facets/facets.md)
 
-- [Category](facets/categories/categories.md): [Transparency and Guidance](facets/categories/Transparency_and_Guidance.md)
+- [Category](facets/categories/categories.md): [Guidance](facets/categories/Guidance.md)
 - [Methodology](facets/methodologies/methodologies.md): [Agile](facets/methodologies/Agile.md)
 - [Mode](facets/modes/modes.md): *TBD*
 - [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)

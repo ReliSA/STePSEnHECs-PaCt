@@ -2,10 +2,6 @@
 
 # Resolve Conflicts
 
-## [Facets](facets/facets.md)
-
-[Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md), [Perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
-
 ## [Classification](facets/facets.md)
 
 - [Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md)

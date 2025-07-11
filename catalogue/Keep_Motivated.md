@@ -2,10 +2,6 @@
 
 # Keep Motivated
 
-## [Facets](facets/facets.md)
-
-[Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md), [Perspective](facets/perspectives/perspectives.md): [Individual Student](facets/perspectives/Individual_Student.md)
-
 ## [Classification](facets/facets.md)
 
 - [Category](facets/categories/categories.md): [Process Tailoring](facets/categories/Process_Tailoring.md)
