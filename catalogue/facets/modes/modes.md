@@ -5,6 +5,8 @@ Pattern categorization by the mode of teaching/learning in the course of the stu
 
 [Accessible Teaching](Accessible_Teaching.md)
 
+[General](General.md)
+
 [Online](Online.md)
 
 
