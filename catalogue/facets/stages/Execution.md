@@ -11,13 +11,9 @@ Patterns applicable during the project's execution.
 [Big Brother](../../Big_Brother.md)
 
 ## C
-[Centralize Work Product Management](../../Centralize_Work_Product_Management.md)
-
 [Challenging personal learning goals](../../Challenging_personal_learning_goals.md)
 
 [Check Customer's Privilege](../../Check_Customers_Privilege.md)
-
-[Clear Up Questions](../../Clear_Up_Questions.md)
 
 [Celebrate Your Team](../../Keep_Team_Spirit.md)
 
@@ -26,13 +22,9 @@ Patterns applicable during the project's execution.
 ## D
 [Deliver High Quality Products](../../Deliver_High_Quality_Products.md)
 
-[Disproportional Initial Stage](../../Disproportional_Initial_Stage.md)
-
 [Dual Process Ownership](../../Dual_Process_Ownership.md)
 
 ## E
-[Early Meetings Crutch](../../Early_Meetings_Crutch.md)
-
 [Effective product delivery meetings](../../Effective_product_delivery_meetings.md)
 
 [Eliminate Bottlenecks](../../Eliminate_Bottlenecks.md)
@@ -40,25 +32,18 @@ Patterns applicable during the project's execution.
 [Evaluations to learn from](../../Evaluations_to_learn_from.md)
 
 ## F
-[Fill Knowledge Gaps](../../Fill_Knowledge_Gaps.md)
-
 [Focus on Seriosness](../../Focus_on_Seriosness.md)
 
 [Focus the Discussion](../../Focus_the_Discussion.md)
 
 [From requirements to tasks](../../From_requirements_to_tasks.md)
 
-[Full Product Backlog from Day One](../../Full_Product_Backlog_from_Day_One.md)
-
 ## G
 [Give a First Warning](../../Give_a_First_Warning.md)
 
 [Give Constructive Feedback](../../Give_Constructive_Feedback.md)
 
-[Grip on the assignment](../../Grip_on_the_assignment.md)
-
 ## H
-
 [Higher Ceremony](../../Higher_Ceremony.md)
 
 ## I
@@ -77,7 +62,6 @@ Patterns applicable during the project's execution.
 [Manage the Project](../../Manage_The_Project.md)
 
 ## N
-[Nominate One Communicator](../../Nominate_One_Communicator.md)
 
 [Non-Daily Scrum](../../Non-Daily_Scrum.md)
 
@@ -99,18 +83,13 @@ Patterns applicable during the project's execution.
 
 [Shallow Feedback Loops](../../Shallow_Feedback_Loops.md)
 
-[Share Expectations](../../Share_Expectations.md)
-
 [Spread Tasks Appropriately](../../Spread_Tasks_Appropriately.md)
-
-[Start Immediately](../../Start_Immediately.md)
 
 [Strictly Time-Boxed Team Ceremonies](../../Strictly_Time-Boxed_Team_Ceremonies.md)
 
 [Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
-
 [The Mentor-Assessor Role](../../The_Mentor-Assessor_Role.md)
 
 [Tracking progress](../../Tracking_progress.md)

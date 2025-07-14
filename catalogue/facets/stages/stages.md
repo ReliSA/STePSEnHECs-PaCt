@@ -12,7 +12,11 @@ Pattern classification by the stage of the student project.
         </li>                 
     </ul>              
     </li>        
-    <li><a href="Execution.md">Execution</a>                     
+    <li><a href="Execution.md">Execution</a>
+    <ul>                          
+        <li><a href="Initiation.md">Initiation</a>                             
+        </li>
+    </ul>                     
     </li>
     <li>Post-Project
     <ul>                          
