@@ -19,10 +19,6 @@ Patterns applicable during the project's execution.
 
 [Clear Up Questions](../../Clear_Up_Questions.md)
 
-[Code Without Code](../../Code_Without_Code.md)
-
-[Connect the pieces](../../Connect_the_pieces.md)
-
 [Celebrate Your Team](../../Keep_Team_Spirit.md)
 
 [Cross-Pollination](../../Cross-Pollination.md)
@@ -46,8 +42,6 @@ Patterns applicable during the project's execution.
 ## F
 [Fill Knowledge Gaps](../../Fill_Knowledge_Gaps.md)
 
-[Flipped Conference](../../Flipped_Conference.md)
-
 [Focus on Seriosness](../../Focus_on_Seriosness.md)
 
 [Focus the Discussion](../../Focus_the_Discussion.md)
@@ -64,9 +58,6 @@ Patterns applicable during the project's execution.
 [Grip on the assignment](../../Grip_on_the_assignment.md)
 
 ## H
-[Hackathon](../../Hackathon.md)
-
-[Hands On First](../../Hands_On_First.md)
 
 [Higher Ceremony](../../Higher_Ceremony.md)
 
@@ -119,11 +110,6 @@ Patterns applicable during the project's execution.
 [Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
-[Take It Home](../../Take_It_Home.md)
-
-[Teamwork makes the dream work](../../Teamwork_makes_the_dream_work.md)
-
-[TED Evenings](../../TED_Evenings.md)
 
 [The Mentor-Assessor Role](../../The_Mentor-Assessor_Role.md)
 

@@ -1,7 +1,7 @@
-[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Categories](categories.md) > Supplementary Learning
-# Category: Supplementary Learning
+[Home](../../../README.md) > [Catalogue](../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Stages](stages.md) > Supplementary
+# Stage: Supplementary
 
-Patterns for auxilary and complementary teaching/learning practices to student team projects.
+Patterns for auxilary and complementary teaching/learning practices independent of the project timeline.
 
 ## 0-9
 

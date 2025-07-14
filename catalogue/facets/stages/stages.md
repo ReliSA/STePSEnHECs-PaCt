@@ -18,6 +18,9 @@ Pattern classification by the stage of the student project.
     <ul>                          
         <li><a href="Grading.md">Grading</a>                             
         </li>
-    </ul>                  
+    </ul>
+    </li>
+    <li><a href="Supplementary.md">Supplementary</a>
+    </li>              
 </ul>
 
