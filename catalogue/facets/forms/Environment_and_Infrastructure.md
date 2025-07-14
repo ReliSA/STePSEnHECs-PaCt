@@ -10,7 +10,6 @@ Patterns with solutions in a form of environment, infrastructure or facilities c
 ## B
 
 ## C
-[Centralize Work Product Management](../../Centralize_Work_Product_Management.md)
 
 ## D
 
@@ -59,7 +58,7 @@ Patterns with solutions in a form of environment, infrastructure or facilities c
 
 ## S
 
-## T
+## 
 [Teaching-/Learning Experimentation Rooms](../../Teaching-Learning_Experimentation_Rooms.md)
 
 ## U

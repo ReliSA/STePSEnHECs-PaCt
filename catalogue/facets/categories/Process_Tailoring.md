@@ -10,7 +10,6 @@ Patterns for process modifications of the student team projects.
 ## B
 
 ## C
-[Celebrate Your Team](../../Keep_Team_Spirit.md)
 
 ## D
 [Deliver High Quality Products](../../Deliver_High_Quality_Products.md)
@@ -23,10 +22,6 @@ Patterns for process modifications of the student team projects.
 [Eliminate Bottlenecks](../../Eliminate_Bottlenecks.md)
 
 ## F
-[Focus on Seriosness](../../Focus_on_Seriosness.md)
-
-[Focus the Discussion](../../Focus_the_Discussion.md)
-
 [Full Product Backlog from Day One](../../Full_Product_Backlog_from_Day_One.md)
 
 ## G
@@ -41,16 +36,12 @@ Patterns for process modifications of the student team projects.
 ## K
 [Keep Motivated](../../Keep_Motivated.md)
 
-[Keep Team Spirit](../../Keep_Team_Spirit.md)
-
 ## L
 
 ## M
 [Manage the Project](../../Manage_The_Project.md)
 
 ## N
-[Nominate One Communicator](../../Nominate_One_Communicator.md)
-
 [Non-Daily Scrum](../../Non-Daily_Scrum.md)
 
 ## O
@@ -69,8 +60,6 @@ Patterns for process modifications of the student team projects.
 [Shallow Feedback Loops](../../Shallow_Feedback_Loops.md)
 
 [Strictly Time-Boxed Team Ceremonies](../../Strictly_Time-Boxed_Team_Ceremonies.md)
-
-[Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
 

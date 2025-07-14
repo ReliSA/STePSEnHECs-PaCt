@@ -10,18 +10,28 @@ Patterns dealing with inter- and intra-team interactions in student projects.
 ## B
 
 ## C
+[Cross-Pollination](../../Cross-Pollination.md)
 
 ## D
 
 ## E
 
 ## F
+[Fill Knowledge Gaps](../../Fill_Knowledge_Gaps.md)
+
+[Focus on Seriosness](../../Focus_on_Seriosness.md)
+
+[Focus the Discussion](../../Focus_the_Discussion.md)
 
 ## G
+[Give a First Warning](../../Give_a_First_Warning.md)
+
+[Give Constructive Feedback](../../Give_Constructive_Feedback.md)
 
 ## H
 
 ## I
+[Improve the Presentation](../../Improve_the_Presentation.md)
 
 ## J
 
@@ -32,16 +42,26 @@ Patterns dealing with inter- and intra-team interactions in student projects.
 ## M
 
 ## N
+[Nominate One Communicator](../../Nominate_One_Communicator.md)
 
 ## O
+[Own Your Work](../../Own_Your_Work.md)
 
 ## P
 
 ## Q
 
 ## R
+[Resolve Conflicts](../../Resolve_Conflicts.md)
 
 ## S
+[Share Expectations](../../Share_Expectations.md)
+
+[Spread Tasks Appropriately](../../Spread_Tasks_Appropriately.md)
+
+[Start Immediately](../../Start_Immediately.md)
+
+[Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
 

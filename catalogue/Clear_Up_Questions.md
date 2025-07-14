@@ -4,13 +4,12 @@
 
 ## [Classification](facets/facets.md)
 
-- [Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
+- [Category](facets/categories/categories.md):
 - [Form](facets/forms/forms.md): [Activity](facets/categories/Activity.md)
 - [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
 - [Mode](facets/modes/modes.md): [General](facets/modes/General.md)
 - [Primary perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
-- [Stage](facets/stages/modes.md): [Execution](facets/stages/Execution.md)
-
+- [Stage](facets/stages/modes.md): [Execution](facets/categories/Execution.md)
 ## Context
 
 A group assignment has been given to you and some fellow students, including a description of what has to be done and what is expected from you.

@@ -10,6 +10,7 @@ Patterns with solutions in a form of a tool or its usage in the project.
 ## B
 
 ## C
+[Centralize Work Product Management](../../Centralize_Work_Product_Management.md)
 
 ## D
 

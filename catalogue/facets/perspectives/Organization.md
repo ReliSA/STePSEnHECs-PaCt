@@ -16,6 +16,11 @@ Patterns to be primarily applied by the organization running the courses contain
 ## E
 
 ## F
+[Flexible Curtain Systems](../../Flexible_Curtain_Systems.md)
+
+[Flexible Educational Rooms](../../Flexible_Educational_Rooms.md)
+
+[Flexible Furniture](../../Flexible_Furniture.md)
 
 ## G
 
@@ -28,10 +33,20 @@ Patterns to be primarily applied by the organization running the courses contain
 ## K
 
 ## L
+[Learning alcove](../../Learning_alcove.md)
+
+[Learning box](../../Learning_box.md)
+
+[Learning corner](../../Learning_corner.md)
+
+[Learning isle](../../Learning_isle.md)
+
+[Learning landscape](../../Learning_landscape.md)
 
 ## M
 
 ## N
+[Nearby power supply](../../Nearby_power_supply.md)
 
 ## O
 
@@ -44,12 +59,15 @@ Patterns to be primarily applied by the organization running the courses contain
 ## S
 
 ## T
+[Teaching-/Learning Experimentation Rooms](../../Teaching-Learning_Experimentation_Rooms.md)
 
 ## U
 
 ## V
+[Video conference booth](../../Video_conference_booth.md)
 
 ## W
+[Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
 
 ## X
 

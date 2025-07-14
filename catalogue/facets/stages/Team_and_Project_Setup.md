@@ -10,8 +10,6 @@ Patterns for setting up student teams and their projects at the start of each co
 ## B
 
 ## C
-[Clear Up Questions](../../Clear_Up_Questions.md)
-
 [Customer's Side Project](../../Non-Essential_Project.md)
 
 ## D
@@ -51,13 +49,7 @@ Patterns for setting up student teams and their projects at the start of each co
 ## S
 [Self-Assembling Teams](../../Self-Assembling_Teams.md)
 
-[Share Expectations](../../Share_Expectations.md)
-
 [Smaller Project Scope](../../Smaller_Project_Scope.md)
-
-[Spread Tasks Appropriately](../../Spread_Tasks_Appropriately.md)
-
-[Start Immediately](../../Start_Immediately.md)
 
 ## T
 [Team Chooses Topic](../../Teams_Choice.md)

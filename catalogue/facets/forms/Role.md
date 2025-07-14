@@ -8,10 +8,12 @@ Patterns with solutions in a form of an artifact, i.e., a document, template, co
 ## A
 
 ## B
+[Big Brother](../../Big_Brother.md)
 
 ## C
 
 ## D
+[Dual Process Ownership](../../Dual_Process_Ownership.md)
 
 ## E
 
@@ -31,7 +33,8 @@ Patterns with solutions in a form of an artifact, i.e., a document, template, co
 
 ## M
 
-## N
+## 
+[Nominate One Communicator](../../Nominate_One_Communicator.md)
 
 ## O
 
@@ -44,6 +47,7 @@ Patterns with solutions in a form of an artifact, i.e., a document, template, co
 ## S
 
 ## T
+[The Mentor-Assessor Role](../../The_Mentor-Assessor_Role.md)
 
 ## U
 

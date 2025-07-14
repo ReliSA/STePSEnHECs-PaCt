@@ -10,12 +10,14 @@ Patterns with solutions in a form of an artifact, i.e., document, template, form
 ## B
 
 ## C
+[Code Without Code](../../Code_Without_Code.md)
 
 ## D
 
 ## E
 
 ## F
+[Full Product Backlog from Day One](../../Full_Product_Backlog_from_Day_One.md)
 
 ## G
 
@@ -42,10 +44,13 @@ Patterns with solutions in a form of an artifact, i.e., document, template, form
 ## R
 
 ## S
+[Self-Defined Policies](../../Self-Defined_Policies.md)
 
 ## T
+[Take It Home](../../Take_It_Home.md)
 
 ## U
+[Use a Styleguide](../../Use_a_Styleguide.md)
 
 ## V
 

@@ -6,6 +6,7 @@ Patterns to be primarily applied by the indivudual students in their projects.
 ## 0-9
 
 ## A
+[Ask for Individual Grading](../../Ask_for_Individual_Grading.md)
 
 ## B
 
@@ -18,6 +19,7 @@ Patterns to be primarily applied by the indivudual students in their projects.
 ## F
 
 ## G
+[Give Constructive Feedback](../../Give_Constructive_Feedback.md)
 
 ## H
 
@@ -26,6 +28,7 @@ Patterns to be primarily applied by the indivudual students in their projects.
 ## J
 
 ## K
+[Keep Motivated](../../Keep_Motivated.md)
 
 ## L
 

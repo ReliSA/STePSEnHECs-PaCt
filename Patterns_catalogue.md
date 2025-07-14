@@ -5,9 +5,13 @@
 
 Browse
 --
- - [by category](catalogue/facets/categories/categories.md),
- - [by perspective](catalogue/facets/perspectives/perspectives.md),
- - [by publication](catalogue/facets/publications/publications.md),
+ - by [category](catalogue/facets/categories/categories.md),
+ - by solution [form](catalogue/facets/forms/forms.md),
+ - by [methodology](catalogue/facets/methodologies/methodologies.md),
+ - by teaching/learning [mode](catalogue/facets/modes/modes.md),
+ - by [perspective](catalogue/facets/perspectives/perspectives.md),
+ - by [publication](catalogue/facets/publications/publications.md),
+ - by project [stage](catalogue/facets/stages/stages.md), 
  - all alphabtically below.
 
 --- 
@@ -25,8 +29,7 @@ Browse
 
 [Centralize Work Product Management](catalogue/Centralize_Work_Product_Management.md)
 
-[Challenging personal learning
-goals](catalogue/Challenging_personal_learning_goals.md)
+[Challenging personal learning goals](catalogue/Challenging_personal_learning_goals.md)
 
 [Check Customer's Privilege](catalogue/Check_Customers_Privilege.md)
 
@@ -50,8 +53,7 @@ goals](catalogue/Challenging_personal_learning_goals.md)
 ## E
 [Early Meetings Crutch](catalogue/Early_Meetings_Crutch.md)
 
-[Effective product delivery
-meetings](catalogue/Effective_product_delivery_meetings.md)
+[Effective product delivery meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Eliminate Bottlenecks](catalogue/Eliminate_Bottlenecks.md)
 
