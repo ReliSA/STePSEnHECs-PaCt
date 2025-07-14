@@ -4,10 +4,12 @@
 
 ## [Classification](facets/facets.md)
 
-- [Category](facets/categories/categories.md): [Environment and Infrastructure](facets/categories/Environment_and_Infrastructure.md)
+- [Category](facets/categories/categories.md):
+- [Form](facets/forms/forms.md): [Tool](facets/categories/Tool.md)
 - [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
-- [Mode](facets/modes/modes.md): *TBD*
+- [Mode](facets/modes/modes.md): [General](facets/modes/General.md)
 - [Primary perspective](facets/perspectives/perspectives.md): [Team](facets/perspectives/Team.md)
+- [Stage](facets/stages/modes.md): [Execution](facets/stages/Execution.md)
 
 ## Context
 

@@ -8,10 +8,12 @@ Enough Cooks in the Kitchen
 
 ## [Classification](facets/facets.md)
 
-- [Category](facets/categories/categories.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
+- [Category](facets/categories/categories.md): 
+- [Form](facets/forms/forms.md): [Activity](facets/categories/Activity.md)
 - [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
-- [Mode](facets/modes/modes.md): *TBD*
+- [Mode](facets/modes/modes.md): [General](facets/modes/General.md)
 - [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
+- [Stage](facets/stages/modes.md): [Team and Project Setup](facets/categories/Team_and_Project_Setup.md)
 
 ## Synopsis (optional)
 

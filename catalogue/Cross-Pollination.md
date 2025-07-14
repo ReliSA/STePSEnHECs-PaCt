@@ -5,9 +5,11 @@
 ## [Classification](facets/facets.md)
 
 - [Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md)
+- [Form](facets/forms/forms.md): [Activity](facets/categories/Activity.md)
 - [Methodology](facets/methodologies/methodologies.md): [Agile](facets/methodologies/Agile.md)
-- [Mode](facets/modes/modes.md): *TBD*
+- [Mode](facets/modes/modes.md): [General](facets/modes/General.md)
 - [Primary perspective](facets/perspectives/perspectives.md): [Teacher](facets/perspectives/Teacher.md)
+- [Stage](facets/stages/modes.md): [Execution](facets/stages/Execution.md)
 
 ## Context
 
