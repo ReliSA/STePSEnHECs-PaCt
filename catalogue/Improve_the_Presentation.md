@@ -34,4 +34,4 @@ Let group members which are not that good with presentations practice it or prov
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

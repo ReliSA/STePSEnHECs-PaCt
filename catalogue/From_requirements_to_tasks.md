@@ -104,7 +104,7 @@ Figure 1: From requirements to tasks
 
 ## [Sources](../References.md)
 
-[[JAC'22]](publications/jac22/jac22.md)
+[[JAC'22]](facets/publications/jac22/jac22.md)
 
 ---
 

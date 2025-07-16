@@ -41,7 +41,7 @@ The first thing is to try to find the reason for the lack of motivation, if it c
 
 For example, to regain interest in a uninteresting assignment, a good way to start is to try to have fun with the people you are working with. [CELEBRATE YOUR TEAM](Keep_Team_Spirit.md) by doing activities together, switch tasks often and try to get the tasks that you enjoy. If you see one of your team members is struggling with motivation, ask the person what he would like to do and try to motivate him when you can. Another possibility to make things more interesting is switch the working location. A new working environment can make a big difference.
 
-There are times when the working pressure is very high, the best solution for these situations is to make sure to [SPREAD TASKS APPROPRIATELY](Spread_Tasks_Appropriately.md) , so person won’t be overwhelmed by the many different things he has to do( as in [ELIMINATE BOTTLENECKS](Eliminate_Bottlenecks.md)). Also, trying to motivate and help each other out when possible.
+There are times when the working pressure is very high, the best solution for these situations is to make sure to [SPREAD TASKS APPROPRIATELY](Spread_Tasks_Appropriately.md), so person won’t be overwhelmed by the many different things he has to do (as in [ELIMINATE BOTTLENECKS](Eliminate_Bottlenecks.md)). Also, trying to motivate and help each other out when possible.
 
 If there have been issues in the team that have not been resolved by [RESOLVE CONFLICTS](Resolve_Conflicts.md), you can ask a teacher or other students to help, someone from outside can have a different view on the situation and might have new ideas that can solve the problem.
 
@@ -59,6 +59,12 @@ Keep everything as fun as possible, but also try to regain focus; reward yoursel
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Celebrate Your Team](Keep_Team_Spirit.md)|enabled by|same on the team level|
+|[Clear Up Questions](Clear_Up_Questions.md)|follows||
+|[Eliminate Bottlenecks](Eliminate_Bottlenecks.md)|enabled by||
+|[Fill Knowledge Gaps](Fill_Knowledge_Gaps.md)|enabled by||
+|[Resolve Conflicts](Resolve_Conflicts.md)|enabled by||
+|[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|enabled by|best solution when the working pressure is very high, so person won’t be overwhelmed by the many different things he has to do|
  
 ## Example(s) / Known Use(s)
 
@@ -66,4 +72,4 @@ Keep everything as fun as possible, but also try to regain focus; reward yoursel
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md) (as a patlet), [[COR'13]](publications/cor13/cor13.md)
+[[KOP'12]](facets/publications/kop12/kop12.md) (as a patlet), [[COR'13]](facets/publications/cor13/cor13.md)

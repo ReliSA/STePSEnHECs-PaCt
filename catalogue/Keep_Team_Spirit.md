@@ -33,6 +33,7 @@ Don’t work too long and make regularly breaks. Finish the assignment together as
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Keep Motivated](Keep_Motivated.md)|contributes to|same on an individual level|
 |[Resolve Conflicts](Resolve_Conflicts.md)|can lead to/can follow||
  
 ## Example(s) / Known Use(s)

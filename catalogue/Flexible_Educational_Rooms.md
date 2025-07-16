@@ -44,7 +44,7 @@ Rooms should be designed in such a way that they are optimized for predefined fo
 
 Therefore, primary and secondary functions should be defined in space planning. For the primary functions (e.g. presentation, creative collaboration, joint learning, examination situations), the affordance should be optimized, i.e. the room suggests exactly these forms of use and also symbolizes them. Secondary functions (learning groups can also sit in the lecture hall, consultation or examination can also take place in the innovation room) should also be very well supported, even if the room is not optimized for them. Functions for which the room is not actually designed should nevertheless not be prevented if possible (a lecture hall is not well suited for group work, but if the lecture hall provides swiveling chairs and tables on one level, this is also possible).
 
-Switching between forms of use should be possible without rearranging the room, if possible. But this naturally has its limitations. If tables, chairs, whiteboards or other furniture really need to be moved, then this should be done as quickly as possible (see [Flexible furniture](Flexible_Furniture.md) and [Flexible curtain systems](Flexible_Curtain_Systems)). This is because in complex didactic settings the change of a form of use takes place not only between events, but often also during the event. In larger rooms, space can be divided into different zones, e.g. one area for presentations and another area for group work. The room then offers different functions in different areas and allows for experimentation (see [Teaching-/Learning-experimentation rooms](Teaching-Learning_Experimentation_Rooms.md)).
+Switching between forms of use should be possible without rearranging the room, if possible. But this naturally has its limitations. If tables, chairs, whiteboards or other furniture really need to be moved, then this should be done as quickly as possible (see [Flexible furniture](Flexible_Furniture.md) and [Flexible curtain systems](Flexible_Curtain_Systems.md)). This is because in complex didactic settings the change of a form of use takes place not only between events, but often also during the event. In larger rooms, space can be divided into different zones, e.g. one area for presentations and another area for group work. The room then offers different functions in different areas and allows for experimentation (see [Teaching-/Learning-experimentation rooms](Teaching-Learning_Experimentation_Rooms.md)).
 
 ### Obstacles
 
@@ -63,6 +63,8 @@ Traditional room types often suggest certain types of use, often from experience
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Flexible Furniture](Flexible_Furniture.md)|includes|furniture needs to be movable as quickly as possible|
+|[Flexible Curtain Systems](Flexible_Curtain_Systems)|includes|rearranging the room needs to be done as quickly as possible|
  
 ## Example(s) / Known Use(s)
 
@@ -71,4 +73,4 @@ Traditional room types often suggest certain types of use, often from experience
 
 ## [Sources](../References.md)
 
-[[KOH'23]](publications/koh23/koh23.md)
+[[KOH'23]](facets/publications/koh23/koh23.md)

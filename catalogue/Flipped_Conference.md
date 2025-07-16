@@ -84,4 +84,4 @@ For the professional discourse, it is important that academic staff and lecturer
 
 ## [Sources](../References.md)
 
-[[KOH'22]](publications/koh22/koh22.md)
+[[KOH'22]](facets/publications/koh22/koh22.md)

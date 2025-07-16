@@ -34,4 +34,4 @@ Stay inside the scope of the problem, write down the results and regularly check
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

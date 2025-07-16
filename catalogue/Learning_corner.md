@@ -73,7 +73,12 @@ Lastly, in order for students to use the Learning corners productively, the work
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
- 
+|Learning alcove|altenative|more private|
+|Learning box|altenative|more private|
+|Learning isle|altenative|more open|
+|Learning landscape|part of||
+|Video conference booth|can include||
+
 ## Example(s) / Known Use(s)
 
  - Figure 1 shows Learning corner at the "Lernarena".
@@ -96,4 +101,4 @@ Figure 3: Learning corner at the MIT (Photo: Christian Kohls)
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)

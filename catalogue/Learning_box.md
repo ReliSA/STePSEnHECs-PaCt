@@ -63,6 +63,11 @@ If Learning boxes are to be used as break-out rooms for a specific course, it mu
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|Learning alcove|altenative|more open|
+|Learning corner|altenative|more open|
+|Learning isle|altenative|more open|
+|Learning landscape|part of||
+|Video conference booth|can include||
  
 ## Example(s) / Known Use(s)
 
@@ -91,4 +96,4 @@ Figure 4: Learning box made out of a Learning box at the Ruhr West UAS (Photo: C
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)

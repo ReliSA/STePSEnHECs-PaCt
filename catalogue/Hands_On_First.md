@@ -73,7 +73,7 @@ Figure 1: The application ”Hour of Code”, which consists of smaller individual l
 
 ## [Sources](../References.md)
 
-[[BER'24]](facets/publications/ber24/ber24.md)
+[[BER'24]](facets/facets/publications/ber24/ber24.md)
 
 ---
 

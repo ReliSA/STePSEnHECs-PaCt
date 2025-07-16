@@ -86,4 +86,4 @@ The role of the lecturer has to be questioned. Are lecturers participants at eye
 
 ## [Sources](../References.md)
 
-[[KOH'22]](publications/koh22/koh22.md)
+[[KOH'22]](facets/publications/koh22/koh22.md)

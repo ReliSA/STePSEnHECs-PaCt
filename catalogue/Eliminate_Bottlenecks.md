@@ -29,6 +29,7 @@ Reassign the tasks so that everyone in the group can work and that the project i
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Keep Motivated](Keep_Motivated.md)|contributes to||
  
 ## Example(s) / Known Use(s)
 

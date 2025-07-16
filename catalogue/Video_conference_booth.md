@@ -61,7 +61,7 @@ In organisational terms, students need the security of knowing that a required v
 
 The use case for Video conference booths is also important, as they are only intended for use by individuals and are equipped accordingly. However, students may also wish to participate in a video conference for a joint lecture or a hybrid meeting with 2-3 people. For such purposes, smaller groups should be able to switch to [Learning boxes](Learning_box.md). But this is not the only thing that should be taken into account in spatial planning. Video conference booths should also be visible so that students are not working behind completely closed doors. To ensure the necessary privacy, however, it must be ensured that students can position their laptops so that others cannot look at the screen.
 
-Furthermore, these closed Video conference booths are complementary to more open self-learning areas such as Learning isles or [Learning alcoves](Learning_alcove.md) as well as quiet workstations for concentrated work. Therefore, not too many Video conference booths should be planned, but above all the open learning areas should be designed attractively. Students should not work in isolation in the Video conference booths, but should only switch to these booths for confidential, personal and undisturbed online conversations or telephone calls. If larger booths may also be used as regular workstations for students over longer periods of time, this should be clearly communicated by means of signs.
+Furthermore, these closed Video conference booths are complementary to more open self-learning areas such as [Learning isles](Learning_isle.md) or [Learning alcoves](Learning_alcove.md) as well as quiet workstations for concentrated work. Therefore, not too many Video conference booths should be planned, but above all the open learning areas should be designed attractively. Students should not work in isolation in the Video conference booths, but should only switch to these booths for confidential, personal and undisturbed online conversations or telephone calls. If larger booths may also be used as regular workstations for students over longer periods of time, this should be clearly communicated by means of signs.
 
 Still, the number of cubicles required is very difficult to plan, as the usage behavior of students depends very individually on campus location, campus environment and subject disciplines. Therefore, the offer should be gradually expanded and the frequency of use evaluated.
 
@@ -82,6 +82,10 @@ Lastly, small Video conference booths can have an oppressive effect. The interio
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|Learning alcove|placed in||
+|Learning box|placed in||
+|Learning isle|placed in||
+|Learning landscape|part of||
  
 ## Example(s) / Known Use(s)
 
@@ -109,4 +113,4 @@ Figure 4: Video conference booth integrated into the corridor at the MIT (Photo:
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)

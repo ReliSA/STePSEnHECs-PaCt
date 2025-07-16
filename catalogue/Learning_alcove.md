@@ -68,6 +68,11 @@ Lastly, while soundproofing elements often shield the people inside the Learning
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|Learning box|altenative|more isolated|
+|Learning corner|altenative|more open|
+|Learning isle|altenative|more open|
+|Learning landscape|part of||
+|Video conference booth|can include||
  
 ## Example(s) / Known Use(s)
 
@@ -97,4 +102,4 @@ Figure 4: Integrated Learning alcoves at the Utrecht University (left) and Leipz
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)

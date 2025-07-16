@@ -46,6 +46,7 @@ After all — or enough — assignment parts are clear to you, you should be able to
 |--|--|--|
 |[Deliver High Quality Products](Deliver_High_Quality_Products.md)|facilitates|after all assignment parts are clear, should be able to|
 |[Fill Knowledge Gaps](Fill_Knowledge_Gaps.md)|can lead to||
+|[Keep Motivated](Keep_Motivated.md)|precedes||
 |[Nominate One Communicator](Nominate_One_Communicator.md)|performed by||
 |[Start Immediately](Start_Immediately.md)|follows||
  

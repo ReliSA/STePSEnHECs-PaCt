@@ -68,6 +68,7 @@ When redesigning rooms, escape routes must be taken into account. Flexible furni
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Flexible Educational Rooms](Flexible_Educational_Rooms.md)|specific implementaion of||
  
 ## Example(s) / Known Use(s)
 
@@ -98,4 +99,4 @@ Figure 4: Whiteboards and pinboards mounted on a rail system on the wall in a se
 
 ## [Sources](../References.md)
 
-[[KOH'23]](publications/koh23/koh23.md)
+[[KOH'23]](facets/publications/koh23/koh23.md)

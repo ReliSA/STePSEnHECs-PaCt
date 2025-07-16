@@ -52,6 +52,7 @@ As the main goal is to finish the assignment successfully, in the end they have 
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Keep Motivated](Keep_Motivated.md)|contributes to||
 |[Keep Team Spirit](Keep_Team_Spirit.md)|can lead to/can follow|if the team spirit is high, the team is more happily together and this could surely help to prevent further conflicts|
 |[Share Expectations](Share_Expectations.md)|follows|hopefully a preventative measure|
 |[Start Immediately](Start_Immediately.md)|triggered by||

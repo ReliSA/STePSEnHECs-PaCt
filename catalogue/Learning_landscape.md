@@ -78,11 +78,11 @@ Lastly, if the Learning landscape also contains Flexible Furniture [[KOH'23]](..
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Learning alcove|potential part of||
-|Learning isle|potential part of||
-|Learning corner|potential part of||
-|Learning box|potential part of||
-|Video conference booth|potential part of||
+|Learning alcove|can include||
+|Learning box|can include||
+|Learning corner|can include||
+|Learning isle|can include||
+|Video conference booth|can include||
  
 ## Example(s) / Known Use(s)
 
@@ -128,7 +128,7 @@ Table 1: Overview, attributes and differences of the five patterns a Learning la
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)
 
 ---
 

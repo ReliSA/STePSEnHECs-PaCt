@@ -75,6 +75,11 @@ Furthermore, when setting up Learning isles, particular attention must be paid t
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|Learning alcove|altenative|more private and soundproof|
+|Learning box|altenative|more private|
+|Learning corner|altenative|more private and soundproof, easy to convert to|
+|Learning landscape|part of||
+|Video conference booth|can include||
  
 ## Example(s) / Known Use(s)
 
@@ -104,4 +109,4 @@ Figure 4: Learning isles at the Bielefeld UAS (Photo: Christian Kohls)
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)

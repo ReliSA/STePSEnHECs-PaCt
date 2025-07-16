@@ -34,4 +34,4 @@ Though the  projects' smaller scale might would not call for it in industry, we 
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

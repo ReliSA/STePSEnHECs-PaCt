@@ -49,6 +49,7 @@ In most cases this pattern is used at the beginning of a project. But sometimes 
 |--|--|--|
 |[Fill Knowledge Gaps](Fill_Knowledge_Gaps.md)|can lead to/can follow|could help team member by suggesting information to read to increase his knowledge|
 |[Give a First Warning](Give_a_First_Warning.md)|can follow||
+|[Keep Motivated](Keep_Motivated.md)|contributes to||
 |[Manage The Project](Manage_The_Project.md)|part of|to keep track of the progress|
 |[Regularly Check Requirements Fulfillment](Regularly_Check_Requirements_Fulfillment.md)|facilitates||
 |[Start Immediately](Start_Immediately.md)|follows||

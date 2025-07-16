@@ -54,6 +54,7 @@ Applying this pattern may cost extra time if assistance by members with sufficie
 |[Clear Up Questions.md](Clear_Up_Questions.md)|can be caused by||
 |[Deliver High Quality Products](Deliver_High_Quality_Products.md)|calls for|make sure you still can|
 |[Give a First Warning](Give_a_First_Warning.md)|can lead to/can follow|apply if the members lacking requisite knowledge are not showing enough commitment, and required active participation does not help|
+|[Keep Motivated](Keep_Motivated.md)|contributes to||
 |[Share Expectations](Share_Expectations.md)|preceded by|expected part of pre-conditions/context|
 |[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|can lead to/can follow|might be helpful to consider|
  

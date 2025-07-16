@@ -66,6 +66,7 @@ If a room is used by several groups of people at the same time, the use of the c
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Flexible Educational Rooms](Flexible_Educational_Rooms.md)|specific implementaion of||
  
 ## Example(s) / Known Use(s)
 
@@ -85,4 +86,4 @@ Figure 2: Curtain system at the Gummersbach Campus of the TH Köln (Photos: Marei
 
 ## [Sources](../References.md)
 
-[[KOH'23]](publications/koh23/koh23.md)
+[[KOH'23]](facets/publications/koh23/koh23.md)
