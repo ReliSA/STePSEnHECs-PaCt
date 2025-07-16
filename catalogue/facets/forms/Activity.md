@@ -135,11 +135,15 @@ Patterns with solutions in a form of an activity.
 [Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
+[Team Chooses Topic](catalogue/Teams_Choice.md)
+
+[Team's Choice](catalogue/Teams_Choice.md)
+
+[Team Size Limitation](../../Team_Size_Limitation.md)
+
 [Teamwork makes the dream work](../../Teamwork_makes_the_dream_work.md)
 
 [TED Evenings](../../TED_Evenings.md)
-
-[Time Size Limitation](../../Team_Size_Limitation.md)
 
 [Tracking progress](../../Tracking_progress.md)
 
