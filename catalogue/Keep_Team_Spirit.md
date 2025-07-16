@@ -33,9 +33,10 @@ Don’t work too long and make regularly breaks. Finish the assignment together as
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Resolve Conflicts](Resolve_Conflicts.md)|can lead to/can follow||
  
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

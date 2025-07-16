@@ -4,7 +4,7 @@
 Patterns not relient on the specific methodology used in the student projects.
 
 ## 0-9
-[2+2 makes four eyes - Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
+[2+2 makes four eyes](../../2_2_makes_four_eyes.md)
 
 ## A
 [Ask for Individual Grading](../../Ask_for_Individual_Grading.md)
@@ -25,6 +25,8 @@ Patterns not relient on the specific methodology used in the student projects.
 
 [Code Without Code](../../Code_Without_Code.md)
 
+[Collecting observations](../../Lest_not_forget.md)
+
 [Connect the pieces](../../Connect_the_pieces.md)
 
 [Customer's Side Project](../../Non-Essential_Project.md)
@@ -38,7 +40,7 @@ Patterns not relient on the specific methodology used in the student projects.
 [Enough Cooks in the Kitchen](../../Team_Size_Limitation.md)
 
 ## F
-[Face their facts - Student's accountability](../../Face_their_facts.md)
+[Face their facts](../../Face_their_facts.md)
 
 [Fill Knowledge Gaps](../../Fill_Knowledge_Gaps.md)
 
@@ -60,6 +62,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Give a First Warning](../../Give_a_First_Warning.md)
 
 [Give Constructive Feedback](../../Give_Constructive_Feedback.md)
+
+[Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
 
 [Grip on the assignment](../../Grip_on_the_assignment.md)
 
@@ -91,7 +95,7 @@ Patterns not relient on the specific methodology used in the student projects.
 
 [Learning landscape](../../Learning_landscape.md)
 
-[Lest not forget - Collecting observations](../../Lest_not_forget.md)
+[Lest not forget](../../Lest_not_forget.md)
 
 ## M
 [Manage the Project](../../Manage_The_Project.md)
@@ -129,6 +133,8 @@ Patterns not relient on the specific methodology used in the student projects.
 
 [Start Immediately](../../Start_Immediately.md)
 
+[Student's accountability](../../Face_their_facts.md)
+
 [Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
@@ -149,11 +155,13 @@ Patterns not relient on the specific methodology used in the student projects.
 ## U
 [Use a Styleguide](../../Use_a_Styleguide.md)
 
+[Using metrics in a fair way](../../Whodunnit.md)
+
 ## V
 [Video conference booth](../../Video_conference_booth.md)
 
 ## W
-[Whodunnit? - Using metrics in a fair way](../../Whodunnit.md)
+[Whodunnit?](../../Whodunnit.md)
 
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
 

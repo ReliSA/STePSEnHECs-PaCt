@@ -39,7 +39,7 @@ After it is clear which gaps to fill, there are several ways of helping other te
  - If none of the group members has sufficient knowledge, have one member taking the task of acquiring the knowledge — e.g. by doing some research — and then present it to and share it with the whole group (also known as peer teaching).
  - If at least one member has the knowledge, then share this knowledge by pairing the inexperienced with the experienced team members and have the apprentice learn from the master. Pair programming is a good example of how this is realized in software engineering.
 
-In order to assure that while filling the gaps it still is possible for group members to work on the overall assignment, it might be helpful to consider to temporarily [SPREAD TASKS APPROPRIATELY](Share_Expectations.md).
+In order to assure that while filling the gaps it still is possible for group members to work on the overall assignment, it might be helpful to consider to temporarily [SPREAD TASKS APPROPRIATELY](Spread_Tasks_Appropriately.md).
 
 The knowledge of the group members with insufficient knowledge will increase, at least to an amount which is enough for being a valuable member of the group. However, if the members in question are not showing enough commitment, require an active participation from them and, if necessary, [GIVE A FIRST WARNING](Give_a_First_Warning.md).
 
@@ -51,6 +51,11 @@ Applying this pattern may cost extra time if assistance by members with sufficie
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Clear Up Questions.md](Clear_Up_Questions.md)|can be caused by||
+|[Deliver High Quality Products](Deliver_High_Quality_Products.md)|calls for|make sure you still can|
+|[Give a First Warning](Give_a_First_Warning.md)|can lead to/can follow|apply if the members lacking requisite knowledge are not showing enough commitment, and required active participation does not help|
+|[Share Expectations](Share_Expectations.md)|preceded by|expected part of pre-conditions/context|
+|[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|can lead to/can follow|might be helpful to consider|
  
 ## Example(s) / Known Use(s)
 
@@ -58,4 +63,4 @@ Applying this pattern may cost extra time if assistance by members with sufficie
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

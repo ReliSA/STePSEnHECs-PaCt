@@ -29,9 +29,10 @@ Define a styleguide or decide on an existing one and use this consequently throu
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Regularly Check Requirements Fulfillment](Regularly_Check_Requirements_Fulfillment.md)|complements||
  
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

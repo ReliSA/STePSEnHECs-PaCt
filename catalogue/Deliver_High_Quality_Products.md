@@ -29,9 +29,11 @@ Start working on the assignment immediately and keep track of the progress of th
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Clear Up Questions.md](Clear_Up_Questions.md)|facilitated by||
+|[Fill Knowledge Gaps](Fill_Knowledge_Gaps.md)|resolves liability of||
  
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

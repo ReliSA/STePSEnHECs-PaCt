@@ -1,6 +1,10 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Whodunnit? - Using metrics in a fair way
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Whodunnit?
 
-#  Whodunnit? - Using metrics in a fair way
+#  Whodunnit?
+
+## Also Known As
+
+Using metrics in a fair way
 
 ## [Classification](facets/facets.md)
 
@@ -55,11 +59,11 @@ The solution is a process again:
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|uses in solution||
+|[2+2 makes four eyes](2_2_makes_four_eyes.md)|parent|solution to a broader problem|
 
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[JAC'24]](publications/jac24/jac24.md)
+[[JAC'24]](facets/publications/jac24/jac24.md)
 

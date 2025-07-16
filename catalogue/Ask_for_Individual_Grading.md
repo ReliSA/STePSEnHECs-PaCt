@@ -29,9 +29,11 @@ Ensure that the different degrees of contribution are taken into account by aski
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Give a First Warning](Give_a_First_Warning.md)|can follow||
+|[Share Expectations](Share_Expectations.md)|preceded by||
  
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

@@ -39,7 +39,7 @@ Each team member has his own skills and limitations. Assign tasks based on these
  - Assign the tasks that depend on other tasks first, so that when those are finished the group can move on with the parts that follow.
  - Every task needs a certain amount of time. Assign the tasks to the team members so, that each team member has sufficient time to complete his tasks before the deadline of the assignment. [MANAGE THE PROJECT](Manage_The_Project.md) to keep track of the progress.
 
-In most cases this pattern is used at the beginning of a project. But sometimes the pros and cons were misjudged or you are using different iterations. In these cases you should redo [SPREAD TASKS APPROPRIATELY](Spread_Tasks_Appropriately.md).
+In most cases this pattern is used at the beginning of a project. But sometimes the pros and cons were misjudged or you are using different iterations. In these cases you should redo SPREAD TASKS APPROPRIATELY.
 
 ## Consequences
 
@@ -47,6 +47,11 @@ In most cases this pattern is used at the beginning of a project. But sometimes 
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Fill Knowledge Gaps](Fill_Knowledge_Gaps.md)|can lead to/can follow|could help team member by suggesting information to read to increase his knowledge|
+|[Give a First Warning](Give_a_First_Warning.md)|can follow||
+|[Manage The Project](Manage_The_Project.md)|part of|to keep track of the progress|
+|[Regularly Check Requirements Fulfillment](Regularly_Check_Requirements_Fulfillment.md)|facilitates||
+|[Start Immediately](Start_Immediately.md)|follows||
  
 ## Example(s) / Known Use(s)
 
@@ -57,4 +62,4 @@ In most cases this pattern is used at the beginning of a project. But sometimes 
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md) (as a patlet), [[COR'13]](publications/cor13/cor13.md)
+[[KOP'12]](facets/publications/kop12/kop12.md) (as a patlet), [[COR'13]](facets/publications/cor13/cor13.md)

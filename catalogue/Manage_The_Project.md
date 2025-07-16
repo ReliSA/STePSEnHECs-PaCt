@@ -44,6 +44,9 @@ You should make a decision about how you are going to manage the project. By cho
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Centralize Work Product Management](Centralize_Work_Product_Management.md)|follows||
+|[Regularly Check Requirements Fulfillment](Regularly_Check_Requirements_Fulfillment.md)|includes|could check if the current work done meets up the defined criteria|
+|[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|includes|could increase the efficiency of the group significantly|
  
 ## Example(s) / Known Use(s)
 
@@ -52,4 +55,4 @@ You should make a decision about how you are going to manage the project. By cho
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md) (as a patlet), [[COR'13]](publications/cor13/cor13.md) 
+[[KOP'12]](facets/publications/kop12/kop12.md) (as a patlet), [[COR'13]](facets/publications/cor13/cor13.md) 

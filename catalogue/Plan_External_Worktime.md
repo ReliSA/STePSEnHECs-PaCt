@@ -29,9 +29,10 @@ Plan breaks on a regular basis which offer the group member to focus on the job 
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Give a First Warning](Give_a_First_Warning.md)|can follow||
  
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

@@ -4,7 +4,7 @@
 Patterns applicable generally in now specific teaching/learning mode.
 
 ## 0-9
-[2+2 makes four eyes - Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
+[2+2 makes four eyes](../../2_2_makes_four_eyes.md)
 
 ## A
 [Ask for Individual Grading](../../Ask_for_Individual_Grading.md)
@@ -24,6 +24,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 [Clear Up Questions](../../Clear_Up_Questions.md)
 
 [Code Without Code](../../Code_Without_Code.md)
+
+[Collecting observations](../../Lest_not_forget.md)
 
 [Connect the pieces](../../Connect_the_pieces.md)
 
@@ -50,7 +52,7 @@ Patterns applicable generally in now specific teaching/learning mode.
 [Evaluations to learn from](../../Evaluations_to_learn_from.md)
 
 ## F
-[Face their facts - Student's accountability](../../Face_their_facts.md)
+[Face their facts](../../Face_their_facts.md)
 
 [Fill Knowledge Gaps](../../Fill_Knowledge_Gaps.md)
 
@@ -74,6 +76,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 [Give a First Warning](../../Give_a_First_Warning.md)
 
 [Give Constructive Feedback](../../Give_Constructive_Feedback.md)
+
+[Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
 
 [Grip on the assignment](../../Grip_on_the_assignment.md)
 
@@ -107,7 +111,7 @@ Patterns applicable generally in now specific teaching/learning mode.
 
 [Learning landscape](../../Learning_landscape.md)
 
-[Lest not forget - Collecting observations](../../Lest_not_forget.md)
+[Lest not forget](../../Lest_not_forget.md)
 
 ## M
 [Manage the Project](../../Manage_The_Project.md)
@@ -157,6 +161,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 
 [Strictly Time-Boxed Team Ceremonies](../../Strictly_Time-Boxed_Team_Ceremonies.md)
 
+[Student's accountability](../../Face_their_facts.md)
+
 [Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
@@ -181,11 +187,13 @@ Patterns applicable generally in now specific teaching/learning mode.
 ## U
 [Use a Styleguide](../../Use_a_Styleguide.md)
 
+[Using metrics in a fair way](../../Whodunnit.md)
+
 ## V
 [Video conference booth](../../Video_conference_booth.md)
 
 ## W
-[Whodunnit? - Using metrics in a fair way](../../Whodunnit.md)
+[Whodunnit?](../../Whodunnit.md)
 
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
 

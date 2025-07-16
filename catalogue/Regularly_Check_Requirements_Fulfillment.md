@@ -46,6 +46,11 @@ You could also prevent a decrease in the quality of your deliverables, by [SPREA
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Centralize Work Product Management](Centralize_Work_Product_Management.md)|complements|to prevent inconsistencies among the work products|
+|[Manage The Project](Manage_The_Project.md)|part of|means to find some time for testing or checking deliverables on a regular base|
+|[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|facilitated by|prevents a decrease in the quality|
+|[Start Immediately](Start_Immediately.md)|facilitated by|means to find some time for testing or checking deliverables on a regular base|
+|[Use a Styleguide](Use_a_Styleguide.md)|complements|to prevent inconsistencies among the work products|
  
 ## Example(s) / Known Use(s)
 
@@ -55,4 +60,4 @@ You could also prevent a decrease in the quality of your deliverables, by [SPREA
 
 ## [Sources](../References.md)
 
-[[COR'13]](publications/cor13/cor13.md) 
+[[COR'13]](facets/publications/cor13/cor13.md) 

@@ -1,6 +1,10 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Face their facts - Student’s accountability
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Face their facts
 
-#  Face their facts - Student’s accountability
+#  Face their facts
+
+## Also Known As
+
+Student’s accountability
 
 ## [Classification](facets/facets.md)
 
@@ -44,7 +48,7 @@ In this solution two options are given by which students can demonstrate and exp
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|uses in solution||
+|[2+2 makes four eyes](2_2_makes_four_eyes.md)|parent|solution to a broader problem|
  
 ## Example(s) / Known Use(s)
 
@@ -60,5 +64,5 @@ Table 1: Example of some facts from a fact sheet for an embedded software projec
 
 ## [Sources](../References.md)
 
-[[JAC'24]](publications/jac24/jac24.md)
+[[JAC'24]](facets/publications/jac24/jac24.md)
 

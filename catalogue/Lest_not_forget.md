@@ -1,6 +1,10 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Lest not forget - Collecting observations
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) >  Lest not forget
 
-# Lest not forget - Collecting observations
+# Lest not forget
+
+## Also Known As
+
+Collecting observations
 
 ## [Classification](facets/facets.md)
 
@@ -45,12 +49,12 @@ The solution shows that producing excessive notes after your visits to the proje
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|[2+2 makes four eyes- Grading individuals is teamwork](2_2_makes_four_eyes.md)|uses in solution|
+|[2+2 makes four eyes](2_2_makes_four_eyes.md)|parent|solution to a broader problem|
  
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[JAC'24]](publications/jac24/jac24.md)
+[[JAC'24]](facets/publications/jac24/jac24.md)
 
 

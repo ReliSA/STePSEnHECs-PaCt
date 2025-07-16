@@ -50,6 +50,12 @@ Possible consequences for the student that could be decided on and communicated 
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Ask for Individual Grading](Ask_for_Individual_Grading.md)|can lead to|feedback is provided to the teacher about the members’ behavior, which could lead e.g. to the exclusion of the member from the team grading and apart grading of the members’ assignments|
+|[Fill Knowledge Gaps](Fill_Knowledge_Gaps.md)|can follow, can lead to|if the problems lie in missing knowledge|
+|[Nominate One Communicator](Nominate_One_Communicator.md)|performed by|it is better if the team member is not confronted by the whole team|
+|[Plan External Worktime](Plan_External_Worktime.md)|can lead to|in the case of time problems due to a job|
+|[Share Expectations](Share_Expectations.md)|preceded by|expected part of pre-conditions/context|
+|[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|can lead to|can repeat in some cases|
  
 ## Example(s) / Known Use(s)
 
@@ -58,4 +64,4 @@ Possible consequences for the student that could be decided on and communicated 
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

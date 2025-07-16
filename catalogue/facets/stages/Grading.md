@@ -4,7 +4,7 @@
 Patterns surrounding grading students in higher eductaion software engineering courses containing team projects.
 
 ## 0-9
-[2+2 makes four eyes - Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
+[2+2 makes four eyes](../../2_2_makes_four_eyes.md)
 
 ## A
 [Ask for Individual Grading](../../Ask_for_Individual_Grading.md)
@@ -12,15 +12,17 @@ Patterns surrounding grading students in higher eductaion software engineering c
 ## B
 
 ## C
+[Collecting observations](../../Lest_not_forget.md)
 
 ## D
 
 ## E
 
 ## F
-[Face their facts - Student's accountability](../../Face_their_facts.md)
+[Face their facts](../../Face_their_facts.md)
 
 ## G
+[Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
 
 ## H
 
@@ -32,7 +34,7 @@ Patterns surrounding grading students in higher eductaion software engineering c
 ## K
 
 ## L
-[Lest not forget - Collecting observations](../../Lest_not_forget.md)
+[Lest not forget](../../Lest_not_forget.md)
 
 ## M
 
@@ -49,15 +51,17 @@ Patterns surrounding grading students in higher eductaion software engineering c
 ## R
 
 ## S
+[Student's accountability](../../Face_their_facts.md)
 
 ## T
 
 ## U
+[Using metrics in a fair way](../../Whodunnit.md)
 
 ## V
 
 ## W
-[Whodunnit? - Using metrics in a fair way](../../Whodunnit.md)
+[Whodunnit?](../../Whodunnit.md)
 
 ## X
 

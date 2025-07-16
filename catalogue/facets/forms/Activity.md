@@ -4,7 +4,7 @@
 Patterns with solutions in a form of an activity.
 
 ## 0-9
-[2+2 makes four eyes - Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
+[2+2 makes four eyes](../../2_2_makes_four_eyes.md)
 
 ## A
 [Ask for Individual Grading](../../Ask_for_Individual_Grading.md)
@@ -19,6 +19,8 @@ Patterns with solutions in a form of an activity.
 [Check Customer's Privilege](../../Check_Customers_Privilege.md)
 
 [Clear Up Questions](../../Clear_Up_Questions.md)
+
+[Collecting observations](../../Lest_not_forget.md)
 
 [Connect the pieces](../../Connect_the_pieces.md)
 
@@ -43,7 +45,7 @@ Patterns with solutions in a form of an activity.
 [Evaluations to learn from](../../Evaluations_to_learn_from.md)
 
 ## F
-[Face their facts - Student's accountability](../../Face_their_facts.md)
+[Face their facts](../../Face_their_facts.md)
 
 [Fill Knowledge Gaps](../../Fill_Knowledge_Gaps.md)
 
@@ -59,6 +61,8 @@ Patterns with solutions in a form of an activity.
 [Give a First Warning](../../Give_a_First_Warning.md)
 
 [Give Constructive Feedback](../../Give_Constructive_Feedback.md)
+
+[Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
 
 [Grip on the assignment](../../Grip_on_the_assignment.md)
 
@@ -82,7 +86,7 @@ Patterns with solutions in a form of an activity.
 [Keep Team Spirit](../../Keep_Team_Spirit.md)
 
 ## L
-[Lest not forget - Collecting observations](../../Lest_not_forget.md)
+[Lest not forget](../../Lest_not_forget.md)
 
 ## M
 [Manage the Project](../../Manage_The_Project.md)
@@ -124,6 +128,8 @@ Patterns with solutions in a form of an activity.
 
 [Start Immediately](../../Start_Immediately.md)
 
+[Student's accountability](../../Face_their_facts.md)
+
 [Strictly Time-Boxed Team Ceremonies](../../Strictly_Time-Boxed_Team_Ceremonies.md)
 
 [Support_the_Leader](../../Support_the_Leader.md)
@@ -138,11 +144,12 @@ Patterns with solutions in a form of an activity.
 [Tracking progress](../../Tracking_progress.md)
 
 ## U
+[Using metrics in a fair way](../../Whodunnit.md)
 
 ## V
 
 ## W
-[Whodunnit? - Using metrics in a fair way](../../Whodunnit.md)
+[Whodunnit?](../../Whodunnit.md)
 
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
 

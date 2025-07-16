@@ -29,9 +29,11 @@ Determine fixed communication moments and give one group member the responsibili
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Give a First Warning](Give_a_First_Warning.md)|performs||
+|[Clear Up Questions.md](Clear_Up_Questions.md)|performs||
  
 ## Example(s) / Known Use(s)
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

@@ -40,6 +40,9 @@ Examples of systems which you can use for managing your work products are Dropbo
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Manage The Project](Manage_The_Project.md)|predeceded by|expected part of pre-conditions/context|
+|[Regularly Check Requirements Fulfillment](Regularly_Check_Requirements_Fulfillment.md)|complements||
+|[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|preceded by|expected part of pre-conditions/context|
  
 ## Example(s) / Known Use(s)
 
@@ -47,4 +50,4 @@ Examples of systems which you can use for managing your work products are Dropbo
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

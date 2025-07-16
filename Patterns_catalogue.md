@@ -16,7 +16,7 @@ Browse
 
 --- 
 ## 0-9
-[2+2 makes four eyes - Grading individuals is teamwork](catalogue/2_2_makes_four_eyes.md)
+[2+2 makes four eyes](catalogue/2_2_makes_four_eyes.md)
 
 ## A
 [Ask for Individual Grading](catalogue/Ask_for_Individual_Grading.md) 
@@ -36,6 +36,8 @@ Browse
 [Clear Up Questions](catalogue/Clear_Up_Questions.md)
 
 [Code Without Code](catalogue/Code_Without_Code.md)
+
+[Collecting observations](catalogue/Lest_not_forget.md)
 
 [Connect the pieces](catalogue/Connect_the_pieces.md)
 
@@ -62,7 +64,7 @@ Browse
 [Evaluations to learn from](catalogue/Evaluations_to_learn_from.md)
 
 ## F
-[Face their facts - Student's accountability](catalogue/Face_their_facts.md)
+[Face their facts](catalogue/Face_their_facts.md)
 
 [Fill Knowledge Gaps](catalogue/Fill_Knowledge_Gaps.md)
 
@@ -86,6 +88,8 @@ Browse
 [Give a First Warning](catalogue/Give_a_First_Warning.md)
 
 [Give Constructive Feedback](catalogue/Give_Constructive_Feedback.md)
+
+[Grading individuals is teamwork](catalogue/2_2_makes_four_eyes.md)
 
 [Grip on the assignment](catalogue/Grip_on_the_assignment.md)
 
@@ -119,7 +123,7 @@ Browse
 
 [Learning landscape](catalogue/Learning_landscape.md)
 
-[Lest not forget - Collecting observations](catalogue/Lest_not_forget.md)
+[Lest not forget](catalogue/Lest_not_forget.md)
 
 ## M
 [Manage the Project](catalogue/Manage_The_Project.md)
@@ -169,6 +173,8 @@ Browse
 
 [Strictly Time-Boxed Team Ceremonies](catalogue/Strictly_Time-Boxed_Team_Ceremonies.md)
 
+[Student's accountability](catalogue/Face_their_facts.md)
+
 [Support_the_Leader](catalogue/Support_the_Leader.md)
 
 ## T
@@ -193,11 +199,13 @@ Browse
 ## U
 [Use a Styleguide](catalogue/Use_a_Styleguide.md)
 
+[Using metrics in a fair way](catalogue/Whodunnit.md)
+
 ## V
 [Video conference booth](catalogue/Video_conference_booth.md)
 
 ## W
-[Whodunnit? - Using metrics in a fair way](catalogue/Whodunnit.md)
+[Whodunnit?](catalogue/Whodunnit.md)
 
 [Work on the Non-Business-Critical](catalogue/Non-Essential_Project.md)
 

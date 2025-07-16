@@ -48,6 +48,10 @@ Sometimes, the teachers make the groups, so the students can not choose who they
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Clear Up Questions.md](Clear_Up_Questions.md)|precedes|if not, the work the students do could be wrong, which means more time will be spent on adjusting the work products when the mistake is found|
+|[Resolve Conflicts](Resolve_Conflicts.md)|triggers|as soon as problems emerge, apply immediately to prevent the project from stagnation|
+|[Spread Tasks Appropriately](Spread_Tasks_Appropriately.md)|precedes|perform at the first meeting|
+|[Regularly Check Requirements Fulfillment](Regularly_Check_Requirements_Fulfillment.md)|facilitates||
  
 ## Example(s) / Known Use(s)
 
@@ -58,4 +62,4 @@ Sometimes, the teachers make the groups, so the students can not choose who they
 
 ## [Sources](../References.md)
 
-[[COR'13]](publications/cor13/cor13.md) 
+[[COR'13]](facets/publications/cor13/cor13.md) 

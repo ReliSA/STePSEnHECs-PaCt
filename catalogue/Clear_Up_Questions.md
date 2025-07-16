@@ -36,7 +36,7 @@ It is always better to ask than to just assume whenever there is uncertainty. Wi
 
 In some cases it is not possible to clarify all assignment aspects at one time. In that case start with clarifying these aspects first which you need for being able to start with the  assignment and postpone the clarification of the other aspects to a later moment.
 
-After all — or enough — assignment parts are clear to you, you should be able to [DELIVER HIGH QUALITY PRODUCTS](Deliver_High_Quality_Products). Perhaps you have to  [FILL KNOWLEDGE GAPS](Fill_Knowledge_Gaps.md) of some group members.
+After all — or enough — assignment parts are clear to you, you should be able to [DELIVER HIGH QUALITY PRODUCTS](Deliver_High_Quality_Products.md). Perhaps you have to [FILL KNOWLEDGE GAPS](Fill_Knowledge_Gaps.md) of some group members.
 
 ## Consequences
 
@@ -44,6 +44,10 @@ After all — or enough — assignment parts are clear to you, you should be able to
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Deliver High Quality Products](Deliver_High_Quality_Products.md)|facilitates|after all assignment parts are clear, should be able to|
+|[Fill Knowledge Gaps](Fill_Knowledge_Gaps.md)|can lead to||
+|[Nominate One Communicator](Nominate_One_Communicator.md)|performed by||
+|[Start Immediately](Start_Immediately.md)|follows||
  
 ## Example(s) / Known Use(s)
 
@@ -51,4 +55,4 @@ After all — or enough — assignment parts are clear to you, you should be able to
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

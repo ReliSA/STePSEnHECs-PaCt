@@ -1,6 +1,10 @@
-[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > 2+2 makes four eyes- Grading individuals is teamwork
+[Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > 2+2 makes four eyes
 
-# 2+2 makes four eyes - Grading individuals is teamwork
+# 2+2 makes four eyes
+
+## Also Known As
+
+Grading individuals is teamwork
 
 ## [Classification](facets/facets.md)
 
@@ -30,7 +34,7 @@ The solution balances working alone and working together. After a quick consulta
 <ul>    
     <li><b>Quick consultation</b>      
     <ul>        
-        <li><b><i>Divide the work.</i></b> Although we hold the principle that all work is seen through four eyes this does not mean that everyone has to look at everything equally thorough. Therefore agree with your colleagues who will go into depth for which sections of the work, and who will form an opinion in a more limited time box. Moreover, uncovering the metrics (see [Whodunnit? - Using metrics in a fair way](Whodunnit.md)), can be done in one effort by one person.          
+        <li><b><i>Divide the work.</i></b> Although we hold the principle that all work is seen through four eyes this does not mean that everyone has to look at everything equally thorough. Therefore agree with your colleagues who will go into depth for which sections of the work, and who will form an opinion in a more limited time box. Moreover, uncovering the metrics (see [Whodunnit?](Whodunnit.md)), can be done in one effort by one person.          
         </li>        
         <li><b><i>A workable deadline.</i></b> As a rule of thumb: if you are completely focused, you could grade approximately 20-25 students a day. If you do more you will probably get less efficient. Take this into account, together with some leeway relative to the deadline for entering the grades in the system, when agreeing on the date for meeting in person with your colleagues.          
         </li>    
@@ -40,15 +44,15 @@ The solution balances working alone and working together. After a quick consulta
     <ul>        
         <li><b><i>Triangulate when you prepare.</i></b> Although holistic is the way to go in establishing the final grade, there are too much ECTS at stake to ’just’ cast a grade on the basis of the teachers own observations during the project. Validation of observations needs to take place. By triangulating your observations during the project period, with objective metrics and student’s accounts for their individual contributions to the project, the teacher will lift their confidence in the judgments they make. These three corners of the triangulation are patterns on their own, see [Lest not forget - Collecting observations](Lest_not_forget.md), [Whodunnit? - Using metrics in a fair way](Whodunnit.md) and [Face their facts - Student’s accountability](Face_their_facts.md).          
         <ul>            
-            <li>In <b>step 1</b> (see figure 1), <b>the teacher formulates their private opinion</b> on every single student on the basis of their observations during the project. Who stood out, positively as well as negatively? Mind that this is not just a random opinion, or a gut feeling. This opinion is grounded in their observations during the project. [Lest not forget - Collecting observations](Lest_not_forget.md), Lest not forget, provides a separate pattern for the way this could be established. If an individual student did better or worse than their team mates, formulate: on which points? Was it a quantitative or qualitative difference? Which (mental) notes do you take from this? These notes help you to keep focused during the rest of the grading process.              
+            <li>In <b>step 1</b> (see figure 1), <b>the teacher formulates their private opinion</b> on every single student on the basis of their observations during the project. Who stood out, positively as well as negatively? Mind that this is not just a random opinion, or a gut feeling. This opinion is grounded in their observations during the project. [Lest not forget](Lest_not_forget.md), provides a separate pattern for the way this could be established. If an individual student did better or worse than their team mates, formulate: on which points? Was it a quantitative or qualitative difference? Which (mental) notes do you take from this? These notes help you to keep focused during the rest of the grading process.              
             </li>            
-            <li>In <b>step 2</b> the teacher <b>focuses solely on the measured quantity of the student’s work.</b> The question is now: "Do the numbers the tool stack provides give reason to dive deeper into the work of any specific student?" Come to a stand-still and decide: which work/students are you in doubt about? Mind again that this doubt can be either positively or negatively: you can very well be in doubt if someone deserves an upgrade. [Whodunnit? - Using metrics in a fair way](Whodunnit.md), provides a separate pattern for the way to handle quantitative metrics.              
+            <li>In <b>step 2</b> the teacher <b>focuses solely on the measured quantity of the student’s work.</b> The question is now: "Do the numbers the tool stack provides give reason to dive deeper into the work of any specific student?" Come to a stand-still and decide: which work/students are you in doubt about? Mind again that this doubt can be either positively or negatively: you can very well be in doubt if someone deserves an upgrade. [Whodunnit?](Whodunnit.md), provides a separate pattern for the way to handle quantitative metrics.              
             </li>            
-            <li>In <b>step 3</b> you <b>check on the information the students provided.</b> You start with the ones you think have performed average. If their information is complete and you do not see any remarkable things, no further work is needed. The doubtful ones need a more thorough look: Does the student proof evidence that they are competent on all desired learning outcomes, including the focus points you decided on in step 1? [Face their facts - Student’s accountability](Face_their_facts.md), provides a pattern for the way you can get the information you need.              
+            <li>In <b>step 3</b> you <b>check on the information the students provided.</b> You start with the ones you think have performed average. If their information is complete and you do not see any remarkable things, no further work is needed. The doubtful ones need a more thorough look: Does the student proof evidence that they are competent on all desired learning outcomes, including the focus points you decided on in step 1? [Face their facts](Face_their_facts.md), provides a pattern for the way you can get the information you need.              
             </li>        
         </ul>        
         </li>        
-        <li><b><i>Decide on the amount of up- or downgrade grade you are going to propose to your colleague.</i></b> This is, of course, based in the principles from the basic pattern. If you asked students to take notes during the project (see [Lest not forget - Collecting observations](Lest_not_forget.md)), you might consult them. And, if students have written peer feedback during the project, and you trust its value, you might also take a peep and check if your proposal is endorsed by it. If not, stop thinking and take the case to the teachers meeting. This step is depicted as number 4 in figure 1.          
+        <li><b><i>Decide on the amount of up- or downgrade grade you are going to propose to your colleague.</i></b> This is, of course, based in the principles from the basic pattern. If you asked students to take notes during the project (see [Lest not forget](Lest_not_forget.md)), you might consult them. And, if students have written peer feedback during the project, and you trust its value, you might also take a peep and check if your proposal is endorsed by it. If not, stop thinking and take the case to the teachers meeting. This step is depicted as number 4 in figure 1.          
         </li>    
     </ul>    
     </li>    
@@ -86,10 +90,10 @@ The solution balances working alone and working together. After a quick consulta
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|[Face their facts - Student’s accountability](Face_their_facts.md)|part of the solution||
-|[Lest not forget - Collecting observations](Lest_not_forget.md)|part of the solution||
-|[The basis pattern: If all pigs would be equal...](If_all_pigs_would_be_equal.md)|parent||
-|[Whodunnit? - Using metrics in a fair way](Whodunnit.md)|part of the solution||
+|[Face their facts - Student’s accountability](Face_their_facts.md)|child|provides a pattern for the way you can get the information about students' experiences you need|
+|[Lest not forget - Collecting observations](Lest_not_forget.md)|child|provides a separate pattern for the way observations on who stood out, positively as well as negatively, could be established|
+|[If all pigs would be equal...](If_all_pigs_would_be_equal.md)|parent|solution to a broader problem|
+|[Whodunnit? - Using metrics in a fair way](Whodunnit.md)|child|provides a separate pattern for the way to handle quantitative metrics|
  
 ## Example(s) / Known Use(s)
 
@@ -105,4 +109,4 @@ Figure 2: Deciding on the grades
 
 ## [Sources](../References.md)
 
-[[JAC'24]](publications/jac24/jac24.md)
+[[JAC'24]](facets/publications/jac24/jac24.md)

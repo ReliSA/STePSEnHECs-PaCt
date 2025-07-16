@@ -34,4 +34,4 @@ To get the full picture for evaluation and insight for mentoring, mentor/assesso
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)
