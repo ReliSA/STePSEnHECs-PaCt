@@ -85,6 +85,12 @@ Occasionally, borrowing power banks is suggested as an alternative or supplement
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Learning alcove](Learning_alcove.md)|placed in||
+|[Learning box](Learning_box.md)|placed in||
+|[Learning corner](Learning_corner.md)|placed in||
+|[Learning isle](Learning_isle.md)|placed in||
+|[Video conference booth](Video_conference_booth.md)|placed in||
+|[Workstation with (interactive) displays](Workstation_with_interactive_displays.md)|placed in||
  
 ## Example(s) / Known Use(s)
 
@@ -117,4 +123,4 @@ Figure 5: Integrated Nearby power supply at the Ostwestfalen-Lippe UAS (Photo: C
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)

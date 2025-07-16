@@ -63,11 +63,12 @@ If Learning boxes are to be used as break-out rooms for a specific course, it mu
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Learning alcove|altenative|more open|
-|Learning corner|altenative|more open|
-|Learning isle|altenative|more open|
-|Learning landscape|part of||
-|Video conference booth|can include||
+|[Learning alcove](Learning_alcove.md)|altenative|more open|
+|[Learning corner](Learning_corner.md)|altenative|more open|
+|[Learning isle](Learning_isle.md)|altenative|more open|
+|[Learning landscape](Learning_landscape.md)|part of||
+|[Nearby power supply](Nearby_power_supply.md)|can include||
+|[Video conference booth](Video_conference_booth.md)|can include||
  
 ## Example(s) / Known Use(s)
 

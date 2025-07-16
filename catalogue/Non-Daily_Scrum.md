@@ -34,4 +34,4 @@ Daily stand-ups can be impractical due to time constraints or conflicting schedu
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

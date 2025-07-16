@@ -78,4 +78,4 @@ Figure 2: Wooden pattern coins from EuroPLoP 2023
 
 ## [Sources](../References.md)
 
-[[BER'24]](facets/publications/ber24/ber24.md)
+[[BER'24]](facets/facets/publications/ber24/ber24.md)

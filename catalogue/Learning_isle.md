@@ -40,7 +40,7 @@ A Learning isle is a work table for 4-8 people that is accessible from all sides
 
 Learning isles are well suited for self-organized learning. This is particularly true within learning centers, learning arenas, foyers or learning areas in libraries. A variant of the Learning isle that can promote hybrid working in particular is the installation of a display on one side of the table. On the one hand, this takes away the complete openness, but on the other hand, learners can quickly view, discuss and further develop their digital materials together in a group.
 
-Learning isles are particularly useful if they are combined with Flexible Furniture [[KOH'23]](../References.md) or learning objects from the environment. If Learning isles are integrated into a library, a laboratory or a makerspace, learning materials from the environment (e.g. books in the library, tools and building blocks in a creative environment) can be quickly brought to the table.
+Learning isles are particularly useful if they are combined with [Flexible Furniture](Flexible_Furniture.md)or learning objects from the environment. If Learning isles are integrated into a library, a laboratory or a makerspace, learning materials from the environment (e.g. books in the library, tools and building blocks in a creative environment) can be quickly brought to the table.
 
 Learning isles invite you to linger for a short to medium term. Just like in a street café, it’s all about seeing and being seen. Monotonous corridors can be enriched by Learning isles by making them available for suitable learning activities.
 
@@ -52,7 +52,7 @@ When setting up Learning isles, care must be taken to ensure that no escape rout
 
 Without a power connection, use in hybrid scenarios is hardly possible. However, cabling can be a major challenge, especially when redesigning existing rooms. Building management should be involved in the planning at an early stage.
 
-Furthermore, when setting up Learning isles, particular attention must be paid to the acoustics of the room, as unlike [Learning alcoves](Learning_alcove.md) or [Learning corners](Learning_corner.md), there are no protective walls to absorb sound. Conversations at the Learning isles must not increase the noise level in the room too much, while at the same time the group must be able to learn in peace. This can be remedied by mobile sound walls that can be added as required. Flexible curtain systems [[KOH'23]](../References.md) can be used to temporarily turn Learning isles into protected work areas.
+Furthermore, when setting up Learning isles, particular attention must be paid to the acoustics of the room, as unlike [Learning alcoves](Learning_alcove.md) or [Learning corners](Learning_corner.md), there are no protective walls to absorb sound. Conversations at the Learning isles must not increase the noise level in the room too much, while at the same time the group must be able to learn in peace. This can be remedied by mobile sound walls that can be added as required. [Flexible Curtain System](Flexible_Curtain_System.md) can be used to temporarily turn Learning isles into protected work areas.
 
 ## Consequences
 
@@ -62,7 +62,7 @@ Furthermore, when setting up Learning isles, particular attention must be paid t
  - (+) In a larger room with several Learning isles, groups can work in parallel. This has the advantage that lecturers have an overview of all groups and can react quickly to questions or problems when working on a task. The transition between plenary, group and individual work is seamless.
  - (+) Learning isles in highly frequented areas, e.g. in the entrance area, encourage chance encounters and informal exchanges.
  - (+) Learning materials and tools can be quickly retrieved and placed on or next to the Learning isle.
- - (+) If the Learning isles are not permanently installed but consist of Flexible Furniture [[KOH'23]](../References.md), small islands can become larger islands for more participants.
+ - (+) If the Learning isles are not permanently installed but consist of [Flexible Furniture](Flexible_Furniture.md), small islands can become larger islands for more participants.
  - (+) Learning isles can be easily positioned almost anywhere in larger rooms and brought into line with structural requirements (escape routes, fire protection).
  - (+) Being able to "look over your shoulder" at Learning isles is both an advantage and a disadvantage. On the one hand, groups can react to each other, inspire each other and communicate with each other through informal, non-verbal signals. On the other hand, unlike [Learning alcoves](Learning_alcove.md), [Learning corners](Learning_corner.md) or [Learning boxes](Learning_box.md), Learning isles offer little privacy.
  - (-) Unlike a [Learning alcove](Learning_alcove.md), Learning isles offer little privacy. Students may feel observed and unprotected.
@@ -75,11 +75,14 @@ Furthermore, when setting up Learning isles, particular attention must be paid t
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Learning alcove|altenative|more private and soundproof|
-|Learning box|altenative|more private|
-|Learning corner|altenative|more private and soundproof, easy to convert to|
-|Learning landscape|part of||
-|Video conference booth|can include||
+|[Flexible Furniture](Flexible_Furniture.md)|can use|useful if they are combined|
+|[Flexible Curtain Systems](Flexible_Curtain_Systems)|can use|to temporarily turn into protected work areas|
+|[Learning alcove](Learning_alcove.md)|altenative|more private and soundproof|
+|[Learning box](Learning_box.md)|altenative|more private|
+|[Learning corner](Learning_corner.md)|altenative|more private and soundproof, easy to convert to|
+|[Learning landscape](Learning_landscape.md)|part of||
+|[Nearby power supply](Nearby_power_supply.md)|can include||
+|[Video conference booth](Video_conference_booth.md)|can include||
  
 ## Example(s) / Known Use(s)
 

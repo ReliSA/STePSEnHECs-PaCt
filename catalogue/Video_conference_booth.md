@@ -82,10 +82,11 @@ Lastly, small Video conference booths can have an oppressive effect. The interio
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Learning alcove|placed in||
-|Learning box|placed in||
-|Learning isle|placed in||
-|Learning landscape|part of||
+|[Learning alcove](Learning_alcove.md)|placed in||
+|[Learning box](Learning_box.md)|placed in||
+|[Learning isle](Learning_isle.md)|placed in||
+|[Learning landscape](Learning_landscape.md)|part of||
+|[Nearby power supply](Nearby_power_supply.md)|includes||
  
 ## Example(s) / Known Use(s)
 

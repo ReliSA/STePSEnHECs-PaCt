@@ -68,7 +68,7 @@ Make them aware of any criteria that need to be met and give them a near enough 
  
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)
 
 ---
 

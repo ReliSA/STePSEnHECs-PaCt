@@ -77,6 +77,7 @@ The role of the lecturer has to be questioned. Are lecturers participants at eye
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Learning landscape](Learning_landscape.md)|can use||
  
 ## Example(s) / Known Use(s)
 

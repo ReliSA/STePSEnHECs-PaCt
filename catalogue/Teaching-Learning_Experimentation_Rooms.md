@@ -86,4 +86,4 @@ Figure 1: Experimentation room FH Muenster (Photo: Christian Kohls)
 
 ## [Sources](../References.md)
 
-[[KOH'23]](publications/koh23/koh23.md)
+[[KOH'23]](facets/publications/koh23/koh23.md)

@@ -73,11 +73,12 @@ Lastly, in order for students to use the Learning corners productively, the work
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Learning alcove|altenative|more private|
-|Learning box|altenative|more private|
-|Learning isle|altenative|more open|
-|Learning landscape|part of||
-|Video conference booth|can include||
+|[Learning alcove](Learning_alcove.md)|altenative|more private|
+|[Learning box](Learning_box.md)|altenative|more private|
+|[Learning isle](Learning_isle.md)|altenative|more open|
+|[Learning landscape](Learning_landscape.md)|part of||
+|[Nearby power supply](Nearby_power_supply.md)|can include||
+|[Video conference booth](Video_conference_booth.md)|can include||
 
 ## Example(s) / Known Use(s)
 

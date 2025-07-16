@@ -65,4 +65,4 @@ The ideal seems to be an average team size of around four students, but may vary
  
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

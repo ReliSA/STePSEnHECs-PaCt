@@ -34,4 +34,4 @@ Students are meant to learn the practices, processes, tools and management of th
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

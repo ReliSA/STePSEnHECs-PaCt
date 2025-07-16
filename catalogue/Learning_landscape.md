@@ -40,9 +40,9 @@ A Learning landscape is a large area for up to 100-200 people who can work on di
 
 ### Details
 
-A Learning landscape comprises various group work areas, such as a [Learning alcove](Learning_alcove.md), a [Learning isle](Learning_isle.md), a [Learning corner](Learning_corner.md) or a [Learning box](Learning_box.md). By equipping it with Flexible furniture [[KOH'23]](../References.md), students can design their own ideal learning space, whereby the entire room should already allow flexible use of the space for different scenarios, e.g. self-organized learning, project work (such as design sprints or [[Hackathons]](Hackathon.md)), exhibitions or events.
+A Learning landscape comprises various group work areas, such as a [Learning alcove](Learning_alcove.md), a [Learning isle](Learning_isle.md), a [Learning corner](Learning_corner.md) or a [Learning box](Learning_box.md). By equipping it with [Flexible furniture](Flexible_Furniture.md), students can design their own ideal learning space, whereby the entire room should already allow flexible use of the space for different scenarios, e.g. self-organized learning, project work (such as design sprints or [Hackathons](Hackathon.md), exhibitions or events.
 
-The division of the Learning landscape into different areas can be done implicitly through furniture, equipment or color design. The different group work areas can be characterized by different furniture fabrics, table shapes or media, for example. An explicit division into different areas ("zoning") can be implemented using transparent glass walls, room dividers, counters or movable partitions or Flexible curtain systems [[KOH'23]](../References.md).
+The division of the Learning landscape into different areas can be done implicitly through furniture, equipment or color design. The different group work areas can be characterized by different furniture fabrics, table shapes or media, for example. An explicit division into different areas ("zoning") can be implemented using transparent glass walls, room dividers, counters or movable partitions or [Flexible curtain systems](Flexible_Curtain_Systems.md).
 
 Various media should be available for presenting and developing content, e.g. fixed displays and whiteboards installed on walls, in [Learning alcoves](Learning_alcove.md), or [Learning boxes](Learning_box.md), or (interactive) displays and whiteboards on wheels. The respective areas should be equipped step by step so that the individual areas fit together. In addition, as many stakeholders as possible should be involved in the design and equipment in a participatory manner.
 
@@ -60,14 +60,14 @@ Furthermore, the Learning landscape is particularly attractive for use during br
 
 In addition, electronic devices and cables must not become tripping hazards or dangers. Sockets should therefore be available in many places within the learning environment - for example at all seating areas and integrated into work tables. Cable ducts on walls and pillars, floor boxes or cables coming from the ceiling can supply the room’s media equipment with power.
 
-Lastly, if the Learning landscape also contains Flexible Furniture [[KOH'23]](../References.md)., rules must be established to ensure that escape routes are not blocked and the various work areas are maintained. In addition, the furniture must be regularly tidied up and put back in order, otherwise the room will quickly look untidy.
+Lastly, if the Learning landscape also contains [Flexible furniture](Flexible_Furniture.md)., rules must be established to ensure that escape routes are not blocked and the various work areas are maintained. In addition, the furniture must be regularly tidied up and put back in order, otherwise the room will quickly look untidy.
 
 ## Consequences
 
  - (+) Self-organized learning and project-oriented event formats are encouraged by the Learning landscape on offer. There is plenty of learning space available for individual learning and group work.
  - (+) The campus becomes a place to learn and live. The Learning landscape on campus offers students with long commutes in particular opportunities to work on study topics outside of formal courses.
  - (+) Students also meet by chance and can easily find new study groups. The (informal) exchange between lecturers and students is easier if the Learning landscape contains seating areas that are also attractive for lecturers to linger in or for meetings.
- - (+) Innovative teaching formats such as [[Hackathons]](Hackathon.md)), design sprints, service learning or [[Flipped conferences]](Flipped_Conference.md)) are possible in these rooms.
+ - (+) Innovative teaching formats such as [Hackathons](Hackathon.md), design sprints, service learning or [Flipped conferences](Flipped_Conference.md) are possible in these rooms.
  - (+) The attractive design of the Learning landscape makes it a center of attraction at public events and helps to open up the university for exchange with civil society and for cooperation with NGOs and industrial partners.
  - (-) The furnishings should be inviting and of a high quality, which results in high costs. This also applies to maintenance, as intensive and self-organized use means that tables or chairs may need to be replaced sooner.
  - (-) It is difficult to plan the utilization of the rooms. An empty Learning landscape is demotivating and makes the low level of activity in campus life visible. An overcrowded Learning landscape is frustrating, as it promises an offer for self organized learning, but does not reliably deliver on this.
@@ -78,11 +78,15 @@ Lastly, if the Learning landscape also contains Flexible Furniture [[KOH'23]](..
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Learning alcove|can include||
-|Learning box|can include||
-|Learning corner|can include||
-|Learning isle|can include||
-|Video conference booth|can include||
+|[Flexible Furniture](Flexible_Furniture.md)|can include|students can design their own ideal learning space|
+|[Flexible Curtain Systems](Flexible_Curtain_Systems)|can include|zoning can be implemented|
+|[Flipped conferences](Flipped_Conference.md)|facilitates|can be hosted in|
+|[Hackathons](Hackathon.md)|facilitates|can be hosted in|
+|[Learning alcove](Learning_alcove.md)|can include||
+|[Learning box](Learning_box.md)|can include||
+|[Learning corner](Learning_corner.md)|can include||
+|[Learning isle](Learning_isle.md)|can include||
+|[Video conference booth](Video_conference_booth.md)|can include||
  
 ## Example(s) / Known Use(s)
 

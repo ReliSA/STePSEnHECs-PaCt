@@ -34,4 +34,4 @@ There is a learning curve at the start of the project and some necessary ceremon
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

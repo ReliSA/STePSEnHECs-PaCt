@@ -65,4 +65,4 @@ This can be achieved, in the case of an externally-proposed topic, by giving stu
  
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

@@ -69,6 +69,8 @@ When redesigning rooms, escape routes must be taken into account. Flexible furni
 |Pattern|Relation type|Relation description|
 |--|--|--|
 |[Flexible Educational Rooms](Flexible_Educational_Rooms.md)|specific implementaion of||
+|[Learning isle](Learning_isle.md)|useful in||
+|[Learning landscape](Learning_landscape.md)|part of||
  
 ## Example(s) / Known Use(s)
 

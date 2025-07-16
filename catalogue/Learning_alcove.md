@@ -68,11 +68,13 @@ Lastly, while soundproofing elements often shield the people inside the Learning
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
-|Learning box|altenative|more isolated|
-|Learning corner|altenative|more open|
-|Learning isle|altenative|more open|
-|Learning landscape|part of||
-|Video conference booth|can include||
+|[Learning box](Learning_box.md)|altenative|more isolated|
+|[Learning corner](Learning_corner.md)|altenative|more open|
+|[Learning isle](Learning_isle.md)|alternative|more open|
+|[Learning landscape](Learning_landscape.md)|part of||
+|[Nearby power supply](Nearby_power_supply.md)|can include||
+|[Video conference booth](Video_conference_booth.md)|can include||
+|[Workstation with (interactive) displays](Workstation_with_interactive_displays.md)|can include||
  
 ## Example(s) / Known Use(s)
 

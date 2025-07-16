@@ -75,6 +75,7 @@ For the professional discourse, it is important that academic staff and lecturer
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Learning landscape](Learning_landscape.md)|can use||
  
 ## Example(s) / Known Use(s)
 

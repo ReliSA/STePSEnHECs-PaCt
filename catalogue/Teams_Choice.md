@@ -77,7 +77,7 @@ An obvious final option is the course allowing for any mixture of all of the abo
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)
 
 ---
 

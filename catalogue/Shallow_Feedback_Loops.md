@@ -34,4 +34,4 @@ When a project does not focus on a customer’s eminent needs, the team might no
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

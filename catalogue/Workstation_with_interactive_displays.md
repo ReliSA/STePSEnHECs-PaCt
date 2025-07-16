@@ -78,6 +78,8 @@ Lastly, broken displays or connections make the workstation unusable for hybrid 
 
 |Pattern|Relation type|Relation description|
 |--|--|--|
+|[Learning alcove](Learning_alcove.md)|placed in||
+|[Nearby power supply](Nearby_power_supply.md)|includes||
  
 ## Example(s) / Known Use(s)
 
@@ -110,7 +112,7 @@ Figure 5: Workstation with (interactive) displays at the Kiel UAS (Photo: Christ
 
 ## [Sources](../References.md)
 
-[[DUB'24]](publications/dub24/dub24.md)
+[[DUB'24]](facets/publications/dub24/dub24.md)
 
 ---
 

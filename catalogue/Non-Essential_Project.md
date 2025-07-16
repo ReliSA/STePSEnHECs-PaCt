@@ -63,4 +63,4 @@ Giving customers an opening to propose project topics that fall outside of their
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)

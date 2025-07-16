@@ -80,4 +80,4 @@ Curation of the films can be done by faculty, research staff, or even students. 
 
 ## [Sources](../References.md)
 
-[[KOH'22]](publications/koh22/koh22.md)
+[[KOH'22]](facets/publications/koh22/koh22.md)
