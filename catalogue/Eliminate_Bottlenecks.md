@@ -34,4 +34,4 @@ Reassign the tasks so that everyone in the group can work and that the project i
 
 ## [Sources](../References.md)
 
-[[KOP'12]](publications/kop12/kop12.md)
+[[KOP'12]](facets/publications/kop12/kop12.md)

@@ -34,4 +34,4 @@ Students do not have enough experience to take on the Scrum Master (or equivalen
 
 ## [Sources](../References.md)
 
-[[PIN'25]](publications/pin25/pin25.md)
+[[PIN'25]](facets/publications/pin25/pin25.md)
