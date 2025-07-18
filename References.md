@@ -75,7 +75,7 @@ _(Ordered alphabetically by the key.)_
 
 [SZA'22] Szabo, Claudia and Sheard, Judy. "Learning theories use and relationships in computing education research". In ACM Transactions on Computing Education. Association for Computing Machinery, New York, NY, USA, 2022. Vol. 23, issue 1, pages 1-34. [[link]](https://doi.org/10.1145/3487056)
 
-[[TED'22]](catalogue/facets/publications/ted22/ted22.md)Tedeschi, Mary. "From Classroom to Online Education–An Educators Insights". In Proceedings of the 27th European Conference on Pattern Languages of Programs. Association for Computing Machinery, New York, NY, USA, July 2022. Pages 1-15. [[link]](https://doi.org/10.1145/3551902.3551977)
+[[TED'22]](catalogue/facets/publications/ted22/ted22.md)Tedeschi, Mary. "From Classroom to Online Education – An Educators Insights". In Proceedings of the 27th European Conference on Pattern Languages of Programs. Association for Computing Machinery, New York, NY, USA, July 2022. Pages 1-15. [[link]](https://doi.org/10.1145/3551902.3551977)
 
 [TUC'77] Tuckman, Bruce W and Jensen, Mary Ann C.. "Stages of Small-Group Development Revisited". In Group & Organization Studies. SAGE Publications Inc., 1977. Vol. 2, issue 4, pages 419-427. [[link]](https://doi.org/10.1177/105960117700200404)
 

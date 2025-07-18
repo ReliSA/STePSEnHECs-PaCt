@@ -3,7 +3,7 @@
 
 Pattern categorization by the publication or source they appear in.
 
-[From Classroom to Online Education–An Educators Insights](ted22/ted22.md)
+[From Classroom to Online Education – An Educators Insights](ted22/ted22.md)
 
 [Grading individual students in software engineering projects confidently](jac24/jac24.md)
 
