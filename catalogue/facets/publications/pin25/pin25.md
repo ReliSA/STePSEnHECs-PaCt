@@ -1,4 +1,4 @@
-[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Publications](../publications.md) > PIN'24
+[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../../facets.md) > [Publications](../publications.md) > PIN'24
 # Patterns for Teaching Agile with Student Projects - Team and Project Setup
 
 Pinho, Daniel, Picha, Petr and Brada, Premek. In EuroPLop '25: Proceedings of the 30th European Conference on Pattern Languages of Programs, People, and Practices. Springer, July 2025. Pages 1-10.

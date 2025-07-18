@@ -1,4 +1,4 @@
-[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Publications](../publications.md) > COR'13
+[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../../facets.md) > [Publications](../publications.md) > COR'13
 # Learning Patterns for Group Assignments - Part 2
 
 de Cortie, Thomas, et al.. In Proceedings of the 20th Pattern Languages of Programs conference, PLoP. 2013. Vol. 13. [[link]](https://hillside.net/plop/2013/papers/Group5/plop13_preprint_20.pdf)

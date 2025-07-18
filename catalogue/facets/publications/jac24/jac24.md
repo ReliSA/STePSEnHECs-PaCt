@@ -1,4 +1,4 @@
-[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Publications](../publications.md) > JAC'24
+[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../../facets.md) > [Publications](../publications.md) > JAC'24
 # Grading individual students in software engineering projects confidently
 
 Jacobs, Tineke. In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices (EuroPLoP ’24). Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-10. [[link]](https://doi.org/10.1145/3698322.3698330)

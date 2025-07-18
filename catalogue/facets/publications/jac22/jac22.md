@@ -1,4 +1,4 @@
-[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Publications](../publications.md) > JAC'22
+[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../../facets.md) > [Publications](../publications.md) > JAC'22
 # Supporting ICT-students to make the most out of their projects
 
 Jacobs, Tineke and Van Heesch, Uwe. In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, July 2022. Pages 1-13. [[link]](https://doi.org/10.1145/3551902.3551972)

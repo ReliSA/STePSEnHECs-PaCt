@@ -1,4 +1,4 @@
-[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Publications](../publications.md) > KOH'23
+[Home](../../../../README.md) > [Catalogue](../../../../Patterns_catalogue.md) > [Facets](../facets.md) > [Publications](../../publications.md) > KOH'23
 # The dynamic campus - flexible learning spaces for hybrid education
 
 Kohls, Christian, Dubbert, Dennis and Kehrer, Mareike. In Proceedings of the 28th European Conference on Pattern Languages of Programs. Association for Computing Machinery, New York, NY, USA, July 2023. Pages 1-11. [[link]](https://doi.org/10.1145/3628034.3628062)
