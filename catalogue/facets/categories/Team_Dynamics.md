@@ -36,6 +36,7 @@ Patterns dealing with inter- and intra-team interactions in student projects.
 ## J
 
 ## K
+[Keep Team Spirit](../../Keep_Team_Spirit.md)
 
 ## L
 

@@ -8,7 +8,7 @@ Celebrate Your Team
 
 ## [Classification](facets/facets.md)
 
-- [Category](facets/categories/categories.md):
+- [Category](facets/categories/categories.md): [Team Dynamics](facets/categories/Team_Dynamics.md)
 - [Form](facets/forms/forms.md): [Activity](facets/categories/Activity.md)
 - [Methodology](facets/methodologies/methodologies.md): [General](facets/methodologies/General.md)
 - [Mode](facets/modes/modes.md): [General](facets/modes/General.md)
