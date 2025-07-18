@@ -7,8 +7,6 @@ Miscellaneous categories of pattern classification.
 
 [Process Tailoring](Process_Tailoring.md)
 
-[Supplementary Learning](Supplementary_Learning.md)
-
 [Team Dynamics](Team_Dynamics.md)
 
 
