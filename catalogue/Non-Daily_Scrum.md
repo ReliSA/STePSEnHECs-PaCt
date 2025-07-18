@@ -1,6 +1,6 @@
 [Home](../README.md) > [Catalogue](../Patterns_catalogue.md) > Non-Daily Scrum
 
-# Non-Daily_Scrum (Draft)
+# Non-Daily Scrum (Draft)
 
 ## [Classification](facets/facets.md)
 
