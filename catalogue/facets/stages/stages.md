@@ -7,7 +7,7 @@ Pattern classification by the stage of the student project.
     <li>Pre-Project     
     <ul>
         <li>
-        <a href="Coure_Design.md">Course Design</a>        
+        <a href="Course_Design.md">Course Design</a>        
         </li>                                
         <li>
         <a href="Team_and_Project_Setup.md">Team and Project Setup</a>                                  
