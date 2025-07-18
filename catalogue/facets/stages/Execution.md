@@ -20,7 +20,11 @@ Patterns applicable during the project's execution.
 [Cross-Pollination](../../Cross-Pollination.md)
 
 ## D
+[Daily Learning Logs](../../Daily_Learning_Logs.md)
+
 [Deliver High Quality Products](../../Deliver_High_Quality_Products.md)
+
+[Discussion Board](../../Discussion_Board.md)
 
 [Dual Process Ownership](../../Dual_Process_Ownership.md)
 
@@ -39,6 +43,8 @@ Patterns applicable during the project's execution.
 [From requirements to tasks](../../From_requirements_to_tasks.md)
 
 ## G
+[Getting Out of the Void](../../Getting_Out_of_the_Void.md)
+
 [Give a First Warning](../../Give_a_First_Warning.md)
 
 [Give Constructive Feedback](../../Give_Constructive_Feedback.md)
@@ -100,6 +106,7 @@ Patterns applicable during the project's execution.
 ## V
 
 ## W
+[Writing to Learn](../../Writing_to_Learn.md)
 
 ## X
 

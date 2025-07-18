@@ -12,6 +12,8 @@ Patterns applicable during the initiation (early phase) of project's execution.
 ## C
 [Centralize Work Product Management](../../Centralize_Work_Product_Management.md)
 
+[Class Buddy](../../Class_Buddy.md)
+
 [Clear Up Questions](../../Clear_Up_Questions.md)
 
 ## D
@@ -27,6 +29,8 @@ Patterns applicable during the initiation (early phase) of project's execution.
 
 ## G
 [Grip on the assignment](../../Grip_on_the_assignment.md)
+
+[Grown Up Student](../../Grown_Up_Student.md)
 
 ## H
 
@@ -46,6 +50,7 @@ Patterns applicable during the initiation (early phase) of project's execution.
 ## O
 
 ## P
+[Personal Introductions](../../Personal_Introductions.md)
 
 ## Q
 

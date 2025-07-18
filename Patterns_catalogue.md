@@ -19,6 +19,8 @@ Browse
 [2+2 makes four eyes](catalogue/2_2_makes_four_eyes.md)
 
 ## A
+[A Proper Tool Is Half The Job Done](catalogue/A_Proper_Tool_Is_Half_The_Job_Done.md)
+
 [Ask for Individual Grading](catalogue/Ask_for_Individual_Grading.md) 
 
 ## B
@@ -33,6 +35,8 @@ Browse
 
 [Check Customer's Privilege](catalogue/Check_Customers_Privilege.md)
 
+[Class Buddy](catalogue/Class_Buddy.md)
+
 [Clear Up Questions](catalogue/Clear_Up_Questions.md)
 
 [Code Without Code](catalogue/Code_Without_Code.md)
@@ -46,7 +50,11 @@ Browse
 [Customer's Side Project](catalogue/Non-Essential_Project.md)
 
 ## D
+[Daily Learning Logs](catalogue/Daily_Learning_Logs.md)
+
 [Deliver High Quality Products](catalogue/Deliver_High_Quality_Products.md)
+
+[Discussion Board](catalogue/Discussion_Board.md)
 
 [Disproportional Initial Stage](catalogue/Disproportional_Initial_Stage.md)
 
@@ -58,6 +66,10 @@ Browse
 [Effective product delivery meetings](catalogue/Effective_product_delivery_meetings.md)
 
 [Eliminate Bottlenecks](catalogue/Eliminate_Bottlenecks.md)
+
+[Embracing the Mobile Device](catalogue/Embracing_the_Mobile_Device.md)
+
+[Embracing the Virtual Class](catalogue/Embracing_the_Virtual_Class.md)
 
 [Enough Cooks in the Kitchen](catalogue/Team_Size_Limitation.md)
 
@@ -85,6 +97,8 @@ Browse
 [Full Product Backlog from Day One](catalogue/Full_Product_Backlog_from_Day_One.md)
 
 ## G
+[Getting Out of the Void](catalogue/Getting_Out_of_the_Void.md)
+
 [Give a First Warning](catalogue/Give_a_First_Warning.md)
 
 [Give Constructive Feedback](catalogue/Give_Constructive_Feedback.md)
@@ -92,6 +106,8 @@ Browse
 [Grading individuals is teamwork](catalogue/2_2_makes_four_eyes.md)
 
 [Grip on the assignment](catalogue/Grip_on_the_assignment.md)
+
+[Grown Up Student](catalogue/Grown_Up_Student.md)
 
 ## H
 [Hackathon](catalogue/Hackathon.md)
@@ -104,6 +120,8 @@ Browse
 [If all pigs would be equal...](catalogue/If_all_pigs_would_be_equal.md)
 
 [Improve the Presentation](catalogue/Improve_the_Presentation.md)
+
+[Interactive eLearning](catalogue/Interactive_eLearning.md)
 
 ## J
 
@@ -145,6 +163,8 @@ Browse
 [Own Your Work](catalogue/Own_Your_Work.md)
 
 ## P
+[Personal Introductions](catalogue/Personal_Introductions.md)
+
 [Plan External Worktime](catalogue/Plan_External_Worktime.md)
 
 [Process-Focused Evaluation](catalogue/Process-Focused_Evaluation.md)
@@ -172,6 +192,8 @@ Browse
 [Start Immediately](catalogue/Start_Immediately.md)
 
 [Strictly Time-Boxed Team Ceremonies](catalogue/Strictly_Time-Boxed_Team_Ceremonies.md)
+
+[Structured for Self Study](catalogue/Structured_for_Self_Study.md)
 
 [Student's accountability](catalogue/Face_their_facts.md)
 
@@ -210,6 +232,8 @@ Browse
 [Work on the Non-Business-Critical](catalogue/Non-Essential_Project.md)
 
 [Workstation with (interactive) displays](catalogue/Workstation_with_interactive_displays.md)
+
+[Writing to Learn](catalogue/Writing_to_Learn.md)
 
 ## X
 

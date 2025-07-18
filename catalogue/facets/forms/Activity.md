@@ -58,6 +58,8 @@ Patterns with solutions in a form of an activity.
 [From requirements to tasks](../../From_requirements_to_tasks.md)
 
 ## G
+[Getting Out of the Void](../../Getting_Out_of_the_Void.md)
+
 [Give a First Warning](../../Give_a_First_Warning.md)
 
 [Give Constructive Feedback](../../Give_Constructive_Feedback.md)
@@ -104,6 +106,8 @@ Patterns with solutions in a form of an activity.
 [Own Your Work](../../Own_Your_Work.md)
 
 ## P
+[Personal Introductions](../../Personal_Introductions.md)
+
 [Plan External Worktime](../../Plan_External_Worktime.md)
 
 [Process-Focused Evaluation](../../Process-Focused_Evaluation.md)
@@ -156,6 +160,8 @@ Patterns with solutions in a form of an activity.
 [Whodunnit?](../../Whodunnit.md)
 
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
+
+[Writing to Learn](../../Writing_to_Learn.md)
 
 ## X
 

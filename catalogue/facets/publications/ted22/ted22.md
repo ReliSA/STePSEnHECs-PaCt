@@ -15,3 +15,8 @@ Tedeschi, Mary. In Proceedings of the 27th European Conference on Pattern Langua
 - [Personal Introductions](../../../Personal_Introductions.md)
 - [Structured for Self Study](../../../Structured_for_Self_Study.md)
 - [Writing to Learn](../../../Writing_to_Learn.md)
+
+![Patterns Map](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/ted22/Patterns_Map.png "Patterns Map")
+
+Figure 1: Patterns Map
+

@@ -7,6 +7,7 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [2+2 makes four eyes](../../2_2_makes_four_eyes.md)
 
 ## A
+[A Proper Tool Is Half The Job Done](../../A_Proper_Tool_Is_Half_The_Job_Done.md)
 
 ## B
 [Big Brother](../../Big_Brother.md)
@@ -15,6 +16,8 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [Challenging personal learning goals](../../Challenging_personal_learning_goals.md)
 
 [Check Customer's Privilege](../../Check_Customers_Privilege.md)
+
+[Class Buddy](../../Class_Buddy.md)
 
 [Code Without Code](../../Code_Without_Code.md)
 
@@ -27,6 +30,10 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [Customer's Side Project](../../Non-Essential_Project.md)
 
 ## D
+[Daily Learning Logs](../../Daily_Learning_Logs.md)
+
+[Discussion Board](../../Discussion_Board.md)
+
 [Disproportional Initial Stage](../../Disproportional_Initial_Stage.md)
 
 [Dual Process Ownership](../../Dual_Process_Ownership.md)
@@ -35,6 +42,10 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [Early Meetings Crutch](../../Early_Meetings_Crutch.md)
 
 [Effective product delivery meetings](../../Effective_product_delivery_meetings.md)
+
+[Embracing the Mobile Device](../../Embracing_the_Mobile_Device.md)
+
+[Embracing the Virtual Class](../../Embracing_the_Virtual_Class.md)
 
 [Enough Cooks in the Kitchen](../../Team_Size_Limitation.md)
 
@@ -50,9 +61,13 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [Full Product Backlog from Day One](../../Full_Product_Backlog_from_Day_One.md)
 
 ## G
+[Getting Out of the Void](../../Getting_Out_of_the_Void.md)
+
 [Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
 
 [Grip on the assignment](../../Grip_on_the_assignment.md)
+
+[Grown Up Student](../../Grown_Up_Student.md)
 
 ## H
 [Hackathon](../../Hackathon.md)
@@ -63,6 +78,8 @@ Patterns to be primarily applied by the teachers of course containing student pr
 
 ## I
 [If all pigs would be equal...](../../If_all_pigs_would_be_equal.md)
+
+[Interactive eLearning](../../Interactive_eLearning.md)
 
 ## J
 
@@ -85,6 +102,8 @@ Patterns to be primarily applied by the teachers of course containing student pr
 ## O
 
 ## P
+[Personal Introductions](../../Personal_Introductions.md)
+
 [Process-Focused Evaluation](../../Process-Focused_Evaluation.md)
 
 ## Q
@@ -101,6 +120,8 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [Smaller Project Scope](../../Smaller_Project_Scope.md)
 
 [Strictly Time-Boxed Team Ceremonies](../../Strictly_Time-Boxed_Team_Ceremonies.md)
+
+[Structured for Self Study](../../Structured_for_Self_Study.md)
 
 [Student's accountability](../../Face_their_facts.md)
 
@@ -130,6 +151,8 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [Whodunnit?](../../Whodunnit.md)
 
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
+
+[Writing to Learn](../../Writing_to_Learn.md)
 
 ## X
 

@@ -11,6 +11,7 @@ Patterns with solutions in a form of an artifact, i.e., a document, template, co
 [Big Brother](../../Big_Brother.md)
 
 ## C
+[Class Buddy](../../Class_Buddy.md)
 
 ## D
 [Dual Process Ownership](../../Dual_Process_Ownership.md)
@@ -20,6 +21,7 @@ Patterns with solutions in a form of an artifact, i.e., a document, template, co
 ## F
 
 ## G
+[Grown Up Student](../../Grown_Up_Student.md)
 
 ## H
 

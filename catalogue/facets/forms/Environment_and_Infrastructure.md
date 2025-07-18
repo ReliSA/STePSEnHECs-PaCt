@@ -6,6 +6,7 @@ Patterns with solutions in a form of environment, infrastructure or facilities c
 ## 0-9
 
 ## A
+[A Proper Tool Is Half The Job Done](../../A_Proper_Tool_Is_Half_The_Job_Done.md)
 
 ## B
 
@@ -14,6 +15,9 @@ Patterns with solutions in a form of environment, infrastructure or facilities c
 ## D
 
 ## E
+[Embracing the Mobile Device](../../Embracing_the_Mobile_Device.md)
+
+[Embracing the Virtual Class](../../Embracing_the_Virtual_Class.md)
 
 ## F
 [Flexible Curtain Systems](../../Flexible_Curtain_Systems.md)
@@ -27,6 +31,7 @@ Patterns with solutions in a form of environment, infrastructure or facilities c
 ## H
 
 ## I
+[Interactive eLearning](../../Interactive_eLearning.md)
 
 ## J
 

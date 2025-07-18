@@ -13,6 +13,7 @@ Patterns with solutions in a form of an artifact, i.e., document, template, form
 [Code Without Code](../../Code_Without_Code.md)
 
 ## D
+[Daily Learning Logs](../../Daily_Learning_Logs.md)
 
 ## E
 
@@ -45,6 +46,8 @@ Patterns with solutions in a form of an artifact, i.e., document, template, form
 
 ## S
 [Self-Defined Policies](../../Self-Defined_Policies.md)
+
+[Structured for Self Study](../../Structured_for_Self_Study.md)
 
 ## T
 [Take It Home](../../Take_It_Home.md)

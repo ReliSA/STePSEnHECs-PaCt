@@ -7,6 +7,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [2+2 makes four eyes](../../2_2_makes_four_eyes.md)
 
 ## A
+[A Proper Tool Is Half The Job Done](../../A_Proper_Tool_Is_Half_The_Job_Done.md)
+
 [Ask for Individual Grading](../../Ask_for_Individual_Grading.md)
 
 ## B
@@ -21,6 +23,8 @@ Patterns not relient on the specific methodology used in the student projects.
 
 [Check Customer's Privilege](../../Check_Customers_Privilege.md)
 
+[Class Buddy](../../Class_Buddy.md)
+
 [Clear Up Questions](../../Clear_Up_Questions.md)
 
 [Code Without Code](../../Code_Without_Code.md)
@@ -32,10 +36,18 @@ Patterns not relient on the specific methodology used in the student projects.
 [Customer's Side Project](../../Non-Essential_Project.md)
 
 ## D
+[Daily Learning Logs](../../Daily_Learning_Logs.md)
+
 [Deliver High Quality Products](../../Deliver_High_Quality_Products.md)
+
+[Discussion Board](../../Discussion_Board.md)
 
 ## E
 [Eliminate Bottlenecks](../../Eliminate_Bottlenecks.md)
+
+[Embracing the Mobile Device](../../Embracing_the_Mobile_Device.md)
+
+[Embracing the Virtual Class](../../Embracing_the_Virtual_Class.md)
 
 [Enough Cooks in the Kitchen](../../Team_Size_Limitation.md)
 
@@ -59,6 +71,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [From requirements to tasks](../../From_requirements_to_tasks.md)
 
 ## G
+[Getting Out of the Void](../../Getting_Out_of_the_Void.md)
+
 [Give a First Warning](../../Give_a_First_Warning.md)
 
 [Give Constructive Feedback](../../Give_Constructive_Feedback.md)
@@ -66,6 +80,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Grading individuals is teamwork](../../2_2_makes_four_eyes.md)
 
 [Grip on the assignment](../../Grip_on_the_assignment.md)
+
+[Grown Up Student](../../Grown_Up_Student.md)
 
 ## H
 [Hackathon](../../Hackathon.md)
@@ -76,6 +92,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [If all pigs would be equal...](../../If_all_pigs_would_be_equal.md)
 
 [Improve the Presentation](../../Improve_the_Presentation.md)
+
+[Interactive eLearning](../../Interactive_eLearning.md)
 
 ## J
 
@@ -113,6 +131,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Own Your Work](../../Own_Your_Work.md)
 
 ## P
+[Personal Introductions](../../Personal_Introductions.md)
+
 [Plan External Worktime](../../Plan_External_Worktime.md)
 
 [Process-Focused Evaluation](../../Process-Focused_Evaluation.md)
@@ -134,6 +154,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Start Immediately](../../Start_Immediately.md)
 
 [Student's accountability](../../Face_their_facts.md)
+
+[Structured for Self Study](../../Structured_for_Self_Study.md)
 
 [Support_the_Leader](../../Support_the_Leader.md)
 
@@ -166,6 +188,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
 
 [Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
+
+[Writing to Learn](../../Writing_to_Learn.md)
 
 ## X
 
