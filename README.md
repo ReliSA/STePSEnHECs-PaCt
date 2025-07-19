@@ -5,15 +5,15 @@ We started this catalogue to collect and consolidate the knowledge on teaching (
 
 ## Patterns catalogue
 
-The [catalogue]](Patterns_catalogue.md) proper.
+The [catalogue](Patterns_catalogue.md) proper.
 
 ### Common context
 
 The patterns in this catalogue are meant to be applied in higher education software engineering courses that include student projects. However, some of the patters can be useful in other conditions as well and some were even intended for broader or different settings by their authors.
 
-### [Faceted classification](catalogue/facets/facets.md)
+### Faceted classification
 
-List patterns by a selected
+List patterns by a selected [facet](catalogue/facets/facets.md)
 - solution [form](catalogue/facets/forms/forms.md),
 - project [methodology](catalogue/facets/methodologies/methodologies.md),
 - [mode](catalogue/facets/modes/modes.md) of teaching,
@@ -32,9 +32,9 @@ You can also make use of the [discussion](https://github.com/ReliSA/STePSEnHECs-
 
 Find templates used for individual pattern or facet pages in their [folder](templates).
 
-## [References](References.md)
+## References
 
-Literature and online sources used to gather the patterns.
+[Literature and online sources](References.md) used to gather the patterns.
 
 ## Notes
 
