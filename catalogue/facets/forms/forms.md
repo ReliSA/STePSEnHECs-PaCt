@@ -3,12 +3,8 @@
 
 Pattern classification by the form the solution takes.
 
-[Artifact](Artifact.md)
-
-[Activity](Activity.md)
-
-[Environment and Infrastructure](Environment_and_Infrastructure.md)
-
-[Role](Role.md)
-
-[Tool](Tool.md)
+- [Artifact](Artifact.md)
+- [Activity](Activity.md)
+- [Environment and Infrastructure](Environment_and_Infrastructure.md)
+- [Role](Role.md)
+- [Tool](Tool.md)

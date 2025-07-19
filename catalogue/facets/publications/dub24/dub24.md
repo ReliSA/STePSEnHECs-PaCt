@@ -3,7 +3,6 @@
 
 Dubbert, Dennis, and Kohls, Christian. In Proceedings of the 29th European Conference on Pattern Languages of Programs, People, and Practices. Association for Computing Machinery, New York, NY, USA, July 2024. Pages 1-24. [[link]](https://doi.org/10.1145/3698322.3698331)
 
-
 - [Learning alcove](../../../Learning_alcove.md)
 - [Learning box](../../../Learning_box.md)
 - [Learning corner](../../../Learning_corner.md)

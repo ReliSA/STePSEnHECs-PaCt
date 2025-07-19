@@ -3,11 +3,9 @@
 
 Miscellaneous categories of pattern classification.
 
-[Guidance](Guidance.md)
-
-[Process Tailoring](Process_Tailoring.md)
-
-[Team Dynamics](Team_Dynamics.md)
+- [Guidance](Guidance.md)
+- [Process Tailoring](Process_Tailoring.md)
+- [Team Dynamics](Team_Dynamics.md)
 
 
 

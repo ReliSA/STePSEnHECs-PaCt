@@ -33,10 +33,7 @@ Pinho, Daniel, Picha, Petr and Brada, Premek. In EuroPLop '25: Proceedings of th
 
 Figure 1: Current state of the pattern language
 
-![Identified relationships between pattern candidates in the Team and Project
-Setup category.](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/pin25/patterns.jpg "Identified relationships between pattern candidates in the Team and Project
-Setup category")
+![Identified relationships between pattern candidates in the Team and Project Setup category.](https://github.com/ReliSA/STePSEnHECs-PaCt/blob/main/catalogue/facets/publications/pin25/patterns.jpg "Identified relationships between pattern candidates in the Team and Project Setup category")
 
-Figure 2: Identified relationships between pattern candidates in the Team and Project
-Setup category
+Figure 2: Identified relationships between pattern candidates in the Team and Project Setup category
 

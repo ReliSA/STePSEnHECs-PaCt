@@ -3,8 +3,7 @@
 
 Pattern classification by the methodology the student projects follow/apply.
 
-[Agile](Agile.md)
-
-[General](General.md)
+- [Agile](Agile.md)
+- [General](General.md)
 
 
