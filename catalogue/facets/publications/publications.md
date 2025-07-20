@@ -24,6 +24,8 @@ Pattern categorization by the publication or source they appear in.
 ## H
 [Hybrid Events in Education](koh22/koh22.md)
 
+[Hybrid learning spaces](koh17/koh17.md)
+
 ## I
 [Improving Coding Workshops: A Pattern Collection](ber24/ber24.md)
 

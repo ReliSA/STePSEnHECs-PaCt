@@ -26,6 +26,10 @@ Browse
 ## B
 [Big Brother](catalogue/Big_Brother.md)
 
+[Bring Your Own Device](catalogue/Bring_Your_Own_Device.md)
+
+[BYOD](catalogue/Bring_Your_Own_Device.md)
+
 ## C
 [Celebrate Your Team](catalogue/Keep_Team_Spirit.md)
 
@@ -45,6 +49,8 @@ Browse
 
 [Connect the pieces](catalogue/Connect_the_pieces.md)
 
+[Connected Interactive Walls](catalogue/Large_Interactive_Walls.md)
+
 [Cross-Pollination](catalogue/Cross-Pollination.md)
 
 [Customer's Side Project](catalogue/Non-Essential_Project.md)
@@ -53,6 +59,8 @@ Browse
 [Daily Learning Logs](catalogue/Daily_Learning_Logs.md)
 
 [Deliver High Quality Products](catalogue/Deliver_High_Quality_Products.md)
+
+[Device Cabinet](catalogue/Device_Cabinet.md)
 
 [Discussion Board](catalogue/Discussion_Board.md)
 
@@ -116,12 +124,16 @@ Browse
 
 [Higher Ceremony](catalogue/Higher_Ceremony.md)
 
+[Hybrid Learning Space](catalogue/Hybrid_Learning_Space.md)
+
 ## I
 [If all pigs would be equal...](catalogue/If_all_pigs_would_be_equal.md)
 
 [Improve the Presentation](catalogue/Improve_the_Presentation.md)
 
 [Interactive eLearning](catalogue/Interactive_eLearning.md)
+
+[Interactive Tangible Objects](catalogue/Interactive_Tangible_Objects.md)
 
 ## J
 
@@ -131,6 +143,8 @@ Browse
 [Keep Team Spirit](catalogue/Keep_Team_Spirit.md)
 
 ## L
+[Large Interactive Walls](catalogue/Large_Interactive_Walls.md)
+
 [Learning alcove](catalogue/Learning_alcove.md)
 
 [Learning box](catalogue/Learning_box.md)
@@ -185,6 +199,8 @@ Browse
 
 [Share Expectations](catalogue/Share_Expectations.md)
 
+[Shared and Individual Workspaces](catalogue/Shared_and_Individual_Workspaces.md)
+
 [Smaller Project Scope](catalogue/Smaller_Project_Scope.md)
 
 [Spread Tasks Appropriately](catalogue/Spread_Tasks_Appropriately.md)
@@ -200,6 +216,8 @@ Browse
 [Support_the_Leader](catalogue/Support_the_Leader.md)
 
 ## T
+[Tablet Trolley](catalogue/Device_Cabinet.md)
+
 [Take It Home](catalogue/Take_It_Home.md)
 
 [Teaching-/Learning Experimentation Rooms](catalogue/Teaching-Learning_Experimentation_Rooms.md)
@@ -209,6 +227,8 @@ Browse
 [Team's Choice](catalogue/Teams_Choice.md)
 
 [Teamwork makes the dream work](catalogue/Teamwork_makes_the_dream_work.md)
+
+[Technology Concierge](catalogue/Technology_Concierge.md)
 
 [TED Evenings](catalogue/TED_Evenings.md)
 
@@ -230,6 +250,8 @@ Browse
 [Whodunnit?](catalogue/Whodunnit.md)
 
 [Work on the Non-Business-Critical](catalogue/Non-Essential_Project.md)
+
+[Working Environment Guaranteed](catalogue/Working_Environment_Guaranteed.md)
 
 [Workstation with (interactive) displays](catalogue/Workstation_with_interactive_displays.md)
 

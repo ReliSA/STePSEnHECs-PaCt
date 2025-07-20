@@ -14,6 +14,10 @@ Patterns not relient on the specific methodology used in the student projects.
 ## B
 [Big Brother](../../Big_Brother.md)
 
+[Bring Your Own Device](../../Bring_Your_Own_Device.md)
+
+[BYOD](../../Bring_Your_Own_Device.md)
+
 ## C
 [Celebrate Your Team](../../Keep_Team_Spirit.md)
 
@@ -31,6 +35,8 @@ Patterns not relient on the specific methodology used in the student projects.
 
 [Collecting observations](../../Lest_not_forget.md)
 
+[Connected Interactive Walls](../../Large_Interactive_Walls.md)
+
 [Connect the pieces](../../Connect_the_pieces.md)
 
 [Customer's Side Project](../../Non-Essential_Project.md)
@@ -39,6 +45,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Daily Learning Logs](../../Daily_Learning_Logs.md)
 
 [Deliver High Quality Products](../../Deliver_High_Quality_Products.md)
+
+[Device Cabinet](../../Device_Cabinet.md)
 
 [Discussion Board](../../Discussion_Board.md)
 
@@ -88,12 +96,16 @@ Patterns not relient on the specific methodology used in the student projects.
 
 [Hands On First](../../Hands_On_First.md)
 
+[Hybrid Learning Space](../../Hybrid_Learning_Space.md)
+
 ## I
 [If all pigs would be equal...](../../If_all_pigs_would_be_equal.md)
 
 [Improve the Presentation](../../Improve_the_Presentation.md)
 
 [Interactive eLearning](../../Interactive_eLearning.md)
+
+[Interactive Tangible Objects](../../Interactive_Tangible_Objects.md)
 
 ## J
 
@@ -103,6 +115,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Keep Team Spirit](../../Keep_Team_Spirit.md)
 
 ## L
+[Large Interactive Walls](../../Large_Interactive_Walls.md)
+
 [Learning alcove](../../Learning_alcove.md)
 
 [Learning box](../../Learning_box.md)
@@ -147,6 +161,8 @@ Patterns not relient on the specific methodology used in the student projects.
 ## S
 [Share Expectations](../../Share_Expectations.md)
 
+[Shared and Individual Workspaces](../../Shared_and_Individual_Workspaces.md)
+
 [Smaller Project Scope](../../Smaller_Project_Scope.md)
 
 [Spread Tasks Appropriately](../../Spread_Tasks_Appropriately.md)
@@ -160,6 +176,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
+[Tablet Trolley](../../Device_Cabinet.md)
+
 [Take It Home](../../Take_It_Home.md)
 
 [Teaching-/Learning Experimentation Rooms](../../Teaching-Learning_Experimentation_Rooms.md)
@@ -169,6 +187,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Team's Choice](../../Teams_Choice.md)
 
 [Teamwork makes the dream work](../../Teamwork_makes_the_dream_work.md)
+
+[Technology Concierge](../../Technology_Concierge.md)
 
 [TED Evenings](../../TED_Evenings.md)
 
@@ -186,6 +206,8 @@ Patterns not relient on the specific methodology used in the student projects.
 [Whodunnit?](../../Whodunnit.md)
 
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
+
+[Working Environment Guaranteed](../../Working_Environment_Guaranteed.md)
 
 [Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
 

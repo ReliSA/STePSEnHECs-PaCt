@@ -11,8 +11,10 @@ Patterns dealing with designing a higher education course in software engineerin
 ## B
 
 ## C
+[Connected Interactive Walls](../../Large_Interactive_Walls.md)
 
 ## D
+[Device Cabinet](../../Device_Cabinet.md)
 
 ## E
 [Embracing the Mobile Device](../../Embracing_the_Mobile_Device.md)
@@ -29,6 +31,7 @@ Patterns dealing with designing a higher education course in software engineerin
 ## G
 
 ## H
+[Hybrid Learning Space](../../Hybrid_Learning_Space.md)
 
 ## I
 [Interactive eLearning](../../Interactive_eLearning.md)
@@ -38,6 +41,8 @@ Patterns dealing with designing a higher education course in software engineerin
 ## K
 
 ## L
+[Large Interactive Walls](../../Large_Interactive_Walls.md)
+
 [Learning alcove](../../Learning_alcove.md)
 
 [Learning box](../../Learning_box.md)
@@ -62,10 +67,16 @@ Patterns dealing with designing a higher education course in software engineerin
 ## R
 
 ## S
+[Shared and Individual Workspaces](../../Shared_and_Individual_Workspaces.md)
+
 [Structured for Self Study](../../Structured_for_Self_Study.md)
 
 ## T
+[Tablet Trolley](../../Device_Cabinet.md)
+
 [Teaching-/Learning Experimentation Rooms](../../Teaching-Learning_Experimentation_Rooms.md)
+
+[Technology Concierge](../../Technology_Concierge.md)
 
 ## U
 
@@ -73,6 +84,8 @@ Patterns dealing with designing a higher education course in software engineerin
 [Video conference booth](../../Video_conference_booth.md)
 
 ## W
+[Working Environment Guaranteed](../../Working_Environment_Guaranteed.md)
+
 [Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
 
 ## X

@@ -12,6 +12,10 @@ Patterns to be primarily applied by the teachers of course containing student pr
 ## B
 [Big Brother](../../Big_Brother.md)
 
+[Bring Your Own Device](../../Bring_Your_Own_Device.md)
+
+[BYOD](../../Bring_Your_Own_Device.md)
+
 ## C
 [Challenging personal learning goals](../../Challenging_personal_learning_goals.md)
 
@@ -80,6 +84,8 @@ Patterns to be primarily applied by the teachers of course containing student pr
 [If all pigs would be equal...](../../If_all_pigs_would_be_equal.md)
 
 [Interactive eLearning](../../Interactive_eLearning.md)
+
+[Interactive Tangible Objects](../../Interactive_Tangible_Objects.md)
 
 ## J
 

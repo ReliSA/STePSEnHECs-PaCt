@@ -10,8 +10,10 @@ Patterns to be primarily applied by the organization running the courses contain
 ## B
 
 ## C
+[Connected Interactive Walls](../../Large_Interactive_Walls.md)
 
 ## D
+[Device Cabinet](../../Device_Cabinet.md)
 
 ## E
 
@@ -25,6 +27,7 @@ Patterns to be primarily applied by the organization running the courses contain
 ## G
 
 ## H
+[Hybrid Learning Space](../../Hybrid_Learning_Space.md)
 
 ## I
 
@@ -33,6 +36,8 @@ Patterns to be primarily applied by the organization running the courses contain
 ## K
 
 ## L
+[Large Interactive Walls](../../Large_Interactive_Walls.md)
+
 [Learning alcove](../../Learning_alcove.md)
 
 [Learning box](../../Learning_box.md)
@@ -57,9 +62,14 @@ Patterns to be primarily applied by the organization running the courses contain
 ## R
 
 ## S
+[Shared and Individual Workspaces](../../Shared_and_Individual_Workspaces.md)
 
 ## T
+[Tablet Trolley](../../Device_Cabinet.md)
+
 [Teaching-/Learning Experimentation Rooms](../../Teaching-Learning_Experimentation_Rooms.md)
+
+[Technology Concierge](../../Technology_Concierge.md)
 
 ## U
 
@@ -67,6 +77,8 @@ Patterns to be primarily applied by the organization running the courses contain
 [Video conference booth](../../Video_conference_booth.md)
 
 ## W
+[Working Environment Guaranteed](../../Working_Environment_Guaranteed.md)
+
 [Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
 
 ## X

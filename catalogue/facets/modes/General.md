@@ -12,6 +12,10 @@ Patterns applicable generally in now specific teaching/learning mode.
 ## B
 [Big Brother](../../Big_Brother.md)
 
+[Bring Your Own Device](../../Bring_Your_Own_Device.md)
+
+[BYOD](../../Bring_Your_Own_Device.md)
+
 ## C
 [Celebrate Your Team](../../Keep_Team_Spirit.md)
 
@@ -29,12 +33,16 @@ Patterns applicable generally in now specific teaching/learning mode.
 
 [Connect the pieces](../../Connect_the_pieces.md)
 
+[Connected Interactive Walls](../../Large_Interactive_Walls.md)
+
 [Cross-Pollination](../../Cross-Pollination.md)
 
 [Customer's Side Project](../../Non-Essential_Project.md)
 
 ## D
 [Deliver High Quality Products](../../Deliver_High_Quality_Products.md)
+
+[Device Cabinet](../../Device_Cabinet.md)
 
 [Disproportional Initial Stage](../../Disproportional_Initial_Stage.md)
 
@@ -88,10 +96,14 @@ Patterns applicable generally in now specific teaching/learning mode.
 
 [Higher Ceremony](../../Higher_Ceremony.md)
 
+[Hybrid Learning Space](../../Hybrid_Learning_Space.md)
+
 ## I
 [If all pigs would be equal...](../../If_all_pigs_would_be_equal.md)
 
 [Improve the Presentation](../../Improve_the_Presentation.md)
+
+[Interactive Tangible Objects](../../Interactive_Tangible_Objects.md)
 
 ## J
 
@@ -101,6 +113,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 [Keep Team Spirit](../../Keep_Team_Spirit.md)
 
 ## L
+[Large Interactive Walls](../../Large_Interactive_Walls.md)
+
 [Learning alcove](../../Learning_alcove.md)
 
 [Learning box](../../Learning_box.md)
@@ -153,6 +167,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 
 [Share Expectations](../../Share_Expectations.md)
 
+[Shared and Individual Workspaces](../../Shared_and_Individual_Workspaces.md)
+
 [Smaller Project Scope](../../Smaller_Project_Scope.md)
 
 [Spread Tasks Appropriately](../../Spread_Tasks_Appropriately.md)
@@ -166,6 +182,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 [Support_the_Leader](../../Support_the_Leader.md)
 
 ## T
+[Tablet Trolley](../../Device_Cabinet.md)
+
 [Take It Home](../../Take_It_Home.md)
 
 [Teaching-/Learning Experimentation Rooms](../../Teaching-Learning_Experimentation_Rooms.md)
@@ -175,6 +193,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 [Team's Choice](../../Teams_Choice.md)
 
 [Teamwork makes the dream work](../../Teamwork_makes_the_dream_work.md)
+
+[Technology Concierge](../../Technology_Concierge.md)
 
 [TED Evenings](../../TED_Evenings.md)
 
@@ -196,6 +216,8 @@ Patterns applicable generally in now specific teaching/learning mode.
 [Whodunnit?](../../Whodunnit.md)
 
 [Work on the Non-Business-Critical](../../Non-Essential_Project.md)
+
+[Working Environment Guaranteed](../../Working_Environment_Guaranteed.md)
 
 [Workstation with (interactive) displays](../../Workstation_with_interactive_displays.md)
 

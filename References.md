@@ -47,6 +47,8 @@ _(Ordered alphabetically by the key.)_
 
 [KIR'18] Kirschner, Paul A., Claessens, Luce Corneel Aline and Raaijmakers, Steven Frederik. "Op de schouders van reuzen: Inspirerende inzichten uit de cognitieve psychologie voor leerkrachten". In Education and Learning: Development in Interaction. Ten Brink Uitgevers, 2018. [[link]](https://research-portal.uu.nl/en/publications/op-de-schouders-van-reuzen-inspirerende-inzichten-uit-de-cognitie)
 
+[[KOH'17]](catalogue/facets/publications/koh17/koh17.md) Kohls, Christian. "Hybrid learning spaces." In Proceedings of the VikingPLoP 2017 conference on pattern languages of programs. Association for Computing Machinery, New York, 2017. Pages 1-12. [[link]](https://doi.org/10.1145/3158491.3158505)
+
 [[KOH'22]](catalogue/facets/publications/koh22/koh22.md) Kohls, Christian. "Hybrid Events in Education". In Proceedings of the 27th European Conference on Pattern Languages of Programs (EuroPLop ’22). Association for Computing Machinery, New York, NY, USA, July 2022. Pages 1-7. [[link]](https://doi.org/10.1145/3551902.3551976)
 
 [[KOH'23]] Kohls, Christian, Dubbert, Dennis and Kehrer, Mareike. "The dynamic campus - flexible learning spaces for hybrid education". In Proceedings of the 28th European Conference on Pattern Languages of Programs. Association for Computing Machinery, New York, NY, USA, July 2023. Pages 1-11. [[link]](https://doi.org/10.1145/3628034.3628062)

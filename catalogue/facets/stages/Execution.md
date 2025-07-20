@@ -10,6 +10,10 @@ Patterns applicable during the project's execution.
 ## B
 [Big Brother](../../Big_Brother.md)
 
+[Bring Your Own Device](../../Bring_Your_Own_Device.md)
+
+[BYOD](../../Bring_Your_Own_Device.md)
+
 ## C
 [Challenging personal learning goals](../../Challenging_personal_learning_goals.md)
 
@@ -54,6 +58,8 @@ Patterns applicable during the project's execution.
 
 ## I
 [Improve the Presentation](../../Improve_the_Presentation.md)
+
+[Interactive Tangible Objects](../../Interactive_Tangible_Objects.md)
 
 ## J
 

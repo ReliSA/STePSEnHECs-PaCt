@@ -49,6 +49,8 @@ Patterns with solutions in a form of an artifact, i.e., a document, template, co
 ## S
 
 ## T
+[Technology Concierge](../../Technology_Concierge.md)
+
 [The Mentor-Assessor Role](../../The_Mentor-Assessor_Role.md)
 
 ## U
