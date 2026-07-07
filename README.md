@@ -1,5 +1,5 @@
 Home
-# Catalog of Student Project Patterns (CaSPP)
+# Student Team Project Patterns (STePPs) Catalog
 
 We started this catalogue to collect and consolidate the knowledge on teaching (primarily) software engineering courses with team student project in higher education in form of patterns. To put it simply, patterns are regularly occurring solutions to common problems in the given domain with positive effects.  This catalogue is an on-going effort with the aim to create a space where the wider community can contribute and thus, together we can reconcile the various sources and foster discussion on understanding and descriptions of the individual patterns. So feel free to fork this repository and send us pull requests when you have something to contribute.
 
