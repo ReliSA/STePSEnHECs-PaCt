@@ -1,5 +1,5 @@
-[Home](README.md) > Catalogue
-# Patterns Catalogue
+[Home](README.md) > Catalog
+# Patterns Catalog
 
 [Template](templates/template-pattern.md) for new pattern contents.
 
