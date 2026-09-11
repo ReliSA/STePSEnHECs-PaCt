@@ -10,7 +10,7 @@ The [catalog](Patterns_catalogue.md) proper.
 
 ### Common context
 
-The patterns in this catalogue are meant to be applied in higher education software engineering courses that include student projects. However, some of the patters can be useful in other conditions as well and some were even intended for broader or different settings by their authors.
+The patterns in this catalog are meant to be applied in higher education software engineering courses that include student projects. However, some of the patters can be useful in other conditions as well and some were even intended for broader or different settings by their authors.
 
 ### Faceted classification
 
