@@ -6,7 +6,7 @@ We started this catalogue to collect and consolidate the knowledge on teaching (
 ---
 ## Patterns catalogue
 
-The [catalogue](Patterns_catalogue.md) proper.
+The [catalog](Patterns_catalogue.md) proper.
 
 ### Common context
 
